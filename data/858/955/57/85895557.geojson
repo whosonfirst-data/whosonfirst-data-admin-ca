@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-79.555105,43.783196,-79.555105,43.783196",
     "geom:latitude":43.783196,
     "geom:longitude":-79.555105,
@@ -14,7 +14,7 @@
     "lbl:bbox":"-79.560105,43.778196,-79.550105,43.788196",
     "lbl:latitude":43.783196,
     "lbl:longitude":-79.555105,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":43.781837,
     "mps:longitude":-79.551306,
     "mz:hierarchy_label":0,
@@ -23,8 +23,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":14.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":14,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
         "Pine Valley Drive and Highway 7"
@@ -38,7 +38,7 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
-        101740741,
+        890458415,
         85633041,
         85682057,
         101736093
@@ -59,7 +59,7 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101740741,
+            "county_id":890458415,
             "neighbourhood_id":85895557,
             "region_id":85682057
         },
@@ -75,7 +75,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309578,
+    "wof:lastmodified":1594246550,
     "wof:name":"Pine Valley Drive and Highway 7",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

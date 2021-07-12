@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-79.42349,44.312575,-79.42349,44.312575",
     "geom:latitude":44.312575,
     "geom:longitude":-79.42349,
@@ -14,7 +14,7 @@
     "lbl:bbox":"-79.42849,44.307575,-79.41849,44.317575",
     "lbl:latitude":44.312575,
     "lbl:longitude":-79.42349,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":44.312447,
     "mps:longitude":-79.422483,
     "mz:hierarchy_label":0,
@@ -23,8 +23,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":15.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":15,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
         "Sedores"
@@ -58,7 +58,7 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
-        101740741,
+        890458415,
         85633041,
         85682057,
         101735969
@@ -78,7 +78,7 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101740741,
+            "county_id":890458415,
             "neighbourhood_id":85895243,
             "region_id":85682057
         },
@@ -94,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309577,
+    "wof:lastmodified":1594246468,
     "wof:name":"Sedores",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

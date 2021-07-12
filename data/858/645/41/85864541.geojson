@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-79.247933,43.12129,-79.247933,43.12129",
     "geom:latitude":43.12129,
     "geom:longitude":-79.247933,
@@ -14,7 +14,7 @@
     "lbl:bbox":"-79.252933,43.11629,-79.242933,43.12629",
     "lbl:latitude":43.12129,
     "lbl:longitude":-79.247933,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":43.13368,
     "mps:longitude":-79.244686,
     "mz:hierarchy_label":0,
@@ -23,8 +23,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":13.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":13,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
         "Glenridge"
@@ -64,7 +64,7 @@
         101736345,
         85633041,
         85682057,
-        101740727
+        890456991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +88,7 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101740727,
+            "county_id":890456991,
             "neighbourhood_id":85864541,
             "region_id":85682057
         }
@@ -97,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309583,
+    "wof:lastmodified":1594246327,
     "wof:name":"Glenridge",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

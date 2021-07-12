@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-80.077456,43.934308,-80.077456,43.934308",
     "geom:latitude":43.934308,
     "geom:longitude":-80.077456,
@@ -13,7 +13,7 @@
     "lbl:bbox":"-80.082456,43.929308,-80.072456,43.939308",
     "lbl:latitude":43.934308,
     "lbl:longitude":-80.077456,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":43.935516,
     "mps:longitude":-80.075209,
     "mz:hierarchy_label":0,
@@ -22,8 +22,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":14.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":14,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
         "Purple Hill"
@@ -63,7 +63,7 @@
         101736109,
         85633041,
         85682057,
-        101740765
+        890456799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +88,7 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101740765,
+            "county_id":890456799,
             "neighbourhood_id":85895453,
             "region_id":85682057
         }
@@ -97,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309571,
+    "wof:lastmodified":1594246521,
     "wof:name":"Purple Hill",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

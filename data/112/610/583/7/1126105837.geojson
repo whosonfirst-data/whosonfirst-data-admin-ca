@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-79.92854,43.66775,-79.92854,43.66775",
     "geom:latitude":43.66775,
     "geom:longitude":-79.92854,
@@ -16,10 +16,10 @@
     "lbl:bbox":"-79.93354,43.66275,-79.92354,43.67275",
     "lbl:latitude":43.66775,
     "lbl:longitude":-79.92854,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":15.0,
+    "mz:min_zoom":15,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"CA",
     "qs_pg:gn_country":"CA",
@@ -52,8 +52,7 @@
         102191575,
         85633041,
         101736091,
-        890458413,
-        101740713
+        890458413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,18 +71,10 @@
             "locality_id":101736091,
             "neighbourhood_id":1126105837,
             "region_id":85682057
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633041,
-            "county_id":890458413,
-            "locality_id":101740713,
-            "neighbourhood_id":1126105837,
-            "region_id":85682057
         }
     ],
     "wof:id":1126105837,
-    "wof:lastmodified":1566520268,
+    "wof:lastmodified":1594246619,
     "wof:name":"Glen Williams",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

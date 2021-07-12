@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-80.03892,43.9089,-80.03892,43.9089",
     "geom:latitude":43.9089,
     "geom:longitude":-80.03892,
@@ -16,10 +16,10 @@
     "lbl:bbox":"-80.04392,43.9039,-80.03392,43.9139",
     "lbl:latitude":43.9089,
     "lbl:longitude":-80.03892,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":15.0,
+    "mz:min_zoom":15,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0420\u043e\u0443\u0437\u0432\u0438\u043b"
@@ -103,8 +103,7 @@
         102191575,
         85633041,
         101736249,
-        890456343,
-        101740755
+        890456343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -123,18 +122,10 @@
             "locality_id":101736249,
             "neighbourhood_id":1126078019,
             "region_id":85682057
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633041,
-            "county_id":890456343,
-            "locality_id":101740755,
-            "neighbourhood_id":1126078019,
-            "region_id":85682057
         }
     ],
     "wof:id":1126078019,
-    "wof:lastmodified":1566520344,
+    "wof:lastmodified":1594246604,
     "wof:name":"Roseville",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

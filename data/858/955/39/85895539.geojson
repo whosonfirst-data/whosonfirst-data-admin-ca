@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-79.40506,43.851474,-79.40506,43.851474",
     "geom:latitude":43.851474,
     "geom:longitude":-79.40506,
@@ -14,7 +14,7 @@
     "lbl:bbox":"-79.41006,43.846474,-79.40006,43.856474",
     "lbl:latitude":43.851474,
     "lbl:longitude":-79.40506,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":43.856282,
     "mps:longitude":-79.409693,
     "mz:hierarchy_label":0,
@@ -23,8 +23,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":15.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":15,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
         "Doncrest"
@@ -61,7 +61,7 @@
         101736179,
         85633041,
         85682057,
-        101740741
+        890458415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +85,7 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101740741,
+            "county_id":890458415,
             "neighbourhood_id":85895539,
             "region_id":85682057
         }
@@ -94,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309578,
+    "wof:lastmodified":1594246544,
     "wof:name":"Doncrest",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

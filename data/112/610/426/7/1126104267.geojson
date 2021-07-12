@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-80.484251,43.451229,-80.484251,43.451229",
     "geom:latitude":43.451229,
     "geom:longitude":-80.484251,
@@ -14,10 +14,10 @@
     "lbl:bbox":"-80.489251,43.446229,-80.479251,43.456229",
     "lbl:latitude":43.451229,
     "lbl:longitude":-80.484251,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":15.0,
+    "mz:min_zoom":15,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"CA",
     "qs_pg:gn_country":null,
@@ -46,9 +46,8 @@
         85682057,
         102191575,
         85633041,
-        101740709,
-        890456483,
-        101735989
+        101735989,
+        890456483
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,21 +62,13 @@
             "continent_id":102191575,
             "country_id":85633041,
             "county_id":890456483,
-            "locality_id":101740709,
-            "neighbourhood_id":1126104267,
-            "region_id":85682057
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633041,
-            "county_id":890456483,
             "locality_id":101735989,
             "neighbourhood_id":1126104267,
             "region_id":85682057
         }
     ],
     "wof:id":1126104267,
-    "wof:lastmodified":1566520268,
+    "wof:lastmodified":1594246617,
     "wof:name":"Bridgeport",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

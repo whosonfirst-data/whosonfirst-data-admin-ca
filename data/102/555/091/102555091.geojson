@@ -19,7 +19,7 @@
     "mz:categories":[],
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":13.0,
+    "mz:min_zoom":13,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u062a\u0648\u0631\u0648\u0646\u062a\u0648 \u0628\u064a\u0631\u0633\u0648\u0646 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
@@ -163,10 +163,9 @@
         85895633,
         102191575,
         85633041,
-        101740755,
+        101735893,
         890456343,
-        85682057,
-        101735893
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -186,16 +185,6 @@
             "continent_id":102191575,
             "country_id":85633041,
             "county_id":890456343,
-            "locality_id":101740755,
-            "microhood_id":1108905413,
-            "neighbourhood_id":85895633,
-            "region_id":85682057
-        },
-        {
-            "campus_id":102555091,
-            "continent_id":102191575,
-            "country_id":85633041,
-            "county_id":890456343,
             "locality_id":101735893,
             "microhood_id":1108905413,
             "neighbourhood_id":85895633,
@@ -203,7 +192,7 @@
         }
     ],
     "wof:id":102555091,
-    "wof:lastmodified":1582309536,
+    "wof:lastmodified":1594246593,
     "wof:name":"Toronto Lester B Pearson International Airport",
     "wof:parent_id":1108905413,
     "wof:placetype":"campus",

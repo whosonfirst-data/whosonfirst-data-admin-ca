@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-79.27314,43.19048,-79.27314,43.19048",
     "geom:latitude":43.19048,
     "geom:longitude":-79.27314,
@@ -14,7 +14,7 @@
     "lbl:bbox":"-79.27814,43.18548,-79.26814,43.19548",
     "lbl:latitude":43.19048,
     "lbl:longitude":-79.27314,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":43.189965,
     "mps:longitude":-79.28607,
     "mz:hierarchy_label":0,
@@ -23,8 +23,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":13.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":13,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
         "Saint. George's Point"
@@ -63,7 +63,7 @@
         101736345,
         85633041,
         85682057,
-        101740727
+        890456991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +87,7 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101740727,
+            "county_id":890456991,
             "neighbourhood_id":85875035,
             "region_id":85682057
         }
@@ -96,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309609,
+    "wof:lastmodified":1594246369,
     "wof:name":"Saint. George's Point",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

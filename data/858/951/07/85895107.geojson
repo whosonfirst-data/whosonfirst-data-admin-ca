@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-79.601206,43.625062,-79.601206,43.625062",
     "geom:latitude":43.625062,
     "geom:longitude":-79.601206,
@@ -14,7 +14,7 @@
     "lbl:bbox":"-79.606206,43.620062,-79.596206,43.630062",
     "lbl:latitude":43.625062,
     "lbl:longitude":-79.601206,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":43.623957,
     "mps:longitude":-79.600945,
     "mz:hierarchy_label":0,
@@ -23,8 +23,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":14.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":14,
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:deu_x_preferred":[
@@ -43,7 +43,7 @@
     "wd:wordcount":35,
     "wof:belongsto":[
         102191575,
-        101740755,
+        890456343,
         85633041,
         85682057,
         101735893
@@ -64,7 +64,7 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101740755,
+            "county_id":890456343,
             "neighbourhood_id":85895107,
             "region_id":85682057
         },
@@ -80,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309609,
+    "wof:lastmodified":1594246432,
     "wof:name":"Applewood",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-79.475098,44.205836,-79.475098,44.205836",
     "geom:latitude":44.205836,
     "geom:longitude":-79.475098,
@@ -14,7 +14,7 @@
     "lbl:bbox":"-79.480098,44.200836,-79.470098,44.210836",
     "lbl:latitude":44.205836,
     "lbl:longitude":-79.475098,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":44.214469,
     "mps:longitude":-79.483803,
     "mz:hierarchy_label":0,
@@ -23,8 +23,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":16.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":16,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
         "Youngs Harbour"
@@ -60,9 +60,8 @@
         85682057,
         102191575,
         85633041,
-        101740741,
-        890458415,
-        101735969
+        101735969,
+        890458415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,14 +79,6 @@
             "continent_id":102191575,
             "country_id":85633041,
             "county_id":890458415,
-            "locality_id":101740741,
-            "neighbourhood_id":85895365,
-            "region_id":85682057
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633041,
-            "county_id":890458415,
             "locality_id":101735969,
             "neighbourhood_id":85895365,
             "region_id":85682057
@@ -97,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309573,
+    "wof:lastmodified":1594246499,
     "wof:name":"Youngs Harbour",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

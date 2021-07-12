@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-79.699696,43.466912,-79.699696,43.466912",
     "geom:latitude":43.466912,
     "geom:longitude":-79.699696,
@@ -14,7 +14,7 @@
     "lbl:bbox":"-79.704696,43.461912,-79.694696,43.471912",
     "lbl:latitude":43.466912,
     "lbl:longitude":-79.699696,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":43.461474,
     "mps:longitude":-79.70283,
     "mz:hierarchy_label":0,
@@ -23,8 +23,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":15.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":15,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
         "Castle Green"
@@ -65,7 +65,7 @@
     "wd:wordcount":36,
     "wof:belongsto":[
         102191575,
-        101740713,
+        890458413,
         85633041,
         85682057,
         101735889
@@ -85,7 +85,7 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101740713,
+            "county_id":890458413,
             "neighbourhood_id":85895049,
             "region_id":85682057
         },
@@ -101,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309603,
+    "wof:lastmodified":1594246416,
     "wof:name":"Castle Green",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000884,
-    "geom:area_square_m":7870612.878654,
+    "geom:area_square_m":7870612.878656,
     "geom:bbox":"-79.2090661621,43.9534845286,-79.1712133789,43.9889811006",
     "geom:latitude":43.971777,
     "geom:longitude":-79.191642,
@@ -13,7 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.975078,
     "lbl:longitude":-79.195497,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":43.97078,
     "mps:longitude":-79.192004,
     "mz:hierarchy_label":1,
@@ -22,8 +22,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":18.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":18,
     "mz:note":"ghost town! https://en.wikipedia.org/wiki/Pickering,_Ontario#Communities",
     "mz:tier_locality":5,
     "mz:tier_metro":1,
@@ -127,8 +127,7 @@
         102191575,
         85633041,
         101736359,
-        890456493,
-        101740717
+        890456493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -148,21 +147,13 @@
             "locality_id":101736359,
             "neighbourhood_id":85895085,
             "region_id":85682057
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633041,
-            "county_id":890456493,
-            "locality_id":101740717,
-            "neighbourhood_id":85895085,
-            "region_id":85682057
         }
     ],
     "wof:id":85895085,
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309603,
+    "wof:lastmodified":1594246427,
     "wof:name":"Altona",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

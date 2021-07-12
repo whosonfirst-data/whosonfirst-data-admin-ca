@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-79.698944,43.509717,-79.698944,43.509717",
     "geom:latitude":43.509717,
     "geom:longitude":-79.698944,
@@ -14,7 +14,7 @@
     "lbl:bbox":"-79.703944,43.504717,-79.693944,43.514717",
     "lbl:latitude":43.509717,
     "lbl:longitude":-79.698944,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":43.50945,
     "mps:longitude":-79.702927,
     "mz:hierarchy_label":0,
@@ -23,8 +23,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":16.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":16,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
         "Joshua's Meadows"
@@ -64,9 +64,8 @@
         85682057,
         102191575,
         85633041,
-        101740755,
-        890456343,
-        101735893
+        101735893,
+        890456343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,14 +83,6 @@
             "continent_id":102191575,
             "country_id":85633041,
             "county_id":890456343,
-            "locality_id":101740755,
-            "neighbourhood_id":85895587,
-            "region_id":85682057
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633041,
-            "county_id":890456343,
             "locality_id":101735893,
             "neighbourhood_id":85895587,
             "region_id":85682057
@@ -101,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309578,
+    "wof:lastmodified":1594246559,
     "wof:name":"Joshua's Meadows",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

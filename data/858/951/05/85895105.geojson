@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-79.666959,43.615409,-79.666959,43.615409",
     "geom:latitude":43.615409,
     "geom:longitude":-79.666959,
@@ -14,7 +14,7 @@
     "lbl:bbox":"-79.671959,43.610409,-79.661959,43.620409",
     "lbl:latitude":43.615409,
     "lbl:longitude":-79.666959,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":43.615486,
     "mps:longitude":-79.658007,
     "mz:hierarchy_label":0,
@@ -23,8 +23,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":14.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":14,
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
@@ -61,7 +61,7 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
-        101740755,
+        890456343,
         85633041,
         85682057,
         101735893
@@ -81,7 +81,7 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101740755,
+            "county_id":890456343,
             "neighbourhood_id":85895105,
             "region_id":85682057
         },
@@ -97,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309608,
+    "wof:lastmodified":1594246431,
     "wof:name":"Hurontario",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-79.808071,43.736812,-79.808071,43.736812",
     "geom:latitude":43.736812,
     "geom:longitude":-79.808071,
@@ -14,7 +14,7 @@
     "lbl:bbox":"-79.813071,43.731812,-79.803071,43.741812",
     "lbl:latitude":43.736812,
     "lbl:longitude":-79.808071,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":43.734131,
     "mps:longitude":-79.794911,
     "mz:hierarchy_label":0,
@@ -23,8 +23,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":14.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":14,
     "mz:tier_locality":2,
     "name:aar_x_preferred":[
         "Snelgrove"
@@ -698,7 +698,7 @@
         101735903,
         85633041,
         85682057,
-        101740755
+        890456343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -723,7 +723,7 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101740755,
+            "county_id":890456343,
             "neighbourhood_id":85895445,
             "region_id":85682057
         }
@@ -732,7 +732,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309571,
+    "wof:lastmodified":1594246521,
     "wof:name":"Snelgrove",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

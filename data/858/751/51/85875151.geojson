@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00062,
-    "geom:area_square_m":5522264.707844,
+    "geom:area_square_m":5522264.70784,
     "geom:bbox":"-78.8418003958,43.8506735684,-78.8141501191,43.8895393653",
     "geom:latitude":43.871858,
     "geom:longitude":-78.826355,
@@ -13,7 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.866352,
     "lbl:longitude":-78.826165,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":43.87424,
     "mps:longitude":-78.82615,
     "mz:hierarchy_label":1,
@@ -22,8 +22,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":17.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":17,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:deu_x_preferred":[
@@ -73,10 +73,9 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":301,
     "wof:belongsto":[
-        85682057,
         102191575,
+        85682057,
         85633041,
-        101740717,
         890456493,
         101735997
     ],
@@ -95,7 +94,6 @@
             "continent_id":102191575,
             "country_id":85633041,
             "county_id":890456493,
-            "locality_id":101740717,
             "neighbourhood_id":85875151,
             "region_id":85682057
         },
@@ -111,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309606,
+    "wof:lastmodified":1594246377,
     "wof:name":"Farewell",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

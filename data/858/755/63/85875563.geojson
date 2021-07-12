@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-82.405169,42.985099,-82.405169,42.985099",
     "geom:latitude":42.985099,
     "geom:longitude":-82.405169,
@@ -14,7 +14,7 @@
     "lbl:bbox":"-82.410169,42.980099,-82.400169,42.990099",
     "lbl:latitude":42.985099,
     "lbl:longitude":-82.405169,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":42.984264,
     "mps:longitude":-82.399583,
     "mz:hierarchy_label":0,
@@ -23,8 +23,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":13.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":13,
     "mz:tier_locality":2,
     "name:deu_x_preferred":[
         "Northgate"
@@ -72,7 +72,7 @@
         101736007,
         85633041,
         85682057,
-        101740719
+        890456489
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +96,7 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101740719,
+            "county_id":890456489,
             "neighbourhood_id":85875563,
             "region_id":85682057
         }
@@ -105,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309570,
+    "wof:lastmodified":1594246391,
     "wof:name":"Northgate",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

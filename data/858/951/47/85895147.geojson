@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-79.427605,44.052065,-79.427605,44.052065",
     "geom:latitude":44.052065,
     "geom:longitude":-79.427605,
@@ -14,7 +14,7 @@
     "lbl:bbox":"-79.432605,44.047065,-79.422605,44.057065",
     "lbl:latitude":44.052065,
     "lbl:longitude":-79.427605,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":44.050092,
     "mps:longitude":-79.421996,
     "mz:hierarchy_label":0,
@@ -23,8 +23,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":15.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":15,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
         "Bogarttown"
@@ -61,8 +61,7 @@
         102191575,
         85633041,
         101736295,
-        890458415,
-        101740741
+        890458415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,21 +82,13 @@
             "locality_id":101736295,
             "neighbourhood_id":85895147,
             "region_id":85682057
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633041,
-            "county_id":890458415,
-            "locality_id":101740741,
-            "neighbourhood_id":85895147,
-            "region_id":85682057
         }
     ],
     "wof:id":85895147,
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309609,
+    "wof:lastmodified":1594246442,
     "wof:name":"Bogarttown",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

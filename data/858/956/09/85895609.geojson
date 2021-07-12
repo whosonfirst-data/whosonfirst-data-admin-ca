@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-79.396841,43.82263,-79.396841,43.82263",
     "geom:latitude":43.82263,
     "geom:longitude":-79.396841,
@@ -14,7 +14,7 @@
     "lbl:bbox":"-79.401841,43.81763,-79.391841,43.82763",
     "lbl:latitude":43.82263,
     "lbl:longitude":-79.396841,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":43.822637,
     "mps:longitude":-79.396181,
     "mz:hierarchy_label":0,
@@ -23,8 +23,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":14.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":14,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
         "Thornlea"
@@ -64,7 +64,7 @@
         101736035,
         85633041,
         85682057,
-        101740741
+        890458415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +88,7 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101740741,
+            "county_id":890458415,
             "neighbourhood_id":85895609,
             "region_id":85682057
         }
@@ -97,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309608,
+    "wof:lastmodified":1594246564,
     "wof:name":"Thornlea",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

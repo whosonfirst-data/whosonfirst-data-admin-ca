@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-80.492475,43.455769,-80.492475,43.455769",
     "geom:latitude":43.455769,
     "geom:longitude":-80.492475,
@@ -14,10 +14,10 @@
     "lbl:bbox":"-80.497475,43.450769,-80.487475,43.460769",
     "lbl:latitude":43.455769,
     "lbl:longitude":-80.492475,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":15.0,
+    "mz:min_zoom":15,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Civic center"
@@ -64,9 +64,8 @@
         85682057,
         102191575,
         85633041,
-        101740709,
-        890456483,
-        101735989
+        101735989,
+        890456483
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,21 +80,13 @@
             "continent_id":102191575,
             "country_id":85633041,
             "county_id":890456483,
-            "locality_id":101740709,
-            "neighbourhood_id":1126106403,
-            "region_id":85682057
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633041,
-            "county_id":890456483,
             "locality_id":101735989,
             "neighbourhood_id":1126106403,
             "region_id":85682057
         }
     ],
     "wof:id":1126106403,
-    "wof:lastmodified":1566520268,
+    "wof:lastmodified":1594246620,
     "wof:name":"Civic Center",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

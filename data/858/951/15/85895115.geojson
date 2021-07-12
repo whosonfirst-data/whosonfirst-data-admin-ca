@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-79.584709,43.550652,-79.584709,43.550652",
     "geom:latitude":43.550652,
     "geom:longitude":-79.584709,
@@ -13,7 +13,7 @@
     "lbl:bbox":"-79.589709,43.545652,-79.579709,43.555652",
     "lbl:latitude":43.550652,
     "lbl:longitude":-79.584709,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":43.551467,
     "mps:longitude":-79.584864,
     "mz:hierarchy_label":0,
@@ -22,8 +22,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":13.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":13,
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
@@ -78,7 +78,7 @@
     "wd:wordcount":2093,
     "wof:belongsto":[
         102191575,
-        101740755,
+        890456343,
         85633041,
         85682057,
         101735893
@@ -100,7 +100,7 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101740755,
+            "county_id":890456343,
             "neighbourhood_id":85895115,
             "region_id":85682057
         },
@@ -116,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309609,
+    "wof:lastmodified":1594246434,
     "wof:name":"Port Credit",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-79.247579,43.156364,-79.247579,43.156364",
     "geom:latitude":43.156364,
     "geom:longitude":-79.247579,
@@ -14,7 +14,7 @@
     "lbl:bbox":"-79.252579,43.151364,-79.242579,43.161364",
     "lbl:latitude":43.156364,
     "lbl:longitude":-79.247579,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":43.157764,
     "mps:longitude":-79.244543,
     "mz:hierarchy_label":0,
@@ -23,8 +23,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":13.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":13,
     "mz:tier_locality":2,
     "name:ara_x_preferred":[
         "\u0648\u0633\u0637 \u0627\u0644\u0628\u0644\u062f"
@@ -138,10 +138,9 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1123,
     "wof:belongsto":[
-        85682057,
         102191575,
+        85682057,
         85633041,
-        101740727,
         890456991,
         101736345
     ],
@@ -162,7 +161,6 @@
             "continent_id":102191575,
             "country_id":85633041,
             "county_id":890456991,
-            "locality_id":101740727,
             "neighbourhood_id":85875047,
             "region_id":85682057
         },
@@ -178,7 +176,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309610,
+    "wof:lastmodified":1594246373,
     "wof:name":"Downtown",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

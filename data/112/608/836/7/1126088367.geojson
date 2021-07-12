@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-79.36631,44.30011,-79.36631,44.30011",
     "geom:latitude":44.30011,
     "geom:longitude":-79.36631,
@@ -16,10 +16,10 @@
     "lbl:bbox":"-79.37131,44.29511,-79.36131,44.30511",
     "lbl:latitude":44.30011,
     "lbl:longitude":-79.36631,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":15.0,
+    "mz:min_zoom":15,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"CA",
     "qs_pg:gn_country":"CA",
@@ -47,9 +47,8 @@
         85682057,
         102191575,
         85633041,
-        101740741,
-        890458415,
-        101735969
+        101735969,
+        890458415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,21 +64,13 @@
             "continent_id":102191575,
             "country_id":85633041,
             "county_id":890458415,
-            "locality_id":101740741,
-            "neighbourhood_id":1126088367,
-            "region_id":85682057
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633041,
-            "county_id":890458415,
             "locality_id":101735969,
             "neighbourhood_id":1126088367,
             "region_id":85682057
         }
     ],
     "wof:id":1126088367,
-    "wof:lastmodified":1566520338,
+    "wof:lastmodified":1594246609,
     "wof:name":"Sutton West",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

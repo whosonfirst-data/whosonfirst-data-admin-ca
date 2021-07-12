@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-79.473601,43.831691,-79.473601,43.831691",
     "geom:latitude":43.831691,
     "geom:longitude":-79.473601,
@@ -14,7 +14,7 @@
     "lbl:bbox":"-79.478601,43.826691,-79.468601,43.836691",
     "lbl:latitude":43.831691,
     "lbl:longitude":-79.473601,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":43.833125,
     "mps:longitude":-79.471037,
     "mz:hierarchy_label":0,
@@ -23,8 +23,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":15.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":15,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
         "Thornhill Woods"
@@ -64,7 +64,7 @@
         101736093,
         85633041,
         85682057,
-        101740741
+        890458415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +88,7 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101740741,
+            "county_id":890458415,
             "neighbourhood_id":85895607,
             "region_id":85682057
         }
@@ -97,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309608,
+    "wof:lastmodified":1594246563,
     "wof:name":"Thornhill Woods",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-76.632934,44.227359,-76.632934,44.227359",
     "geom:latitude":44.227359,
     "geom:longitude":-76.632934,
@@ -14,7 +14,7 @@
     "lbl:bbox":"-76.637934,44.222359,-76.627934,44.232359",
     "lbl:latitude":44.227359,
     "lbl:longitude":-76.632934,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":44.220399,
     "mps:longitude":-76.655955,
     "mz:hierarchy_label":0,
@@ -23,8 +23,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":14.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":14,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
         "Mile Square"
@@ -63,7 +63,6 @@
         101735963,
         85633041,
         85682057,
-        101740731,
         890457185
     ],
     "wof:breaches":[],
@@ -89,7 +88,6 @@
             "continent_id":102191575,
             "country_id":85633041,
             "county_id":890457185,
-            "locality_id":101740731,
             "neighbourhood_id":85875393,
             "region_id":85682057
         }
@@ -98,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309575,
+    "wof:lastmodified":1594246388,
     "wof:name":"Mile Square",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

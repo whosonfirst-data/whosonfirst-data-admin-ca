@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002843,
-    "geom:area_square_m":25347289.54952,
+    "geom:area_square_m":25347289.549512,
     "geom:bbox":"-79.004352225,43.8265079442,-78.9350073242,43.8900775891",
     "geom:latitude":43.858312,
     "geom:longitude":-78.967652,
@@ -13,7 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.856775,
     "lbl:longitude":-78.965223,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":43.85879,
     "mps:longitude":-78.967651,
     "mz:hierarchy_label":1,
@@ -22,8 +22,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":17.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":17,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
@@ -58,10 +58,9 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682057,
         102191575,
+        85682057,
         85633041,
-        101740717,
         890456493,
         101736397
     ],
@@ -80,7 +79,6 @@
             "continent_id":102191575,
             "country_id":85633041,
             "county_id":890456493,
-            "locality_id":101740717,
             "neighbourhood_id":85895409,
             "region_id":85682057
         },
@@ -96,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309571,
+    "wof:lastmodified":1594246511,
     "wof:name":"Shoal Point Road",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

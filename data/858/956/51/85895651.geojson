@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-79.456581,44.01052,-79.456581,44.01052",
     "geom:latitude":44.01052,
     "geom:longitude":-79.456581,
@@ -14,7 +14,7 @@
     "lbl:bbox":"-79.461581,44.00552,-79.451581,44.01552",
     "lbl:latitude":44.01052,
     "lbl:longitude":-79.456581,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":44.010336,
     "mps:longitude":-79.457439,
     "mz:hierarchy_label":0,
@@ -23,8 +23,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":15.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":15,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
         "Wellington Lanes"
@@ -64,8 +64,7 @@
         102191575,
         85633041,
         101736049,
-        890458415,
-        101740741
+        890458415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,21 +85,13 @@
             "locality_id":101736049,
             "neighbourhood_id":85895651,
             "region_id":85682057
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633041,
-            "county_id":890458415,
-            "locality_id":101740741,
-            "neighbourhood_id":85895651,
-            "region_id":85682057
         }
     ],
     "wof:id":85895651,
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309607,
+    "wof:lastmodified":1594246577,
     "wof:name":"Wellington Lanes",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

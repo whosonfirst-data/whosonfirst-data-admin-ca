@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-80.243253,43.597017,-80.243253,43.597017",
     "geom:latitude":43.597017,
     "geom:longitude":-80.243253,
@@ -14,7 +14,7 @@
     "lbl:bbox":"-80.248253,43.592017,-80.238253,43.602017",
     "lbl:latitude":43.597017,
     "lbl:longitude":-80.243253,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":43.604131,
     "mps:longitude":-80.240844,
     "mz:hierarchy_label":0,
@@ -23,8 +23,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":14.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":14,
     "mz:tier_locality":2,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0627\u0646\u062a"
@@ -116,9 +116,8 @@
         85682057,
         102191575,
         85633041,
-        101740771,
-        890456827,
-        101735927
+        101735927,
+        890456827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -139,14 +138,6 @@
             "continent_id":102191575,
             "country_id":85633041,
             "county_id":890456827,
-            "locality_id":101740771,
-            "neighbourhood_id":85875533,
-            "region_id":85682057
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633041,
-            "county_id":890456827,
             "locality_id":101735927,
             "neighbourhood_id":85875533,
             "region_id":85682057
@@ -156,7 +147,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309570,
+    "wof:lastmodified":1594246389,
     "wof:name":"Brant",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

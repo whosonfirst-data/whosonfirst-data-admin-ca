@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-79.58551,43.569746,-79.58551,43.569746",
     "geom:latitude":43.569746,
     "geom:longitude":-79.58551,
@@ -14,7 +14,7 @@
     "lbl:bbox":"-79.59051,43.564746,-79.58051,43.574746",
     "lbl:latitude":43.569746,
     "lbl:longitude":-79.58551,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":43.571917,
     "mps:longitude":-79.586876,
     "mz:hierarchy_label":0,
@@ -23,8 +23,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":14.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":14,
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:ceb_x_preferred":[
@@ -100,9 +100,8 @@
         85682057,
         102191575,
         85633041,
-        101740755,
-        890456343,
-        101735893
+        101735893,
+        890456343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -120,14 +119,6 @@
             "continent_id":102191575,
             "country_id":85633041,
             "county_id":890456343,
-            "locality_id":101740755,
-            "neighbourhood_id":85894977,
-            "region_id":85682057
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633041,
-            "county_id":890456343,
             "locality_id":101735893,
             "neighbourhood_id":85894977,
             "region_id":85682057
@@ -137,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309597,
+    "wof:lastmodified":1594246397,
     "wof:name":"Mineola",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

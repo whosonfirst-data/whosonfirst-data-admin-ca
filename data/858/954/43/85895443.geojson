@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-79.70343,43.886279,-79.70343,43.886279",
     "geom:latitude":43.886279,
     "geom:longitude":-79.70343,
@@ -14,7 +14,7 @@
     "lbl:bbox":"-79.70843,43.881279,-79.69843,43.891279",
     "lbl:latitude":43.886279,
     "lbl:longitude":-79.70343,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":43.880078,
     "mps:longitude":-79.696773,
     "mz:hierarchy_label":0,
@@ -23,8 +23,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":16.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":16,
     "mz:tier_locality":2,
     "name:ceb_x_preferred":[
         "South Hill"
@@ -92,7 +92,7 @@
         101736003,
         85633041,
         85682057,
-        101740741
+        890458415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -116,7 +116,7 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101740741,
+            "county_id":890458415,
             "neighbourhood_id":85895443,
             "region_id":85682057
         }
@@ -125,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309571,
+    "wof:lastmodified":1594246520,
     "wof:name":"South Hill",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

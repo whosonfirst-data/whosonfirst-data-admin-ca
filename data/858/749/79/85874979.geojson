@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-80.470655,43.473643,-80.470655,43.473643",
     "geom:latitude":43.473643,
     "geom:longitude":-80.470655,
@@ -13,7 +13,7 @@
     "lbl:bbox":"-80.475655,43.468643,-80.465655,43.478643",
     "lbl:latitude":43.473643,
     "lbl:longitude":-80.470655,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":43.474068,
     "mps:longitude":-80.46873,
     "mz:hierarchy_label":0,
@@ -22,8 +22,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":19.0,
-    "mz:min_zoom":17.0,
+    "mz:max_zoom":19,
+    "mz:min_zoom":17,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
         "Bridgeport East"
@@ -63,9 +63,8 @@
         85682057,
         102191575,
         85633041,
-        101740709,
-        890456483,
-        101735989
+        101735989,
+        890456483
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,14 +83,6 @@
             "continent_id":102191575,
             "country_id":85633041,
             "county_id":890456483,
-            "locality_id":101740709,
-            "neighbourhood_id":85874979,
-            "region_id":85682057
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633041,
-            "county_id":890456483,
             "locality_id":101735989,
             "neighbourhood_id":85874979,
             "region_id":85682057
@@ -101,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309595,
+    "wof:lastmodified":1594246349,
     "wof:name":"Bridgeport East",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

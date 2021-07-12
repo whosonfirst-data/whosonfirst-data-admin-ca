@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-79.389267,43.882057,-79.389267,43.882057",
     "geom:latitude":43.882057,
     "geom:longitude":-79.389267,
@@ -14,7 +14,7 @@
     "lbl:bbox":"-79.394267,43.877057,-79.384267,43.887057",
     "lbl:latitude":43.882057,
     "lbl:longitude":-79.389267,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":43.880801,
     "mps:longitude":-79.38532,
     "mz:hierarchy_label":0,
@@ -23,8 +23,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":19.0,
-    "mz:min_zoom":16.0,
+    "mz:max_zoom":19,
+    "mz:min_zoom":16,
     "mz:tier_locality":1,
     "name:bre_x_preferred":[
         "\u00c1th Cinn"
@@ -100,7 +100,7 @@
         101736179,
         85633041,
         85682057,
-        101740741
+        890458415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -124,7 +124,7 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101740741,
+            "county_id":890458415,
             "neighbourhood_id":85895351,
             "region_id":85682057
         }
@@ -133,7 +133,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309572,
+    "wof:lastmodified":1594246494,
     "wof:name":"Headford",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

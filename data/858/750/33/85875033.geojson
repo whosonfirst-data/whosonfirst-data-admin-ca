@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-79.196589,43.154277,-79.196589,43.154277",
     "geom:latitude":43.154277,
     "geom:longitude":-79.196589,
@@ -14,7 +14,7 @@
     "lbl:bbox":"-79.201589,43.149277,-79.191589,43.159277",
     "lbl:latitude":43.154277,
     "lbl:longitude":-79.196589,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":43.159694,
     "mps:longitude":-79.193245,
     "mz:hierarchy_label":0,
@@ -23,8 +23,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":13.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":13,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
         "Secord Woods"
@@ -59,10 +59,9 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
+        85682057,
         85633041,
-        101740727,
         890456991,
         101736345
     ],
@@ -82,7 +81,6 @@
             "continent_id":102191575,
             "country_id":85633041,
             "county_id":890456991,
-            "locality_id":101740727,
             "neighbourhood_id":85875033,
             "region_id":85682057
         },
@@ -98,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309609,
+    "wof:lastmodified":1594246368,
     "wof:name":"Secord Woods",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

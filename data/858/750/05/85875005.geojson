@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-80.486571,43.403339,-80.486571,43.403339",
     "geom:latitude":43.403339,
     "geom:longitude":-80.486571,
@@ -14,7 +14,7 @@
     "lbl:bbox":"-80.491571,43.398339,-80.481571,43.408339",
     "lbl:latitude":43.403339,
     "lbl:longitude":-80.486571,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":43.401965,
     "mps:longitude":-80.485041,
     "mz:hierarchy_label":0,
@@ -23,8 +23,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":14.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":14,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
         "Country Hills West"
@@ -58,7 +58,7 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
-    "wd:elevation":1105.0,
+    "wd:elevation":1105,
     "wd:latitude":51.1436,
     "wd:longitude":-114.072,
     "wd:wordcount":362,
@@ -66,9 +66,8 @@
         85682057,
         102191575,
         85633041,
-        101740709,
-        890456483,
-        101735989
+        101735989,
+        890456483
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,14 +85,6 @@
             "continent_id":102191575,
             "country_id":85633041,
             "county_id":890456483,
-            "locality_id":101740709,
-            "neighbourhood_id":85875005,
-            "region_id":85682057
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633041,
-            "county_id":890456483,
             "locality_id":101735989,
             "neighbourhood_id":85875005,
             "region_id":85682057
@@ -103,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309609,
+    "wof:lastmodified":1594246358,
     "wof:name":"Country Hills West",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

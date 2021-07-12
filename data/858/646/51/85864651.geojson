@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-79.260691,43.1455,-79.260691,43.1455",
     "geom:latitude":43.1455,
     "geom:longitude":-79.260691,
@@ -14,7 +14,7 @@
     "lbl:bbox":"-79.265691,43.1405,-79.255691,43.1505",
     "lbl:latitude":43.1455,
     "lbl:longitude":-79.260691,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":43.139849,
     "mps:longitude":-79.269666,
     "mz:hierarchy_label":0,
@@ -23,8 +23,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":14.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":14,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
         "Western Hill"
@@ -64,7 +64,7 @@
         101736345,
         85633041,
         85682057,
-        101740727
+        890456991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +88,7 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101740727,
+            "county_id":890456991,
             "neighbourhood_id":85864651,
             "region_id":85682057
         }
@@ -97,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309615,
+    "wof:lastmodified":1594246333,
     "wof:name":"Western Hill",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"-79.821326,43.331901,-79.821326,43.331901",
     "geom:latitude":43.331901,
     "geom:longitude":-79.821326,
@@ -14,7 +14,7 @@
     "lbl:bbox":"-79.826326,43.326901,-79.816326,43.336901",
     "lbl:latitude":43.331901,
     "lbl:longitude":-79.821326,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "mps:latitude":43.327175,
     "mps:longitude":-79.823576,
     "mz:hierarchy_label":0,
@@ -23,8 +23,8 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":15.0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":15,
     "mz:tier_locality":1,
     "name:ara_x_preferred":[
         "\u0642\u064a\u0642\u0628"
@@ -336,9 +336,8 @@
         85682057,
         102191575,
         85633041,
-        101740713,
-        890458413,
-        101735965
+        101735965,
+        890458413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -357,14 +356,6 @@
             "continent_id":102191575,
             "country_id":85633041,
             "county_id":890458413,
-            "locality_id":101740713,
-            "neighbourhood_id":85895581,
-            "region_id":85682057
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633041,
-            "county_id":890458413,
             "locality_id":101735965,
             "neighbourhood_id":85895581,
             "region_id":85682057
@@ -374,7 +365,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309578,
+    "wof:lastmodified":1594246557,
     "wof:name":"Maple",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
