@@ -2,7 +2,7 @@
   "id": 101736565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2025-09-03",
     "edtf:inception":"uuuu",
     "geom:area":0.009473,
     "geom:area_square_m":79354685.076645,
@@ -136,13 +136,13 @@
         }
     ],
     "wof:id":101736565,
-    "wof:lastmodified":1722051518,
+    "wof:lastmodified":1788900984,
     "wof:name":"Sainte-Anne-de-la-Pocati\u00e8re",
     "wof:parent_id":890456817,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[2048281069],
     "wof:supersedes":[],
     "wof:tags":[]
 },

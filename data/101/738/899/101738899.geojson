@@ -2,7 +2,7 @@
   "id": 101738899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2025-09-03",
     "edtf:inception":"uuuu",
     "geom:area":0.002537,
     "geom:area_square_m":21246078.519436,
@@ -18,7 +18,7 @@
     "mps:latitude":47.379077,
     "mps:longitude":-70.032724,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u0627 \u0628\u0648\u0643\u0627\u0631\u064a\u0647"
@@ -156,14 +156,14 @@
         }
     ],
     "wof:id":101738899,
-    "wof:lastmodified":1722051523,
+    "wof:lastmodified":1788900984,
     "wof:name":"La Pocati\u00e8re",
     "wof:parent_id":890456817,
     "wof:placetype":"locality",
     "wof:population":4575,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ca",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[2048281069],
     "wof:supersedes":[],
     "wof:tags":[]
 },
