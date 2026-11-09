@@ -140,8 +140,7 @@
         102191575,
         85633041,
         101736383,
-        890458413,
-        101740713
+        890458413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -167,7 +166,6 @@
             "continent_id":102191575,
             "country_id":85633041,
             "county_id":890458413,
-            "locality_id":101740713,
             "neighbourhood_id":85895547,
             "region_id":85682057
         }
