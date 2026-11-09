@@ -45,7 +45,7 @@
         "wk:page":"Outram%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"cef123595b10cc907f8342d7f786c7b6",
+    "wof:geomhash":"7b438f7273d6f7b38e571be0c7b98fd5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -65.21276999999999,
     44.95405
 ],
-  "geometry": {"coordinates":[-65.21276999999999,44.95405],"type":"Point"}
+  "geometry": {"coordinates":[-65.21277,44.95405],"type":"Point"}
 }

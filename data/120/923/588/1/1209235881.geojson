@@ -45,7 +45,7 @@
         "wk:page":"St._Anns%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"911d66878700d40f3e6a9e83dee742a3",
+    "wof:geomhash":"bc0ec5bfba8f2305558cf0cf222a7f24",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -68,5 +68,5 @@
     -60.60386999999999,
     46.21196
 ],
-  "geometry": {"coordinates":[-60.60386999999999,46.21196],"type":"Point"}
+  "geometry": {"coordinates":[-60.60387,46.21196],"type":"Point"}
 }

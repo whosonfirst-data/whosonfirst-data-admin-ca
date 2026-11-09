@@ -45,7 +45,7 @@
         "wk:page":"Argentia_Beach"
     },
     "wof:country":"CA",
-    "wof:geomhash":"dfa3dce67c6dceaf21cda27693c1102e",
+    "wof:geomhash":"c156ddd545db9e01cd7e2b532b408ace",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -114.01874,
     53.05011999999999
 ],
-  "geometry": {"coordinates":[-114.01873999999999,53.05011999999999],"type":"Point"}
+  "geometry": {"coordinates":[-114.01874,53.05012],"type":"Point"}
 }

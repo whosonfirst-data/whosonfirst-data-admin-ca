@@ -48,7 +48,7 @@
         "wk:page":"St._Felix%2C_Prince_Edward_Island"
     },
     "wof:country":"CA",
-    "wof:geomhash":"7c89817fdb7c0272a10df9bfdaf8654a",
+    "wof:geomhash":"e3aca8a6a90fe47275e68556b7931b94",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,5 +74,5 @@
     -64.03201999999999,
     46.93344
 ],
-  "geometry": {"coordinates":[-64.03201999999999,46.93344],"type":"Point"}
+  "geometry": {"coordinates":[-64.03202,46.93344],"type":"Point"}
 }

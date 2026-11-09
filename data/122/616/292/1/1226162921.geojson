@@ -42,7 +42,7 @@
         "wk:page":"Fraserdale%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"01afcb805e5e7f39807355fd63a7c0b7",
+    "wof:geomhash":"61ba3de6b25250803151f7917f81eaa3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -81.61641999999998,
     49.85022
 ],
-  "geometry": {"coordinates":[-81.61641999999998,49.85022],"type":"Point"}
+  "geometry": {"coordinates":[-81.61642,49.85022],"type":"Point"}
 }

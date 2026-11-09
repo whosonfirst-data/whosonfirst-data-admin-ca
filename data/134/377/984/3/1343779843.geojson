@@ -42,7 +42,7 @@
         "wk:page":"Warspite%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"6c8689bfcca620422eabd1d0a1b2b35f",
+    "wof:geomhash":"f0b39f50a980e68187d298ad99c30192",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -112.61863999999998,
     54.10017
 ],
-  "geometry": {"coordinates":[-112.61863999999998,54.10017],"type":"Point"}
+  "geometry": {"coordinates":[-112.61864,54.10017],"type":"Point"}
 }

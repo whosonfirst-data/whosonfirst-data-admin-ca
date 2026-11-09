@@ -42,7 +42,7 @@
         "wk:page":"Upper_Blandford%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"583bb2ff1333d4a949230fa086d0a689",
+    "wof:geomhash":"f93b5867fcbc68db0a62edbb00e4a8dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.12659000000001,
     44.51045
 ],
-  "geometry": {"coordinates":[-64.12659000000001,44.51045],"type":"Point"}
+  "geometry": {"coordinates":[-64.12659,44.51045],"type":"Point"}
 }

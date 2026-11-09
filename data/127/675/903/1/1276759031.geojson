@@ -42,7 +42,7 @@
         "wk:page":"Cove_Road%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f3ff2e31810f6eea16f3c7964b2e91b9",
+    "wof:geomhash":"d2bf3be3af562ba6c610e01bf3926340",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.88296999999999,
     45.38867
 ],
-  "geometry": {"coordinates":[-63.88296999999999,45.38867],"type":"Point"}
+  "geometry": {"coordinates":[-63.88297,45.38867],"type":"Point"}
 }

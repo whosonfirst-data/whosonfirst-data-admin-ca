@@ -45,7 +45,7 @@
         "wk:page":"Aleza_Lake%2C_British_Columbia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"101e0169e37bc7fe571573f08f41684f",
+    "wof:geomhash":"4ed19efbdf14c0fc7727978813ff32a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -122.03333,
     54.11666999999999
 ],
-  "geometry": {"coordinates":[-122.03333000000001,54.11666999999999],"type":"Point"}
+  "geometry": {"coordinates":[-122.03333,54.11667],"type":"Point"}
 }

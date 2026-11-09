@@ -42,7 +42,7 @@
         "wk:page":"Birchtown%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"6ca08023927ef4e3bd7732f3ee60d157",
+    "wof:geomhash":"90948dd7ef52e7a86a76026259808005",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.37881999999999,
     43.74769000000001
 ],
-  "geometry": {"coordinates":[-65.37881999999999,43.74769000000001],"type":"Point"}
+  "geometry": {"coordinates":[-65.37882,43.74769],"type":"Point"}
 }

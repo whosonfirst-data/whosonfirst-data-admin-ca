@@ -48,7 +48,7 @@
         "wk:page":"Hazelbrook%2C_Prince_Edward_Island"
     },
     "wof:country":"CA",
-    "wof:geomhash":"049d7b8c6dc1bc57ef4af21234212484",
+    "wof:geomhash":"e25bfe385fe99e945244e98271edca7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,5 +74,5 @@
     -62.99868000000001,
     46.21681
 ],
-  "geometry": {"coordinates":[-62.99868000000001,46.21681],"type":"Point"}
+  "geometry": {"coordinates":[-62.99868,46.21681],"type":"Point"}
 }

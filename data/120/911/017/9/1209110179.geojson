@@ -42,7 +42,7 @@
         "wk:page":"Grovedale%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"04c093c8f3922d2a0f3d006082946ed9",
+    "wof:geomhash":"855267254e6972dc512c8a1a9b057f32",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -65,5 +65,5 @@
     -118.86941000000002,
     55.04997
 ],
-  "geometry": {"coordinates":[-118.86941000000002,55.04997],"type":"Point"}
+  "geometry": {"coordinates":[-118.86941,55.04997],"type":"Point"}
 }

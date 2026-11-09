@@ -48,7 +48,7 @@
         "wk:page":"Mount_Uniacke%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"2935908d92e187db1e6ce2f7155274ff",
+    "wof:geomhash":"6e8410472a0504afa6eccd9208c1c67f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,5 +74,5 @@
     -63.83201999999999,
     44.90015
 ],
-  "geometry": {"coordinates":[-63.83201999999999,44.90015],"type":"Point"}
+  "geometry": {"coordinates":[-63.83202,44.90015],"type":"Point"}
 }

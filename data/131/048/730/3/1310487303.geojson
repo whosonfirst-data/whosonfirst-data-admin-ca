@@ -45,7 +45,7 @@
         "wk:page":"Driftwood%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"003fbc9d4ca8cda75143bb8222c4d712",
+    "wof:geomhash":"8a3f817ceea47fd533db5a823dfe94cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -81.38306999999998,
     49.13349
 ],
-  "geometry": {"coordinates":[-81.38306999999998,49.13349],"type":"Point"}
+  "geometry": {"coordinates":[-81.38307,49.13349],"type":"Point"}
 }

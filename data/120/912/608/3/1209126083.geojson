@@ -42,7 +42,7 @@
         "wk:page":"Kingsbridge%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d860246404593e97377257c5713a7da0",
+    "wof:geomhash":"23037d01cedf516606c9b972d7fb69c2",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -65,5 +65,5 @@
     -81.69821999999998,
     43.92996
 ],
-  "geometry": {"coordinates":[-81.69821999999998,43.92996],"type":"Point"}
+  "geometry": {"coordinates":[-81.69822,43.92996],"type":"Point"}
 }

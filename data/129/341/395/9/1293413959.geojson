@@ -45,7 +45,7 @@
         "wk:page":"Gray_Rapids%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"40cff87f99eaa8e7bbe329e6cbc8aa98",
+    "wof:geomhash":"2d2889cd7defd9726a688a370e34f06e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -65.75948000000001,
     46.77095
 ],
-  "geometry": {"coordinates":[-65.75948000000001,46.77095],"type":"Point"}
+  "geometry": {"coordinates":[-65.75948,46.77095],"type":"Point"}
 }

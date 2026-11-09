@@ -39,7 +39,7 @@
         "wk:page":"Neelin%2C_Manitoba"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d3c9d1698450e214f50dd4798a94cc31",
+    "wof:geomhash":"5b6644ddfae8e9e630901dc1498fed44",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -62,5 +62,5 @@
     -99.34863,
     49.22942000000001
 ],
-  "geometry": {"coordinates":[-99.34863,49.22942000000001],"type":"Point"}
+  "geometry": {"coordinates":[-99.34863,49.22942],"type":"Point"}
 }

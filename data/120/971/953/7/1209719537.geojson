@@ -42,7 +42,7 @@
         "wk:page":"Marie_Reine%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"dad004b58a80ce0cc82ad7513d63e771",
+    "wof:geomhash":"ebb4be1f8a89d25d1dc0eee052079efc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -117.28943999999998,
     56.07639
 ],
-  "geometry": {"coordinates":[-117.28943999999998,56.07639],"type":"Point"}
+  "geometry": {"coordinates":[-117.28944,56.07639],"type":"Point"}
 }

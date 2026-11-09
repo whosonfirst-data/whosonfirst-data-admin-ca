@@ -45,7 +45,7 @@
         "wk:page":"Albert_Mines%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"1f7d2e4b9640f89d8b9d3a848748d1e0",
+    "wof:geomhash":"65e922ab3c60149adb714bb8eddd2546",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -64.66691999999999,
     45.87605
 ],
-  "geometry": {"coordinates":[-64.66691999999999,45.87605],"type":"Point"}
+  "geometry": {"coordinates":[-64.66692,45.87605],"type":"Point"}
 }

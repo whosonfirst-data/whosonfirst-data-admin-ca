@@ -42,7 +42,7 @@
         "wk:page":"Broughton%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"39170c939590b1f63f49345603617cd0",
+    "wof:geomhash":"9ced5d4693482db2a3156a153d6164d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -59.96514000000001,
     46.08344
 ],
-  "geometry": {"coordinates":[-59.96514000000001,46.08344],"type":"Point"}
+  "geometry": {"coordinates":[-59.96514,46.08344],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Descharme_Lake%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"9b2f45ee216f27a1ef6d56a49ebb72a7",
+    "wof:geomhash":"9d2144b2cf7c6006a3eb1be08291aa1f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -109.20156,
     57.10021999999999
 ],
-  "geometry": {"coordinates":[-109.20156,57.10021999999999],"type":"Point"}
+  "geometry": {"coordinates":[-109.20156,57.10022],"type":"Point"}
 }

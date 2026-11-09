@@ -42,7 +42,7 @@
         "wk:page":"Sober_Island%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"a49264102c4adcef662c8e532642d0f6",
+    "wof:geomhash":"54e4298e447c591e005d3ff9040e475f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -62.46523000000001,
     44.84863
 ],
-  "geometry": {"coordinates":[-62.46523000000001,44.84863],"type":"Point"}
+  "geometry": {"coordinates":[-62.46523,44.84863],"type":"Point"}
 }

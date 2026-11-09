@@ -45,7 +45,7 @@
         "wk:page":"Millertown%2C_Newfoundland_and_Labrador"
     },
     "wof:country":"CA",
-    "wof:geomhash":"1ca73b5e98a389280fceb837d57e8695",
+    "wof:geomhash":"a67703a8a0ba8dd7e3ae0f3c2a34c211",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -56.54816999999999,
     48.81673
 ],
-  "geometry": {"coordinates":[-56.54816999999999,48.81673],"type":"Point"}
+  "geometry": {"coordinates":[-56.54817,48.81673],"type":"Point"}
 }

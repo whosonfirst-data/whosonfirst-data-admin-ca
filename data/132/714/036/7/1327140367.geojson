@@ -42,7 +42,7 @@
         "wk:page":"Prince_of_Wales%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"8e2dcfe1f33905130e57d4b3fa32e0d1",
+    "wof:geomhash":"ffcd3e2f480ff87e1845c10db6b6b35b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -66.27783000000001,
     45.20388
 ],
-  "geometry": {"coordinates":[-66.27783000000001,45.20388],"type":"Point"}
+  "geometry": {"coordinates":[-66.27783,45.20388],"type":"Point"}
 }

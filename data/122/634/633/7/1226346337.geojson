@@ -42,7 +42,7 @@
         "wk:page":"Bear_Canyon%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"c96025943523f26f75e3357657cc8edf",
+    "wof:geomhash":"d994fa89f8bf5ef955cca69d3dc144ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -119.81957,
     56.21661999999999
 ],
-  "geometry": {"coordinates":[-119.81957,56.21661999999999],"type":"Point"}
+  "geometry": {"coordinates":[-119.81957,56.21662],"type":"Point"}
 }

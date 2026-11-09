@@ -45,7 +45,7 @@
         "wk:page":"Ellscott"
     },
     "wof:country":"CA",
-    "wof:geomhash":"99d6d3a21407b37d37011e8f31b54620",
+    "wof:geomhash":"fa1fdc25e3280bee781283f87e72088b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -112.90202,
     54.50018000000001
 ],
-  "geometry": {"coordinates":[-112.90201999999999,54.50018000000001],"type":"Point"}
+  "geometry": {"coordinates":[-112.90202,54.50018],"type":"Point"}
 }

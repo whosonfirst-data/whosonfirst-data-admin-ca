@@ -42,7 +42,7 @@
         "wk:page":"Fisher_Home%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"ccfb364487d04b7e1bee26af36e142b9",
+    "wof:geomhash":"867cd8a685924d6eaaf50f40280ac6d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -114.16875,
     53.05011999999999
 ],
-  "geometry": {"coordinates":[-114.16875,53.05011999999999],"type":"Point"}
+  "geometry": {"coordinates":[-114.16875,53.05012],"type":"Point"}
 }

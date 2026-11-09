@@ -42,7 +42,7 @@
         "wk:page":"Marter%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"781dc4955d8671fc0d9921cf5ba793fe",
+    "wof:geomhash":"b5c3bfab152fc11888511a365cb93249",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -79.80221999999998,
     47.88528
 ],
-  "geometry": {"coordinates":[-79.80221999999998,47.88528],"type":"Point"}
+  "geometry": {"coordinates":[-79.80222,47.88528],"type":"Point"}
 }

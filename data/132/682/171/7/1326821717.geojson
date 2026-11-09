@@ -42,7 +42,7 @@
         "wk:page":"Southside_Antigonish_Harbour"
     },
     "wof:country":"CA",
-    "wof:geomhash":"be94afb7390b7330959e32b986edb0c7",
+    "wof:geomhash":"f4c10cb630a3ebbdfdde537532f7e62e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -61.89044000000001,
     45.63826
 ],
-  "geometry": {"coordinates":[-61.89044000000001,45.63826],"type":"Point"}
+  "geometry": {"coordinates":[-61.89044,45.63826],"type":"Point"}
 }

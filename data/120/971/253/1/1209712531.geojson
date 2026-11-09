@@ -42,7 +42,7 @@
         "wk:page":"Scotchtown%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"dccd7a3a2b02881e8f39543af107c0da",
+    "wof:geomhash":"ad491e819c4fd3a811e85fd956776170",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -60.09968000000001,
     46.23888
 ],
-  "geometry": {"coordinates":[-60.09968000000001,46.23888],"type":"Point"}
+  "geometry": {"coordinates":[-60.09968,46.23888],"type":"Point"}
 }

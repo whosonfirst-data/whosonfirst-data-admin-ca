@@ -45,7 +45,7 @@
         "wk:page":"Upper_South_River"
     },
     "wof:country":"CA",
-    "wof:geomhash":"def833fd34e8811462012b000a12ca09",
+    "wof:geomhash":"07c3b354fe9e7eab564a2aac7306b81d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -61.92988,
     45.44432000000001
 ],
-  "geometry": {"coordinates":[-61.92988,45.44432000000001],"type":"Point"}
+  "geometry": {"coordinates":[-61.92988,45.44432],"type":"Point"}
 }

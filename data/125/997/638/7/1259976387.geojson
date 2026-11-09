@@ -42,7 +42,7 @@
         "wk:page":"Riverdale%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"903d65131a0c42201470b6acd1f40ce9",
+    "wof:geomhash":"f200b651868879a610389859e70354e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.85578000000001,
     44.35581
 ],
-  "geometry": {"coordinates":[-65.85578000000001,44.35581],"type":"Point"}
+  "geometry": {"coordinates":[-65.85578,44.35581],"type":"Point"}
 }

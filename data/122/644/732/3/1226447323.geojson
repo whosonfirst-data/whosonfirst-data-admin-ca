@@ -48,7 +48,7 @@
         "wk:page":"Renews-Cappahayden"
     },
     "wof:country":"CA",
-    "wof:geomhash":"039c910935fecc98ea60e80c2633d121",
+    "wof:geomhash":"290788bcaddfc5840726a66b70772b29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,5 +74,5 @@
     -52.93899999999999,
     46.93104
 ],
-  "geometry": {"coordinates":[-52.93899999999999,46.93104],"type":"Point"}
+  "geometry": {"coordinates":[-52.939,46.93104],"type":"Point"}
 }

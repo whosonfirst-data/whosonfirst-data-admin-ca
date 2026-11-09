@@ -45,7 +45,7 @@
         "wk:page":"Pleasant_Point%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"b7ef95aee2228d491eee60f33b7d6199",
+    "wof:geomhash":"3768a01930827a498b292d1bc9a8484f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -63.06466999999999,
     44.68993
 ],
-  "geometry": {"coordinates":[-63.06466999999999,44.68993],"type":"Point"}
+  "geometry": {"coordinates":[-63.06467,44.68993],"type":"Point"}
 }

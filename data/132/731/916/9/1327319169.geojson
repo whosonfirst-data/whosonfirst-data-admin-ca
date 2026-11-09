@@ -42,7 +42,7 @@
         "wk:page":"Ratho%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"5488541ce27f6d876dcfa5a77ac718b7",
+    "wof:geomhash":"e607aeb3e00b889c64f9b58f204b540b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -80.70555999999998,
     43.27694
 ],
-  "geometry": {"coordinates":[-80.70555999999998,43.27694],"type":"Point"}
+  "geometry": {"coordinates":[-80.70556,43.27694],"type":"Point"}
 }

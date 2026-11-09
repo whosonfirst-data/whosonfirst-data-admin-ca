@@ -42,7 +42,7 @@
         "wk:page":"Gullivers_Cove%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"e935af6afd885d7be266613398e970b5",
+    "wof:geomhash":"824db70a94bc449a1dcc54923494005b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.92336999999999,
     44.60646
 ],
-  "geometry": {"coordinates":[-65.92336999999999,44.60646],"type":"Point"}
+  "geometry": {"coordinates":[-65.92337,44.60646],"type":"Point"}
 }

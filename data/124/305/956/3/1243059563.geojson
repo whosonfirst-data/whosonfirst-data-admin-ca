@@ -67,7 +67,7 @@
         "wk:page":"New_Minas"
     },
     "wof:country":"CA",
-    "wof:geomhash":"878db1a4b3ade8816f6719da645c9a5f",
+    "wof:geomhash":"e3cac98d985de0fa62fa953bf8f4e20a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -93,5 +93,5 @@
     -64.46958000000001,
     45.0691
 ],
-  "geometry": {"coordinates":[-64.46958000000001,45.0691],"type":"Point"}
+  "geometry": {"coordinates":[-64.46958,45.0691],"type":"Point"}
 }

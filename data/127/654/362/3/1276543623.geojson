@@ -42,7 +42,7 @@
         "wk:page":"West_Leicester%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"c58cbf4e47c0612d51a6927d8939e305",
+    "wof:geomhash":"7bfb446db411053449342ed374f2a127",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.04283000000001,
     45.77829000000001
 ],
-  "geometry": {"coordinates":[-64.04283000000001,45.77829000000001],"type":"Point"}
+  "geometry": {"coordinates":[-64.04283,45.77829],"type":"Point"}
 }

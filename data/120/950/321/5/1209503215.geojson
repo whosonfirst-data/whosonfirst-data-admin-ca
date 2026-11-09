@@ -39,7 +39,7 @@
         "wk:page":"Hendon%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"92854ec4084833db8191dea273b5d2f9",
+    "wof:geomhash":"262f9939cca7be8b80bfc16fb7c8e563",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -62,5 +62,5 @@
     -103.83432,
     52.08329000000001
 ],
-  "geometry": {"coordinates":[-103.83432000000001,52.08329000000001],"type":"Point"}
+  "geometry": {"coordinates":[-103.83432,52.08329],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Five_Corners%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"cf090357c067682964856bba17fe00aa",
+    "wof:geomhash":"9ec467c0944be3829bf62033799de2ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -67.29889,
     45.20014000000001
 ],
-  "geometry": {"coordinates":[-67.29889,45.20014000000001],"type":"Point"}
+  "geometry": {"coordinates":[-67.29889,45.20014],"type":"Point"}
 }

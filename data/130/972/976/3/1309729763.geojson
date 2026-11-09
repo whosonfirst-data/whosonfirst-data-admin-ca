@@ -45,7 +45,7 @@
         "wk:page":"Del_Bonita%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"e0bbf908d7026d817de8f2d724b3c3b4",
+    "wof:geomhash":"6638597ad013719d441bdf3c3cfe1a20",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -112.80183999999998,
     49.03327
 ],
-  "geometry": {"coordinates":[-112.80183999999998,49.03327],"type":"Point"}
+  "geometry": {"coordinates":[-112.80184,49.03327],"type":"Point"}
 }

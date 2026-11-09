@@ -45,7 +45,7 @@
         "wk:page":"Torbrook"
     },
     "wof:country":"CA",
-    "wof:geomhash":"e8467320f362c4e8bbc11ffa8aaf561a",
+    "wof:geomhash":"89c031a0ca31fedbd4cc2b2c8208aafb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -64.97733000000001,
     44.91401
 ],
-  "geometry": {"coordinates":[-64.97733000000001,44.91401],"type":"Point"}
+  "geometry": {"coordinates":[-64.97733,44.91401],"type":"Point"}
 }

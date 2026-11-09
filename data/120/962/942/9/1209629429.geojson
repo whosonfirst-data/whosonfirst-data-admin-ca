@@ -42,7 +42,7 @@
         "wk:page":"Castle_Island%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"055abb593885ba4e2e7d7c6f1c1040a3",
+    "wof:geomhash":"00ef5395be8dc9c125b46b2877c96530",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -65,5 +65,5 @@
     -114.33538,
     53.71684000000001
 ],
-  "geometry": {"coordinates":[-114.33538,53.71684000000001],"type":"Point"}
+  "geometry": {"coordinates":[-114.33538,53.71684],"type":"Point"}
 }

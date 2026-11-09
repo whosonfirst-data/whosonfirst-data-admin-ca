@@ -42,7 +42,7 @@
         "wk:page":"Fraser_Settlement%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"7ea1ebb1e0ce9ec14aff245b276ef699",
+    "wof:geomhash":"a5c5529c8721ff80e078fe66a023d7ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -62.97326999999999,
     45.10474
 ],
-  "geometry": {"coordinates":[-62.97326999999999,45.10474],"type":"Point"}
+  "geometry": {"coordinates":[-62.97327,45.10474],"type":"Point"}
 }

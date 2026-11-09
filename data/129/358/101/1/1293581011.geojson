@@ -57,7 +57,7 @@
         "wk:page":"Bridgetown%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"5dc4ac637a06857cee5f254e9a4f548d",
+    "wof:geomhash":"b8ef7b6273b368be5e1d116cef2bac77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,5 +83,5 @@
     -65.29881999999999,
     44.85015
 ],
-  "geometry": {"coordinates":[-65.29881999999999,44.85015],"type":"Point"}
+  "geometry": {"coordinates":[-65.29882,44.85015],"type":"Point"}
 }

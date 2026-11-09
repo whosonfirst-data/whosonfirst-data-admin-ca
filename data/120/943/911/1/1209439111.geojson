@@ -39,7 +39,7 @@
         "wk:page":"Chapel_Grove%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"89485f974253a0845cfb2a940c85b51d",
+    "wof:geomhash":"699959422f09d09be1a7365278a855dc",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -62,5 +62,5 @@
     -66.08051999999999,
     45.3834
 ],
-  "geometry": {"coordinates":[-66.08051999999999,45.3834],"type":"Point"}
+  "geometry": {"coordinates":[-66.08052,45.3834],"type":"Point"}
 }

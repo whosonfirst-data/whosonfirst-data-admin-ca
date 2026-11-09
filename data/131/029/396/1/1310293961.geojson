@@ -53,7 +53,7 @@
         "wk:page":"Hochelaga-Maisonneuve"
     },
     "wof:country":"CA",
-    "wof:geomhash":"b7f09beafeeac4207678e7c1a1fe0951",
+    "wof:geomhash":"18f06006d8d9efc55e807506841b965a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,5 +79,5 @@
     -73.53735999999998,
     45.55865
 ],
-  "geometry": {"coordinates":[-73.53735999999998,45.55865],"type":"Point"}
+  "geometry": {"coordinates":[-73.53736,45.55865],"type":"Point"}
 }

@@ -39,7 +39,7 @@
         "wk:page":"Frood_Mine"
     },
     "wof:country":"CA",
-    "wof:geomhash":"6ffa96b5730b2b5a39447b1a06fbf4eb",
+    "wof:geomhash":"cb4a0da9c781e8cf16716669c4406eca",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -62,5 +62,5 @@
     -81.00381999999998,
     46.5251
 ],
-  "geometry": {"coordinates":[-81.00381999999998,46.5251],"type":"Point"}
+  "geometry": {"coordinates":[-81.00382,46.5251],"type":"Point"}
 }

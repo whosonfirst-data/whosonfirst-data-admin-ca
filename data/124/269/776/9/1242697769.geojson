@@ -42,7 +42,7 @@
         "wk:page":"Benny%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"5e9d9f9bd6873acfa33ecf98df3d31b1",
+    "wof:geomhash":"1ac195b2e20637e8d442f146fbde60f9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -81.62971999999998,
     46.78194000000001
 ],
-  "geometry": {"coordinates":[-81.62971999999998,46.78194000000001],"type":"Point"}
+  "geometry": {"coordinates":[-81.62972,46.78194],"type":"Point"}
 }

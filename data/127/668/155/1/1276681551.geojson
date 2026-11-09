@@ -51,7 +51,7 @@
         "wk:page":"Indian_Bay"
     },
     "wof:country":"CA",
-    "wof:geomhash":"36380a620791849ff79f9fc31d930c45",
+    "wof:geomhash":"ac39578efed396484dd2ed3c90e8540f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,5 +77,5 @@
     -53.84809,
     49.03319000000001
 ],
-  "geometry": {"coordinates":[-53.84809,49.03319000000001],"type":"Point"}
+  "geometry": {"coordinates":[-53.84809,49.03319],"type":"Point"}
 }

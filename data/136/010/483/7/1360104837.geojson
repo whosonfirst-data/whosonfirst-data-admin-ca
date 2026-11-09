@@ -42,7 +42,7 @@
         "wk:page":"Pitts_Ferry%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"aa8bc34f79ba629f9511fcb50761c9be",
+    "wof:geomhash":"5002cb3ada2b06411453163d01521c6d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -76.32831999999998,
     44.28928
 ],
-  "geometry": {"coordinates":[-76.32831999999998,44.28928],"type":"Point"}
+  "geometry": {"coordinates":[-76.32832,44.28928],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "wk:page":"North_Lochaber%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"25dd0ef57a07357b4d1bfc1f45791a31",
+    "wof:geomhash":"9d9f1db19445f581532441ffddbe14fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -62.01114000000001,
     45.46412
 ],
-  "geometry": {"coordinates":[-62.01114000000001,45.46412],"type":"Point"}
+  "geometry": {"coordinates":[-62.01114,45.46412],"type":"Point"}
 }

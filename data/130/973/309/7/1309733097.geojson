@@ -42,7 +42,7 @@
         "wk:page":"Pentz%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fbe16bb60214fb682434f363884589a3",
+    "wof:geomhash":"e469078b73314a14456c4865a9ab1461",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.39121999999999,
     44.30195
 ],
-  "geometry": {"coordinates":[-64.39121999999999,44.30195],"type":"Point"}
+  "geometry": {"coordinates":[-64.39122,44.30195],"type":"Point"}
 }

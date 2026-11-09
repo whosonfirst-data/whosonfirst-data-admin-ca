@@ -42,7 +42,7 @@
         "wk:page":"Paulson%2C_British_Columbia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"ff4de06dcb04b7068628fe218b4923d7",
+    "wof:geomhash":"a2ed5aa7b55a495e3cf5f0233bf9be00",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -118.11896000000002,
     49.19982
 ],
-  "geometry": {"coordinates":[-118.11896000000002,49.19982],"type":"Point"}
+  "geometry": {"coordinates":[-118.11896,49.19982],"type":"Point"}
 }

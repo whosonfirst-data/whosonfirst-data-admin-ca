@@ -42,7 +42,7 @@
         "wk:page":"Turtle_Lake_South_Bay%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"821bc62300021b2076d8b6aac9fcecd7",
+    "wof:geomhash":"4ffed08176c44a29159fc76a5fea530c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -108.7014,
     53.51688000000001
 ],
-  "geometry": {"coordinates":[-108.70140000000001,53.51688000000001],"type":"Point"}
+  "geometry": {"coordinates":[-108.7014,53.51688],"type":"Point"}
 }

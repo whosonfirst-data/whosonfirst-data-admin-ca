@@ -42,7 +42,7 @@
         "wk:page":"Fletcher%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"543f976c8b63c232836f850fd63a9a29",
+    "wof:geomhash":"b285be003b923a9d369dcf1d23a7c85b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -82.29666999999998,
     42.29417
 ],
-  "geometry": {"coordinates":[-82.29666999999998,42.29417],"type":"Point"}
+  "geometry": {"coordinates":[-82.29667,42.29417],"type":"Point"}
 }

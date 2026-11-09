@@ -38,7 +38,7 @@
         "wk:page":"Lamming_Mills"
     },
     "wof:country":"CA",
-    "wof:geomhash":"b970e20608d65d6a2af7f3409e46da53",
+    "wof:geomhash":"4038fcb87e3799c0990a5be2a2247baa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,5 +64,5 @@
     -120.26236000000002,
     53.34266
 ],
-  "geometry": {"coordinates":[-120.26236000000002,53.34266],"type":"Point"}
+  "geometry": {"coordinates":[-120.26236,53.34266],"type":"Point"}
 }

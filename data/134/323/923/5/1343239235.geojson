@@ -42,7 +42,7 @@
         "wk:page":"Champagne_Landing%2C_Yukon"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fdfc112adea32a6662355cf44f737456",
+    "wof:geomhash":"100bbdb31e49564da3d7af6f0d47321a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -136.48306000000002,
     60.78828000000001
 ],
-  "geometry": {"coordinates":[-136.48306000000002,60.78828000000001],"type":"Point"}
+  "geometry": {"coordinates":[-136.48306,60.78828],"type":"Point"}
 }

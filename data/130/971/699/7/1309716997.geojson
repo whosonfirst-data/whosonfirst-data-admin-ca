@@ -51,7 +51,7 @@
         "wk:page":"Howley%2C_Newfoundland_and_Labrador"
     },
     "wof:country":"CA",
-    "wof:geomhash":"e8259604779fe5bfcaf10b9018d844f6",
+    "wof:geomhash":"e12bf2a46b58c2b15b74187fe2766563",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,5 +77,5 @@
     -57.11496999999999,
     49.16669
 ],
-  "geometry": {"coordinates":[-57.11496999999999,49.16669],"type":"Point"}
+  "geometry": {"coordinates":[-57.11497,49.16669],"type":"Point"}
 }

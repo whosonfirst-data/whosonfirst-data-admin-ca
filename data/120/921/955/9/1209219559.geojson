@@ -51,7 +51,7 @@
         "wk:page":"Whiteway%2C_Newfoundland_and_Labrador"
     },
     "wof:country":"CA",
-    "wof:geomhash":"311d0726ded69460594d5794d213b893",
+    "wof:geomhash":"ac8077eb5b60b342d36c161e537167ee",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -74,5 +74,5 @@
     -53.48139000000001,
     47.68319
 ],
-  "geometry": {"coordinates":[-53.48139000000001,47.68319],"type":"Point"}
+  "geometry": {"coordinates":[-53.48139,47.68319],"type":"Point"}
 }

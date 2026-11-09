@@ -42,7 +42,7 @@
         "wk:page":"Mapes%2C_British_Columbia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"50ef3f336ea39fd4d90d60459d4e026c",
+    "wof:geomhash":"fbddb7df501c6eb5876be391fb48a076",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -123.8698,
     53.88316999999999
 ],
-  "geometry": {"coordinates":[-123.8698,53.88316999999999],"type":"Point"}
+  "geometry": {"coordinates":[-123.8698,53.88317],"type":"Point"}
 }

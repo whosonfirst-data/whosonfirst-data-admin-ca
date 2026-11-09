@@ -42,7 +42,7 @@
         "wk:page":"Picadilly%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"5b93bd7da4f393bf62d7cc4f1538b259",
+    "wof:geomhash":"ddc8537be7587c2c1bbb4d2377e4ad82",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.40019000000001,
     45.71342
 ],
-  "geometry": {"coordinates":[-65.40019000000001,45.71342],"type":"Point"}
+  "geometry": {"coordinates":[-65.40019,45.71342],"type":"Point"}
 }

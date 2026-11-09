@@ -45,7 +45,7 @@
         "wk:page":"Aldersville%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"8281b1e7c08fb357461d8442fa3cbe34",
+    "wof:geomhash":"2a9a2346f2eb159b4c53985dfc1774f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -64.50220999999999,
     44.81705
 ],
-  "geometry": {"coordinates":[-64.50220999999999,44.81705],"type":"Point"}
+  "geometry": {"coordinates":[-64.50221,44.81705],"type":"Point"}
 }

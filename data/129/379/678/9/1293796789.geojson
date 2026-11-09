@@ -46,7 +46,7 @@
         "wk:page":"Bedwell_Harbour"
     },
     "wof:country":"CA",
-    "wof:geomhash":"81c81c06a0b15810464d61783a2fa79f",
+    "wof:geomhash":"a6eb13a7ea5468a685fce10226c9ecd0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,5 +72,5 @@
     -123.227,
     48.74697000000001
 ],
-  "geometry": {"coordinates":[-123.227,48.74697000000001],"type":"Point"}
+  "geometry": {"coordinates":[-123.227,48.74697],"type":"Point"}
 }

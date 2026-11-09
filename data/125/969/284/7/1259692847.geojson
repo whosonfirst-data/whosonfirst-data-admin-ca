@@ -42,7 +42,7 @@
         "wk:page":"Red_Bluff%2C_British_Columbia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"dd037123207d6bb9432f7d29be19a7c3",
+    "wof:geomhash":"6cbc997c2ac0d94c7bff36170de935a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -122.46667,
     52.96666999999999
 ],
-  "geometry": {"coordinates":[-122.46666999999999,52.96666999999999],"type":"Point"}
+  "geometry": {"coordinates":[-122.46667,52.96667],"type":"Point"}
 }

@@ -63,7 +63,7 @@
         "wk:page":"Pelly_Crossing"
     },
     "wof:country":"CA",
-    "wof:geomhash":"3cbdf076de3bcf51cdb063894811b54e",
+    "wof:geomhash":"081f46feb0556e6d69d6520bde8f4786",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -89,5 +89,5 @@
     -136.58133999999998,
     62.83031
 ],
-  "geometry": {"coordinates":[-136.58133999999998,62.83031],"type":"Point"}
+  "geometry": {"coordinates":[-136.58134,62.83031],"type":"Point"}
 }

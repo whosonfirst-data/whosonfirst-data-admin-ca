@@ -42,7 +42,7 @@
         "wk:page":"Longworth%2C_British_Columbia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"5e9d80a460adcca01d79753856710ddb",
+    "wof:geomhash":"c3f1a016a72a6555ebdeb44521f3e623",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -121.46956000000002,
     53.91664
 ],
-  "geometry": {"coordinates":[-121.46956000000002,53.91664],"type":"Point"}
+  "geometry": {"coordinates":[-121.46956,53.91664],"type":"Point"}
 }

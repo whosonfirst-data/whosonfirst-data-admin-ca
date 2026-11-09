@@ -45,7 +45,7 @@
         "wk:page":"Ben_Eoin"
     },
     "wof:country":"CA",
-    "wof:geomhash":"e7b236b107e1bb618265d09b524a5eac",
+    "wof:geomhash":"5a01da41012dd7c58f87c7dbe2ea9bbf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -60.46103000000001,
     45.96261
 ],
-  "geometry": {"coordinates":[-60.46103000000001,45.96261],"type":"Point"}
+  "geometry": {"coordinates":[-60.46103,45.96261],"type":"Point"}
 }

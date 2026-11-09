@@ -45,7 +45,7 @@
         "wk:page":"Shunacadie"
     },
     "wof:country":"CA",
-    "wof:geomhash":"26f9123850d1b08cb8c6b7e352b3cea3",
+    "wof:geomhash":"673560f4e7315b695409f925a140eee5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -60.64848000000001,
     46.01684
 ],
-  "geometry": {"coordinates":[-60.64848000000001,46.01684],"type":"Point"}
+  "geometry": {"coordinates":[-60.64848,46.01684],"type":"Point"}
 }

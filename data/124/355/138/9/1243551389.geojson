@@ -42,7 +42,7 @@
         "wk:page":"Thibeauville%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"7702bf377a1de1ca93047d3ecd0e7166",
+    "wof:geomhash":"b49a64212dc9442beb2b47ae3a069e5e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -60.99471,
     45.65172000000001
 ],
-  "geometry": {"coordinates":[-60.99471,45.65172000000001],"type":"Point"}
+  "geometry": {"coordinates":[-60.99471,45.65172],"type":"Point"}
 }

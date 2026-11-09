@@ -45,7 +45,7 @@
         "wk:page":"Poe%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"9cb3683d603d55ba334d8113623e7e59",
+    "wof:geomhash":"066fa98fe932626a9dcc5c001c18d88d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -112.33516000000002,
     53.26684
 ],
-  "geometry": {"coordinates":[-112.33516000000002,53.26684],"type":"Point"}
+  "geometry": {"coordinates":[-112.33516,53.26684],"type":"Point"}
 }

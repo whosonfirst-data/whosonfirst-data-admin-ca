@@ -45,7 +45,7 @@
         "wk:page":"Rock_Harbour%2C_Newfoundland_and_Labrador"
     },
     "wof:country":"CA",
-    "wof:geomhash":"b6c6d237570990c676362391db257369",
+    "wof:geomhash":"16935d0b37ab9912548eb7d9ef0ad656",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -55.04499000000001,
     47.17493
 ],
-  "geometry": {"coordinates":[-55.04499000000001,47.17493],"type":"Point"}
+  "geometry": {"coordinates":[-55.04499,47.17493],"type":"Point"}
 }

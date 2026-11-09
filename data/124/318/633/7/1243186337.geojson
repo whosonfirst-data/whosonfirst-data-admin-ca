@@ -45,7 +45,7 @@
         "wk:page":"Grouard"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d2dcc774dc273cf153f1dfb721a452fe",
+    "wof:geomhash":"7bbf99f07a27f658cd2134ae0bdabd1b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -116.16111,
     55.52028000000001
 ],
-  "geometry": {"coordinates":[-116.16110999999999,55.52028000000001],"type":"Point"}
+  "geometry": {"coordinates":[-116.16111,55.52028],"type":"Point"}
 }

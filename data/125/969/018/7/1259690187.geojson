@@ -42,7 +42,7 @@
         "wk:page":"Sillikers%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"63f1d7b87b37876cba425e10b6001813",
+    "wof:geomhash":"dd9332a85bc0b3a0b4768017e8fe2119",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.87586999999999,
     46.94761
 ],
-  "geometry": {"coordinates":[-65.87586999999999,46.94761],"type":"Point"}
+  "geometry": {"coordinates":[-65.87587,46.94761],"type":"Point"}
 }

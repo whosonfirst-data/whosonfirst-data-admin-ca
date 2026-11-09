@@ -42,7 +42,7 @@
         "wk:page":"Chapman_Settlement"
     },
     "wof:country":"CA",
-    "wof:geomhash":"6c162f2f78fbf681c607d4b737459355",
+    "wof:geomhash":"8b5e8527aa7d75b8a7029f53d13c87e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.93151,
     45.94667000000001
 ],
-  "geometry": {"coordinates":[-63.93151,45.94667000000001],"type":"Point"}
+  "geometry": {"coordinates":[-63.93151,45.94667],"type":"Point"}
 }

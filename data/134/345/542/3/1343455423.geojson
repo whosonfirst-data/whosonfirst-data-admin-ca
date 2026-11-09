@@ -42,7 +42,7 @@
         "wk:page":"Brooklyn_Street%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"6d51d1ea0db21abd2fff755f253e5a8c",
+    "wof:geomhash":"10ebc22be2428f5ad2258bebbed0be47",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.64860999999999,
     45.08338
 ],
-  "geometry": {"coordinates":[-64.64860999999999,45.08338],"type":"Point"}
+  "geometry": {"coordinates":[-64.64861,45.08338],"type":"Point"}
 }

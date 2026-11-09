@@ -42,7 +42,7 @@
         "wk:page":"Ross_Ferry%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"0a096b501db56f784f8daa7f9cd6a3fb",
+    "wof:geomhash":"116ccfe94013ff54e6b11aa45c347d38",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -60.58403000000001,
     46.14366
 ],
-  "geometry": {"coordinates":[-60.58403000000001,46.14366],"type":"Point"}
+  "geometry": {"coordinates":[-60.58403,46.14366],"type":"Point"}
 }

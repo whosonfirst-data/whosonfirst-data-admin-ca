@@ -39,7 +39,7 @@
         "wk:page":"Bangor%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"2b8fa9243f2a97aec6bf9f5b14d768a9",
+    "wof:geomhash":"742a4b26fb951716403016f8247c6246",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -62,5 +62,5 @@
     -66.09066999999999,
     44.218
 ],
-  "geometry": {"coordinates":[-66.09066999999999,44.218],"type":"Point"}
+  "geometry": {"coordinates":[-66.09067,44.218],"type":"Point"}
 }

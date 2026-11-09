@@ -42,7 +42,7 @@
         "wk:page":"Logan%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"80660c2ca23e329be7c8ecaba0fbf7e4",
+    "wof:geomhash":"1f6ad381a0c66237c146c3cd0e0975f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -81.16644000000002,
     43.51679
 ],
-  "geometry": {"coordinates":[-81.16644000000002,43.51679],"type":"Point"}
+  "geometry": {"coordinates":[-81.16644,43.51679],"type":"Point"}
 }

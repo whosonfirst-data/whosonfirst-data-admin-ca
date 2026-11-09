@@ -51,7 +51,7 @@
         "wk:page":"Mabou%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"34bc631d2b6d699d5071657200680af0",
+    "wof:geomhash":"c4b9d893ee80c520ff8762406a952877",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,5 +77,5 @@
     -61.38183000000001,
     46.06684
 ],
-  "geometry": {"coordinates":[-61.38183000000001,46.06684],"type":"Point"}
+  "geometry": {"coordinates":[-61.38183,46.06684],"type":"Point"}
 }

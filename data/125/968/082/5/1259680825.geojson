@@ -45,7 +45,7 @@
         "wk:page":"Preston%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"b78d63fa03d1e6ab41985a8fb7870249",
+    "wof:geomhash":"3ec560cd82095b4fb6594d6ce3e226b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -63.43423000000001,
     44.71569
 ],
-  "geometry": {"coordinates":[-63.43423000000001,44.71569],"type":"Point"}
+  "geometry": {"coordinates":[-63.43423,44.71569],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "wk:page":"Coates_Mills"
     },
     "wof:country":"CA",
-    "wof:geomhash":"aee780167006de8dbaed2821278ca05f",
+    "wof:geomhash":"6a330c2e205521f2efdb6042880ad24c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -64.87449000000001,
     46.37087
 ],
-  "geometry": {"coordinates":[-64.87449000000001,46.37087],"type":"Point"}
+  "geometry": {"coordinates":[-64.87449,46.37087],"type":"Point"}
 }

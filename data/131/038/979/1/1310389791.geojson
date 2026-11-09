@@ -48,7 +48,7 @@
         "wk:page":"Souris_West"
     },
     "wof:country":"CA",
-    "wof:geomhash":"5ebd5a31ac65f39265e223da31677995",
+    "wof:geomhash":"bd29c1280b54810667a0fb712d91f91d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,5 +74,5 @@
     -62.28191999999999,
     46.3668
 ],
-  "geometry": {"coordinates":[-62.28191999999999,46.3668],"type":"Point"}
+  "geometry": {"coordinates":[-62.28192,46.3668],"type":"Point"}
 }

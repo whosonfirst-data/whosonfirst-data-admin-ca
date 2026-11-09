@@ -48,7 +48,7 @@
         "wk:page":"Donagh%2C_Prince_Edward_Island"
     },
     "wof:country":"CA",
-    "wof:geomhash":"290c58ba1ba28811e0b46f0f84576b13",
+    "wof:geomhash":"f40fe78942e0d36a185cd51fd7a33f9a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,5 +74,5 @@
     -62.94866999999999,
     46.26681
 ],
-  "geometry": {"coordinates":[-62.94866999999999,46.26681],"type":"Point"}
+  "geometry": {"coordinates":[-62.94867,46.26681],"type":"Point"}
 }

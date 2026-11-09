@@ -42,7 +42,7 @@
         "wk:page":"Noel_Shore%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"ca8348bb5066c61c4f4e4b2674593adc",
+    "wof:geomhash":"a30a3f15d04388409bec2ac915c09487",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.63339000000001,
     45.31314
 ],
-  "geometry": {"coordinates":[-63.63339000000001,45.31314],"type":"Point"}
+  "geometry": {"coordinates":[-63.63339,45.31314],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Devon%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"00f92ba3998e19590bf70ac1f50dd2d4",
+    "wof:geomhash":"02ee8cb4663ba9ee486221464917a687",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.39868000000001,
     44.91685
 ],
-  "geometry": {"coordinates":[-63.39868000000001,44.91685],"type":"Point"}
+  "geometry": {"coordinates":[-63.39868,44.91685],"type":"Point"}
 }

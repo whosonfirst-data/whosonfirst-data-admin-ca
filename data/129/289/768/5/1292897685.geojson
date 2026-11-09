@@ -42,7 +42,7 @@
         "wk:page":"Lilydale%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"a36d614f305355846a053e9fe311f99f",
+    "wof:geomhash":"a2085064c73ad62240393e68b9b6d8b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.34170999999999,
     44.39183
 ],
-  "geometry": {"coordinates":[-64.34170999999999,44.39183],"type":"Point"}
+  "geometry": {"coordinates":[-64.34171,44.39183],"type":"Point"}
 }

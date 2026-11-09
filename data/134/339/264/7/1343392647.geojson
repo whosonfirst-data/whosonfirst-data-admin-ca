@@ -50,7 +50,7 @@
         "wk:page":"Gaultois"
     },
     "wof:country":"CA",
-    "wof:geomhash":"0fc0e8bb1cc3de929e124b6eb9c21a21",
+    "wof:geomhash":"10efad3d5df72926161f6388ce0dda93",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,5 +75,5 @@
     -55.89834000000001,
     47.59995
 ],
-  "geometry": {"coordinates":[-55.89834000000001,47.59995],"type":"Point"}
+  "geometry": {"coordinates":[-55.89834,47.59995],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Bass_River_Point%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"9c1e5b25b0bf2c0d89f1de7983006521",
+    "wof:geomhash":"225ace8e727a0d72c05436dc82ba1d09",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.04234,
     46.55909000000001
 ],
-  "geometry": {"coordinates":[-65.04234,46.55909000000001],"type":"Point"}
+  "geometry": {"coordinates":[-65.04234,46.55909],"type":"Point"}
 }

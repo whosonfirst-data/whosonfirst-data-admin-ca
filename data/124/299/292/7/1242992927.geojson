@@ -42,7 +42,7 @@
         "wk:page":"Sunset_Corners"
     },
     "wof:country":"CA",
-    "wof:geomhash":"a158b6a0b7896d14be7967f96779010c",
+    "wof:geomhash":"b58ff089b594fb49b348ec0b6784ce53",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -79.64719000000002,
     43.76725
 ],
-  "geometry": {"coordinates":[-79.64719000000002,43.76725],"type":"Point"}
+  "geometry": {"coordinates":[-79.64719,43.76725],"type":"Point"}
 }

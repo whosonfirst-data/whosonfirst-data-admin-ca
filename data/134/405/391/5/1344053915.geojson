@@ -42,7 +42,7 @@
         "wk:page":"Upper_Lawrencetown%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"368e629d8f6798176ca32c0d530a85bc",
+    "wof:geomhash":"8114401a89718a29b7a2f1de4510b63b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.43369000000001,
     44.68423
 ],
-  "geometry": {"coordinates":[-63.43369000000001,44.68423],"type":"Point"}
+  "geometry": {"coordinates":[-63.43369,44.68423],"type":"Point"}
 }

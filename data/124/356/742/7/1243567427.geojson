@@ -42,7 +42,7 @@
         "wk:page":"Montney%2C_British_Columbia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"4c943aa40ea2d21b3e10b02345bc79f6",
+    "wof:geomhash":"bab771e9969b70a9f0c1b79c371a4cd5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -120.91965,
     56.44988000000001
 ],
-  "geometry": {"coordinates":[-120.91965,56.44988000000001],"type":"Point"}
+  "geometry": {"coordinates":[-120.91965,56.44988],"type":"Point"}
 }

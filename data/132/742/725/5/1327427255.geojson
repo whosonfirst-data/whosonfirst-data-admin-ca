@@ -42,7 +42,7 @@
         "wk:page":"Hallebourg%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"28a1dfb8215910767b0e1a93bb4b892d",
+    "wof:geomhash":"7dc30472e15f13430c808f1ab7c69454",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -83.51653,
     49.66692000000001
 ],
-  "geometry": {"coordinates":[-83.51653,49.66692000000001],"type":"Point"}
+  "geometry": {"coordinates":[-83.51653,49.66692],"type":"Point"}
 }

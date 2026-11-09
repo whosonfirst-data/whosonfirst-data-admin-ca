@@ -42,7 +42,7 @@
         "wk:page":"Tachie%2C_British_Columbia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"065021666e400e5d0a4bc56b706da0f1",
+    "wof:geomhash":"28e048fb0ff7abe5e8a15c35926a6a9f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -124.75325,
     54.64986999999999
 ],
-  "geometry": {"coordinates":[-124.75324999999999,54.64986999999999],"type":"Point"}
+  "geometry": {"coordinates":[-124.75325,54.64987],"type":"Point"}
 }

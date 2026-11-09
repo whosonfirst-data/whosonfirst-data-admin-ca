@@ -45,7 +45,7 @@
         "wk:page":"Roseville%2C_Prince_Edward_Island"
     },
     "wof:country":"CA",
-    "wof:geomhash":"bc00da7ae6a589929aaab91d13b32726",
+    "wof:geomhash":"4157a08916b6451209fec561c050e00d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -64.24873000000001,
     46.81685
 ],
-  "geometry": {"coordinates":[-64.24873000000001,46.81685],"type":"Point"}
+  "geometry": {"coordinates":[-64.24873,46.81685],"type":"Point"}
 }

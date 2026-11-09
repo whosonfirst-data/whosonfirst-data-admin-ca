@@ -45,7 +45,7 @@
         "wk:page":"Hebron%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"3cae9c3651fd5c6f1915b0f228040328",
+    "wof:geomhash":"88def90437a05aa92d27987684f18590",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -66.08216999999999,
     43.88345
 ],
-  "geometry": {"coordinates":[-66.08216999999999,43.88345],"type":"Point"}
+  "geometry": {"coordinates":[-66.08217,43.88345],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "wk:page":"Lamoureux%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"a64396afd0d8cb361bcf76929a8a8290",
+    "wof:geomhash":"1776783d23e9dbe4136c54fb3385f197",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -113.22444,
     53.71528000000001
 ],
-  "geometry": {"coordinates":[-113.22444,53.71528000000001],"type":"Point"}
+  "geometry": {"coordinates":[-113.22444,53.71528],"type":"Point"}
 }

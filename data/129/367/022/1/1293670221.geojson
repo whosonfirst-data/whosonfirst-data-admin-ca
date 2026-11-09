@@ -42,7 +42,7 @@
         "wk:page":"Neuhorst"
     },
     "wof:country":"CA",
-    "wof:geomhash":"e93842aeb3d5ff0d2d0948dc510574f3",
+    "wof:geomhash":"c4fd6afc7fdf3275359288c7d991dfae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -106.5845,
     52.40009000000001
 ],
-  "geometry": {"coordinates":[-106.58450000000001,52.40009000000001],"type":"Point"}
+  "geometry": {"coordinates":[-106.5845,52.40009],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "wk:page":"Carlton%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d448dde96fe70b097ce781339849dc0c",
+    "wof:geomhash":"b42fee09fcdaa72ec5725d28176e6190",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -106.50114,
     52.83338000000001
 ],
-  "geometry": {"coordinates":[-106.50114000000001,52.83338000000001],"type":"Point"}
+  "geometry": {"coordinates":[-106.50114,52.83338],"type":"Point"}
 }

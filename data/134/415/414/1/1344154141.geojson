@@ -48,7 +48,7 @@
         "wk:page":"Westcliffe_Estates"
     },
     "wof:country":"CA",
-    "wof:geomhash":"592d1319d0495e155a368b5b116d4c54",
+    "wof:geomhash":"b287645ca919834ab3cdf12cf1732fe9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,5 +74,5 @@
     -75.83639000000002,
     45.31583
 ],
-  "geometry": {"coordinates":[-75.83639000000002,45.31583],"type":"Point"}
+  "geometry": {"coordinates":[-75.83639,45.31583],"type":"Point"}
 }

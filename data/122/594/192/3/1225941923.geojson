@@ -42,7 +42,7 @@
         "wk:page":"Drew%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"3b9ed9eb5882781c034618c5a4ab56cc",
+    "wof:geomhash":"4401ec8cf5a5315001ff6231ece2939c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -80.88833000000002,
     43.97889
 ],
-  "geometry": {"coordinates":[-80.88833000000002,43.97889],"type":"Point"}
+  "geometry": {"coordinates":[-80.88833,43.97889],"type":"Point"}
 }

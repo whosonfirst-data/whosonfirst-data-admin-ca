@@ -42,7 +42,7 @@
         "wk:page":"Nemegos%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"402ce4f93853eb5f53be4d28fa58e158",
+    "wof:geomhash":"82a575f1184d40740c281dece50d42dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -83.19979000000002,
     47.71682
 ],
-  "geometry": {"coordinates":[-83.19979000000002,47.71682],"type":"Point"}
+  "geometry": {"coordinates":[-83.19979,47.71682],"type":"Point"}
 }

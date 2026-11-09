@@ -56,7 +56,7 @@
         "wk:page":"St._Lewis%2C_Newfoundland_and_Labrador"
     },
     "wof:country":"CA",
-    "wof:geomhash":"0aa3afa78b31d9424791a85bdaed4790",
+    "wof:geomhash":"c4c5d9f3ab1f2baad9a14e8ea2c98800",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -81,5 +81,5 @@
     -55.68463000000001,
     52.36894
 ],
-  "geometry": {"coordinates":[-55.68463000000001,52.36894],"type":"Point"}
+  "geometry": {"coordinates":[-55.68463,52.36894],"type":"Point"}
 }

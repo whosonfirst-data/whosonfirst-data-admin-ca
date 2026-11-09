@@ -42,7 +42,7 @@
         "wk:page":"Portree%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"e83a40b68d9942dbfacfc80a5501cdfd",
+    "wof:geomhash":"4d6d7845668c54048417325842f664dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -60.97201999999999,
     46.39649
 ],
-  "geometry": {"coordinates":[-60.97201999999999,46.39649],"type":"Point"}
+  "geometry": {"coordinates":[-60.97202,46.39649],"type":"Point"}
 }

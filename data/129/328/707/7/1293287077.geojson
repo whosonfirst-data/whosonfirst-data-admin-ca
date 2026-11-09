@@ -42,7 +42,7 @@
         "wk:page":"Marshalltown%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"466c1637d0b835b978eca148ca8e9550",
+    "wof:geomhash":"aafbe0ab07947503201d381fecbe1b7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.80991999999999,
     44.57954
 ],
-  "geometry": {"coordinates":[-65.80991999999999,44.57954],"type":"Point"}
+  "geometry": {"coordinates":[-65.80992,44.57954],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "wk:page":"St._Edward%2C_Prince_Edward_Island"
     },
     "wof:country":"CA",
-    "wof:geomhash":"9009705ec22f5a34a4b63d7b57f855f3",
+    "wof:geomhash":"806b7d3fdaa60e2e0e8a10f762f60695",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -64.18203000000001,
     46.88345
 ],
-  "geometry": {"coordinates":[-64.18203000000001,46.88345],"type":"Point"}
+  "geometry": {"coordinates":[-64.18203,46.88345],"type":"Point"}
 }

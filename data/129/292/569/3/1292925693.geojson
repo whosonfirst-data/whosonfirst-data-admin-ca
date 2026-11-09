@@ -45,7 +45,7 @@
         "wk:page":"Myrtle_Station%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"ffc90140abb89eed3d614aafff48616a",
+    "wof:geomhash":"327bec63094bbc6e82aaf18ac11e16ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -78.98288000000002,
     44.01682
 ],
-  "geometry": {"coordinates":[-78.98288000000002,44.01682],"type":"Point"}
+  "geometry": {"coordinates":[-78.98288,44.01682],"type":"Point"}
 }

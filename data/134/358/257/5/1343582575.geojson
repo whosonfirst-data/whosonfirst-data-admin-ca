@@ -42,7 +42,7 @@
         "wk:page":"Smithfield%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"e4f36f72a856755c7cea511e8c1470a3",
+    "wof:geomhash":"82b2bef0a8ec32e1c33a4ef9cd982b38",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -62.13189000000001,
     45.26685
 ],
-  "geometry": {"coordinates":[-62.13189000000001,45.26685],"type":"Point"}
+  "geometry": {"coordinates":[-62.13189,45.26685],"type":"Point"}
 }

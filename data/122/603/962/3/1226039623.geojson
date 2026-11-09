@@ -45,7 +45,7 @@
         "wk:page":"Crousetown%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"4be496035630aa4b4f0bb3d55b5b7bb2",
+    "wof:geomhash":"beecd602f03dda984fdaf2ccb46e8d1a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -64.48548000000001,
     44.26169
 ],
-  "geometry": {"coordinates":[-64.48548000000001,44.26169],"type":"Point"}
+  "geometry": {"coordinates":[-64.48548,44.26169],"type":"Point"}
 }

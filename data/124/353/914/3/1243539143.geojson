@@ -48,7 +48,7 @@
         "wk:page":"Tignish_Shore%2C_Prince_Edward_Island"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f2854521c51ed6af1e6a1d21735c4675",
+    "wof:geomhash":"1c6627e92f437c07df7b6936925d3025",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,5 +74,5 @@
     -63.99872,
     46.95014000000001
 ],
-  "geometry": {"coordinates":[-63.99872,46.95014000000001],"type":"Point"}
+  "geometry": {"coordinates":[-63.99872,46.95014],"type":"Point"}
 }

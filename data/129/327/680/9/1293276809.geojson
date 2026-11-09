@@ -45,7 +45,7 @@
         "wk:page":"Mont-Carmel%2C_Prince_Edward_Island"
     },
     "wof:country":"CA",
-    "wof:geomhash":"cf60b403cd5fd379a618088cea8379f9",
+    "wof:geomhash":"1e2ce50072786fd60fa0592aaf7a75be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -64.03206999999999,
     46.40014
 ],
-  "geometry": {"coordinates":[-64.03206999999999,46.40014],"type":"Point"}
+  "geometry": {"coordinates":[-64.03207,46.40014],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "wk:page":"Knutsford%2C_Prince_Edward_Island"
     },
     "wof:country":"CA",
-    "wof:geomhash":"2c64978e514bc3800b1273e3632dcc4f",
+    "wof:geomhash":"7932ea7ad05c20a0f8b1e840912800b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -64.28204000000001,
     46.70015
 ],
-  "geometry": {"coordinates":[-64.28204000000001,46.70015],"type":"Point"}
+  "geometry": {"coordinates":[-64.28204,46.70015],"type":"Point"}
 }

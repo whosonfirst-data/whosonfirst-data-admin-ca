@@ -42,7 +42,7 @@
         "wk:page":"Old_Bella_Bella"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d4f9e1728ed7aa39019fe3457f4b788c",
+    "wof:geomhash":"414cdc0c076fd75c1d421a41ec7ce4c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -128.12028,
     52.15472000000001
 ],
-  "geometry": {"coordinates":[-128.12028000000001,52.15472000000001],"type":"Point"}
+  "geometry": {"coordinates":[-128.12028,52.15472],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Genesee%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"08b1192480d58afaebaf89b483024281",
+    "wof:geomhash":"e0542547767311446f7a06d576fd0b2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -114.33538,
     53.35013000000001
 ],
-  "geometry": {"coordinates":[-114.33538,53.35013000000001],"type":"Point"}
+  "geometry": {"coordinates":[-114.33538,53.35013],"type":"Point"}
 }

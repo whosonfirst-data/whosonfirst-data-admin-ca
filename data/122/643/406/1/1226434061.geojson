@@ -42,7 +42,7 @@
         "wk:page":"East_Kemptville%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"dc16f99bc79bbe3c3889d7a8feff5ffc",
+    "wof:geomhash":"f55ddbe6829e27743d0d22cf7f8dd17a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.77965999999999,
     44.07698
 ],
-  "geometry": {"coordinates":[-65.77965999999999,44.07698],"type":"Point"}
+  "geometry": {"coordinates":[-65.77966,44.07698],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "wk:page":"Chester_Grant%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"516644ac45f55225cad4377f1af7a1ff",
+    "wof:geomhash":"cdb607a5d59078135261544b846d218c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -64.32148000000001,
     44.61212
 ],
-  "geometry": {"coordinates":[-64.32148000000001,44.61212],"type":"Point"}
+  "geometry": {"coordinates":[-64.32148,44.61212],"type":"Point"}
 }

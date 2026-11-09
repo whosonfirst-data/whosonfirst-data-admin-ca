@@ -45,7 +45,7 @@
         "wk:page":"Pennfield%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"de7e378658d208767329953b1034264c",
+    "wof:geomhash":"4f85f12652e5a6e6af44772c8497e5c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -66.73895999999999,
     45.10157
 ],
-  "geometry": {"coordinates":[-66.73895999999999,45.10157],"type":"Point"}
+  "geometry": {"coordinates":[-66.73896,45.10157],"type":"Point"}
 }

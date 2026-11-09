@@ -50,7 +50,7 @@
         "wk:page":"Port_Anson"
     },
     "wof:country":"CA",
-    "wof:geomhash":"cca2c818390a75cfc683fcab7307727b",
+    "wof:geomhash":"a2e3385a2ea5632ae8677e41fa180971",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,5 +75,5 @@
     -55.83148000000001,
     49.53325
 ],
-  "geometry": {"coordinates":[-55.83148000000001,49.53325],"type":"Point"}
+  "geometry": {"coordinates":[-55.83148,49.53325],"type":"Point"}
 }

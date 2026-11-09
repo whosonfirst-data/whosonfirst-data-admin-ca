@@ -44,7 +44,7 @@
         "wk:page":"Saint-C%C5%93ur-de-Marie%2C_Quebec"
     },
     "wof:country":"CA",
-    "wof:geomhash":"4325c6dbe7e449f49f74fc2f41aa74f5",
+    "wof:geomhash":"0d6f1df340b173134973d8b473538b58",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -67,5 +67,5 @@
     -71.6991,
     48.63339000000001
 ],
-  "geometry": {"coordinates":[-71.6991,48.63339000000001],"type":"Point"}
+  "geometry": {"coordinates":[-71.6991,48.63339],"type":"Point"}
 }

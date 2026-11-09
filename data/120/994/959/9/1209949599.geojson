@@ -42,7 +42,7 @@
         "wk:page":"Seaview%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"0989523c1aad45c3bc2b259c70302209",
+    "wof:geomhash":"722b7503b2e896958dad092fe1499417",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -66.19161,
     45.16079000000001
 ],
-  "geometry": {"coordinates":[-66.19161,45.16079000000001],"type":"Point"}
+  "geometry": {"coordinates":[-66.19161,45.16079],"type":"Point"}
 }

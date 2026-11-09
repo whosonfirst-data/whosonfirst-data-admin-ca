@@ -48,7 +48,7 @@
         "wk:page":"McCabe_Creek"
     },
     "wof:country":"CA",
-    "wof:geomhash":"8737a7f503f26e972cabb72bec7c4da2",
+    "wof:geomhash":"02fe9fabd75bb0697788f146857a854f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,5 +74,5 @@
     -136.77071999999998,
     62.53558
 ],
-  "geometry": {"coordinates":[-136.77071999999998,62.53558],"type":"Point"}
+  "geometry": {"coordinates":[-136.77072,62.53558],"type":"Point"}
 }

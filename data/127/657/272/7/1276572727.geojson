@@ -42,7 +42,7 @@
         "wk:page":"Newellton%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"8c2e1b588262b62bba8316968f823caf",
+    "wof:geomhash":"0afba14ca15cc0d494cff8997bbb18a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.63353000000001,
     43.46833
 ],
-  "geometry": {"coordinates":[-65.63353000000001,43.46833],"type":"Point"}
+  "geometry": {"coordinates":[-65.63353,43.46833],"type":"Point"}
 }

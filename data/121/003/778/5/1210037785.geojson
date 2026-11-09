@@ -42,7 +42,7 @@
         "wk:page":"Lower_Nine_Mile_River%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"3a98282a2dceed29480865d0e8482fe4",
+    "wof:geomhash":"326982ea893707c76a3aeb7d534aa737",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.56053000000001,
     45.0243
 ],
-  "geometry": {"coordinates":[-63.56053000000001,45.0243],"type":"Point"}
+  "geometry": {"coordinates":[-63.56053,45.0243],"type":"Point"}
 }

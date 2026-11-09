@@ -45,7 +45,7 @@
         "wk:page":"Newcomb_Corner%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"a8a07150bd0e74f5777b5690c22e7406",
+    "wof:geomhash":"5ae6e82ebfca4e123233a9df5fbb92a6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -63.04239000000001,
     45.0686
 ],
-  "geometry": {"coordinates":[-63.04239000000001,45.0686],"type":"Point"}
+  "geometry": {"coordinates":[-63.04239,45.0686],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "wk:page":"Little_Smoky"
     },
     "wof:country":"CA",
-    "wof:geomhash":"c95c41a25b1dca67a46f034aba1b3c22",
+    "wof:geomhash":"a87a6bffbdfddd56faadc1959078280e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -117.17972,
     54.73889000000001
 ],
-  "geometry": {"coordinates":[-117.17972,54.73889000000001],"type":"Point"}
+  "geometry": {"coordinates":[-117.17972,54.73889],"type":"Point"}
 }

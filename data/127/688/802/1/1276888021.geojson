@@ -45,7 +45,7 @@
         "wk:page":"Birch_Cove"
     },
     "wof:country":"CA",
-    "wof:geomhash":"8301a41c591cfe064b4b24c3ea9fcde1",
+    "wof:geomhash":"38d2899a9729c5a7d120980941541866",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -114.3688,
     53.95014000000001
 ],
-  "geometry": {"coordinates":[-114.36879999999999,53.95014000000001],"type":"Point"}
+  "geometry": {"coordinates":[-114.3688,53.95014],"type":"Point"}
 }

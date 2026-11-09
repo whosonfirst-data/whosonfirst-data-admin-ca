@@ -51,7 +51,7 @@
         "wk:page":"Colchester%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"50d6e59a0e3db3ff981e03701e22b66b",
+    "wof:geomhash":"08475dfaf3f99b585986dfae24b567d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,5 +77,5 @@
     -82.93314000000002,
     41.98339
 ],
-  "geometry": {"coordinates":[-82.93314000000002,41.98339],"type":"Point"}
+  "geometry": {"coordinates":[-82.93314,41.98339],"type":"Point"}
 }

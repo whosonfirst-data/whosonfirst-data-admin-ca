@@ -42,7 +42,7 @@
         "wk:page":"Paradis_Bay%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"cf02756b735800d2f182ca262d1c3f9f",
+    "wof:geomhash":"e6363dba43d0c79d2fd02372b0cbfeb5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -79.53296999999998,
     47.33345
 ],
-  "geometry": {"coordinates":[-79.53296999999998,47.33345],"type":"Point"}
+  "geometry": {"coordinates":[-79.53297,47.33345],"type":"Point"}
 }

@@ -49,7 +49,7 @@
         "wk:page":"Armstrong,_Thunder_Bay_District,_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"9094f49ff18bdbd385ad72391ff12e80",
+    "wof:geomhash":"32d33b92882bdd74a704434ad70f498e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,5 +75,5 @@
     -89.05518000000002,
     50.29449
 ],
-  "geometry": {"coordinates":[-89.05518000000002,50.29449],"type":"Point"}
+  "geometry": {"coordinates":[-89.05518,50.29449],"type":"Point"}
 }

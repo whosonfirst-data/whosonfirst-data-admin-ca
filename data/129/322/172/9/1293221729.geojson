@@ -42,7 +42,7 @@
         "wk:page":"Devils_Island_%28Nova_Scotia%29"
     },
     "wof:country":"CA",
-    "wof:geomhash":"91877f89fcbf152dafe6e44561e6da0e",
+    "wof:geomhash":"d8f2637b3bcaa10b4391612b72f6598c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.45928000000001,
     44.58089
 ],
-  "geometry": {"coordinates":[-63.45928000000001,44.58089],"type":"Point"}
+  "geometry": {"coordinates":[-63.45928,44.58089],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"The_Lodge%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"da7b312cf55c76bb9300615b8311d4ed",
+    "wof:geomhash":"0808bee2fe39238c2ba28cb1e0f635ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.03211999999999,
     44.55665
 ],
-  "geometry": {"coordinates":[-64.03211999999999,44.55665],"type":"Point"}
+  "geometry": {"coordinates":[-64.03212,44.55665],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Pomquet_Forks"
     },
     "wof:country":"CA",
-    "wof:geomhash":"545102f1e57f86ecb38763fb4af82606",
+    "wof:geomhash":"fedb9ae74641d451f41bc9ab155040b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -61.81511999999999,
     45.59001
 ],
-  "geometry": {"coordinates":[-61.81511999999999,45.59001],"type":"Point"}
+  "geometry": {"coordinates":[-61.81512,45.59001],"type":"Point"}
 }

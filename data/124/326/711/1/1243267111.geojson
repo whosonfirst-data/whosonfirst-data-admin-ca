@@ -42,7 +42,7 @@
         "wk:page":"Sheslay%2C_British_Columbia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"8ddab6027ae21e98e62794cec44d1bdb",
+    "wof:geomhash":"5c8ceffb4dc10b87a3aa56311cddb83f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -131.80375,
     58.26629000000001
 ],
-  "geometry": {"coordinates":[-131.80375000000001,58.26629000000001],"type":"Point"}
+  "geometry": {"coordinates":[-131.80375,58.26629],"type":"Point"}
 }

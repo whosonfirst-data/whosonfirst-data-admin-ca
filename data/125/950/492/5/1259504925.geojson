@@ -45,7 +45,7 @@
         "wk:page":"Meat_Cove"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f9f34465078951e678e709fa0c91c60c",
+    "wof:geomhash":"0a5528055934da108ebb5129360aa06f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -60.56016999999999,
     47.02385
 ],
-  "geometry": {"coordinates":[-60.56016999999999,47.02385],"type":"Point"}
+  "geometry": {"coordinates":[-60.56017,47.02385],"type":"Point"}
 }

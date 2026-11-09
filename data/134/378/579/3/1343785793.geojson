@@ -42,7 +42,7 @@
         "wk:page":"Taylor_Village%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"1f9dec6244cfb87fa3b8b9a5161a4795",
+    "wof:geomhash":"3cdac53d7a07e2852b53467ab5a3efa6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.55103000000001,
     45.93785
 ],
-  "geometry": {"coordinates":[-64.55103000000001,45.93785],"type":"Point"}
+  "geometry": {"coordinates":[-64.55103,45.93785],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"West_LaHave%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"cba6507a267b7f92dd11bc72dd63bb3f",
+    "wof:geomhash":"e45156836c4d69e81936cc1df71cff67",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.41696999999999,
     44.31527
 ],
-  "geometry": {"coordinates":[-64.41696999999999,44.31527],"type":"Point"}
+  "geometry": {"coordinates":[-64.41697,44.31527],"type":"Point"}
 }

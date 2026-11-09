@@ -42,7 +42,7 @@
         "wk:page":"Titanic%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f082b117cd7fdc111fbc79a8103e7f1b",
+    "wof:geomhash":"ca84b750d1e61c6c2c4feb0e4566c1ea",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -65,5 +65,5 @@
     -106.43443,
     52.86678000000001
 ],
-  "geometry": {"coordinates":[-106.43443000000001,52.86678000000001],"type":"Point"}
+  "geometry": {"coordinates":[-106.43443,52.86678],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "wk:page":"Tompkins%2C_Newfoundland_and_Labrador"
     },
     "wof:country":"CA",
-    "wof:geomhash":"1353f292b4c4642af946a1a83e70439d",
+    "wof:geomhash":"bf22815326afd0bc8288d38d13b12496",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -59.21528000000001,
     47.80001
 ],
-  "geometry": {"coordinates":[-59.21528000000001,47.80001],"type":"Point"}
+  "geometry": {"coordinates":[-59.21528,47.80001],"type":"Point"}
 }

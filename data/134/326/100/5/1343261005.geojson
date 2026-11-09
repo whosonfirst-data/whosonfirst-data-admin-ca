@@ -48,7 +48,7 @@
         "wk:page":"Baie_Verte%2C_Newfoundland_and_Labrador"
     },
     "wof:country":"CA",
-    "wof:geomhash":"2562e574eb6735e44f9098355f625531",
+    "wof:geomhash":"86e0a1b4e8445e3d3315fa47bbbccccb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,5 +74,5 @@
     -56.18151999999999,
     49.93325
 ],
-  "geometry": {"coordinates":[-56.18151999999999,49.93325],"type":"Point"}
+  "geometry": {"coordinates":[-56.18152,49.93325],"type":"Point"}
 }

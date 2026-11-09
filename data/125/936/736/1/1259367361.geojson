@@ -42,7 +42,7 @@
         "wk:page":"Greenmount%2C_Prince_Edward_Island"
     },
     "wof:country":"CA",
-    "wof:geomhash":"928b963c923ac2b789c17cc1a86d4136",
+    "wof:geomhash":"dd5d1c32d2cc4d8c8abe895eea49f3a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.04871999999999,
     46.90014
 ],
-  "geometry": {"coordinates":[-64.04871999999999,46.90014],"type":"Point"}
+  "geometry": {"coordinates":[-64.04872,46.90014],"type":"Point"}
 }

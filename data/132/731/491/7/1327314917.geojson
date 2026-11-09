@@ -42,7 +42,7 @@
         "wk:page":"Keatley%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"30cce186062c8af0ab5c0c51948f5b65",
+    "wof:geomhash":"bb3f1be2642a143f3d5bfef73b9b1912",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -107.46795,
     52.80011999999999
 ],
-  "geometry": {"coordinates":[-107.46795,52.80011999999999],"type":"Point"}
+  "geometry": {"coordinates":[-107.46795,52.80012],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Havelock%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"e34c78dc9bc6764d0313a96fdf10f5a5",
+    "wof:geomhash":"a1332f7c952ade18532f360da0d7cd15",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.92045999999999,
     44.30561
 ],
-  "geometry": {"coordinates":[-65.92045999999999,44.30561],"type":"Point"}
+  "geometry": {"coordinates":[-65.92046,44.30561],"type":"Point"}
 }

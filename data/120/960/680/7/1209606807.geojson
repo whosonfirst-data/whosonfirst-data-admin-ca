@@ -39,7 +39,7 @@
         "wk:page":"Head_of_Chezzetcook%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f6f50d12c8cb4553c276872b4229d1fa",
+    "wof:geomhash":"9c1657a7667a784ed361b35b0106d19b",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -62,5 +62,5 @@
     -63.24848000000001,
     44.74239
 ],
-  "geometry": {"coordinates":[-63.24848000000001,44.74239],"type":"Point"}
+  "geometry": {"coordinates":[-63.24848,44.74239],"type":"Point"}
 }

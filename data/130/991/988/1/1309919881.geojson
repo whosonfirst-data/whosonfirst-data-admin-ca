@@ -45,7 +45,7 @@
         "wk:page":"St._Vincent%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"0ff867d5ea699b39f1bda2fb31e4d503",
+    "wof:geomhash":"293f93cde8203dd148055a8bf2b3e9bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -111.2685,
     54.15018000000001
 ],
-  "geometry": {"coordinates":[-111.2685,54.15018000000001],"type":"Point"}
+  "geometry": {"coordinates":[-111.2685,54.15018],"type":"Point"}
 }

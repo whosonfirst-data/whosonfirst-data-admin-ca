@@ -42,7 +42,7 @@
         "wk:page":"Woodville%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d5a16a3a5dc81fb5c96aa329fd35926d",
+    "wof:geomhash":"5c40ff54533be885c1d60bbac612560d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.65701999999999,
     45.09948
 ],
-  "geometry": {"coordinates":[-64.65701999999999,45.09948],"type":"Point"}
+  "geometry": {"coordinates":[-64.65702,45.09948],"type":"Point"}
 }

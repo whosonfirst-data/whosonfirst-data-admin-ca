@@ -44,7 +44,7 @@
         "wk:page":"Dewittville%2C_Quebec"
     },
     "wof:country":"CA",
-    "wof:geomhash":"0d3ea615c4f25cf73fc7ba686c8f3660",
+    "wof:geomhash":"e139af4099769d63424d3eb22e857872",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -67,5 +67,5 @@
     -74.09628000000002,
     45.11449
 ],
-  "geometry": {"coordinates":[-74.09628000000002,45.11449],"type":"Point"}
+  "geometry": {"coordinates":[-74.09628,45.11449],"type":"Point"}
 }

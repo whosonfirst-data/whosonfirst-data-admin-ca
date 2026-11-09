@@ -42,7 +42,7 @@
         "wk:page":"Jockvale%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d2f61d9f1b201961441a0cb44d824030",
+    "wof:geomhash":"026e34471839636c2e1a0e0902aaa85d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -75.74623000000003,
     45.2684
 ],
-  "geometry": {"coordinates":[-75.74623000000003,45.2684],"type":"Point"}
+  "geometry": {"coordinates":[-75.74623,45.2684],"type":"Point"}
 }

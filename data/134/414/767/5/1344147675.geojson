@@ -42,7 +42,7 @@
         "wk:page":"New_Canaan%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"a237a7bb31c7d884fa3a2c80a48fc59b",
+    "wof:geomhash":"e99ebcdd0df5b25e7a6532dc9c7454c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -82.94181999999998,
     42.11816
 ],
-  "geometry": {"coordinates":[-82.94181999999998,42.11816],"type":"Point"}
+  "geometry": {"coordinates":[-82.94182,42.11816],"type":"Point"}
 }

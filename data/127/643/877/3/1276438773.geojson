@@ -45,7 +45,7 @@
         "wk:page":"Guinea%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"b3cffd50cd997989cea82354021390ea",
+    "wof:geomhash":"11ea904e228d012753e65d9d93f8e2b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -65.57363000000001,
     44.66036
 ],
-  "geometry": {"coordinates":[-65.57363000000001,44.66036],"type":"Point"}
+  "geometry": {"coordinates":[-65.57363,44.66036],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Quesnel_Forks"
     },
     "wof:country":"CA",
-    "wof:geomhash":"45325bbe87c7cd8e53dbd7d990cea8b3",
+    "wof:geomhash":"e809880e761082b720fe34e389bf7e0f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -121.66943,
     52.66656999999999
 ],
-  "geometry": {"coordinates":[-121.66943000000001,52.66656999999999],"type":"Point"}
+  "geometry": {"coordinates":[-121.66943,52.66657],"type":"Point"}
 }

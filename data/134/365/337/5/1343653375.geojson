@@ -45,7 +45,7 @@
         "wk:page":"Lower_St._Esprit%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"cae19df1f83b9b6f275317cd89677296",
+    "wof:geomhash":"cd07741f85443210102bbcb317b56d03",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -60.48178000000001,
     45.66685
 ],
-  "geometry": {"coordinates":[-60.48178000000001,45.66685],"type":"Point"}
+  "geometry": {"coordinates":[-60.48178,45.66685],"type":"Point"}
 }

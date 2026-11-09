@@ -42,7 +42,7 @@
         "wk:page":"Five_Mile_Plains%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"0483c8f7646aa20f535e46a789e805da",
+    "wof:geomhash":"132d991aed35d138f3d36f799da6688e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.08648000000001,
     44.96375
 ],
-  "geometry": {"coordinates":[-64.08648000000001,44.96375],"type":"Point"}
+  "geometry": {"coordinates":[-64.08648,44.96375],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Carden%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"7a1b77e8098dee09edd6cffbd5edfed0",
+    "wof:geomhash":"c275bd811ae4bc59a52beab5f2293783",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -79.03289000000002,
     44.65012
 ],
-  "geometry": {"coordinates":[-79.03289000000002,44.65012],"type":"Point"}
+  "geometry": {"coordinates":[-79.03289,44.65012],"type":"Point"}
 }

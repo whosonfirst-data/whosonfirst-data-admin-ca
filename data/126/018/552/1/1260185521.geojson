@@ -42,7 +42,7 @@
         "wk:page":"Keithley_Creek%2C_British_Columbia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d677233850f992bb779d0e8857c10525",
+    "wof:geomhash":"04fad8e7759e3f9cfe4535c833390e94",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -121.41946000000002,
     52.76659
 ],
-  "geometry": {"coordinates":[-121.41946000000002,52.76659],"type":"Point"}
+  "geometry": {"coordinates":[-121.41946,52.76659],"type":"Point"}
 }

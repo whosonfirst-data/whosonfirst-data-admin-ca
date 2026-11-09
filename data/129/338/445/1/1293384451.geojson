@@ -45,7 +45,7 @@
         "wk:page":"Nail_Pond%2C_Prince_Edward_Island"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d89a24014309c2a3b831b3c9890b7310",
+    "wof:geomhash":"3f13ac1373bab885dafc18bcea011e04",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -64.06262,
     46.98484000000001
 ],
-  "geometry": {"coordinates":[-64.06262,46.98484000000001],"type":"Point"}
+  "geometry": {"coordinates":[-64.06262,46.98484],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Williamstown%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fe7ca3fbd1ba4541209dc1075e57fb5a",
+    "wof:geomhash":"7040d73ec7bbdab47ddf3dbf4acda197",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.70898000000001,
     46.92604
 ],
-  "geometry": {"coordinates":[-65.70898000000001,46.92604],"type":"Point"}
+  "geometry": {"coordinates":[-65.70898,46.92604],"type":"Point"}
 }

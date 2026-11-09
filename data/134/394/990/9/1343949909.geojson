@@ -45,7 +45,7 @@
         "wk:page":"Tupperville%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"1046036105a980f915e88bc26ffa828b",
+    "wof:geomhash":"5d4f527b9b3d76f8bfab5eee42a16038",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -65.36813000000001,
     44.79757
 ],
-  "geometry": {"coordinates":[-65.36813000000001,44.79757],"type":"Point"}
+  "geometry": {"coordinates":[-65.36813,44.79757],"type":"Point"}
 }

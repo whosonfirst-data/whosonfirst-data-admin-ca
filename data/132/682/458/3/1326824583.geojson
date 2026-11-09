@@ -42,7 +42,7 @@
         "wk:page":"Gaetz_Brook_%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"64897c878b6e2f43ba904b9de1162ad0",
+    "wof:geomhash":"f80c9262763e5a1a75e2ffebb5676b31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.20883000000001,
     44.7728
 ],
-  "geometry": {"coordinates":[-63.20883000000001,44.7728],"type":"Point"}
+  "geometry": {"coordinates":[-63.20883,44.7728],"type":"Point"}
 }

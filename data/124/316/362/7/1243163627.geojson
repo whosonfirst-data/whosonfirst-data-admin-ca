@@ -45,7 +45,7 @@
         "wk:page":"North_Grant%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"e67efc85c934821cf388475dae7ed689",
+    "wof:geomhash":"4e90f35a929551c29a116d01df70211b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -62.03438000000001,
     45.66654000000001
 ],
-  "geometry": {"coordinates":[-62.03438000000001,45.66654000000001],"type":"Point"}
+  "geometry": {"coordinates":[-62.03438,45.66654],"type":"Point"}
 }

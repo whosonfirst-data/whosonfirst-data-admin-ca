@@ -42,7 +42,7 @@
         "wk:page":"Winthrop%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"3021587090b05a3931131797ec1643c7",
+    "wof:geomhash":"97d199ebcba706fadd1b94710b8bf6cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -81.34194000000002,
     43.61722
 ],
-  "geometry": {"coordinates":[-81.34194000000002,43.61722],"type":"Point"}
+  "geometry": {"coordinates":[-81.34194,43.61722],"type":"Point"}
 }

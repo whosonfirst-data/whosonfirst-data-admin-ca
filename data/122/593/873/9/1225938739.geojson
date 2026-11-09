@@ -42,7 +42,7 @@
         "wk:page":"West_Dalhousie"
     },
     "wof:country":"CA",
-    "wof:geomhash":"dff8efc7f06dcacbf7197a7d087a3276",
+    "wof:geomhash":"be8741a0900a475286fb94acc44f56ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.22563000000001,
     44.71904
 ],
-  "geometry": {"coordinates":[-65.22563000000001,44.71904],"type":"Point"}
+  "geometry": {"coordinates":[-65.22563,44.71904],"type":"Point"}
 }

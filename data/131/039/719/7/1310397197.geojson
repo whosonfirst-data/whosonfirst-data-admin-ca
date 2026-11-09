@@ -42,7 +42,7 @@
         "wk:page":"Central_New_Annan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"77a8635f7507406ff2a04f5681d72dfa",
+    "wof:geomhash":"258c1fb87ec20ca38212943bad2613f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.31686,
     45.63339000000001
 ],
-  "geometry": {"coordinates":[-63.31686,45.63339000000001],"type":"Point"}
+  "geometry": {"coordinates":[-63.31686,45.63339],"type":"Point"}
 }

@@ -44,7 +44,7 @@
         "wk:page":"Barrington%2C_Quebec"
     },
     "wof:country":"CA",
-    "wof:geomhash":"31d919a551431f5811c96e66190ed762",
+    "wof:geomhash":"df4827874b2118c8290dd21b5d8dfc7b",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -67,5 +67,5 @@
     -73.57209,
     45.11004000000001
 ],
-  "geometry": {"coordinates":[-73.57209,45.11004000000001],"type":"Point"}
+  "geometry": {"coordinates":[-73.57209,45.11004],"type":"Point"}
 }

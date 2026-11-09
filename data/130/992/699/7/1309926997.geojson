@@ -45,7 +45,7 @@
         "wk:page":"East_Clifford%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc6f0cb1b45e9dd300652a97de6b9f11",
+    "wof:geomhash":"1ab0d46bcc713447beb3b3dc453a98f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -64.73208000000001,
     44.43345
 ],
-  "geometry": {"coordinates":[-64.73208000000001,44.43345],"type":"Point"}
+  "geometry": {"coordinates":[-64.73208,44.43345],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Nicholsville%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"1e2a8a44aeedab18646b0fe16cba21c0",
+    "wof:geomhash":"d480260306623ba213601c522f6931ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.80599000000001,
     44.97953
 ],
-  "geometry": {"coordinates":[-64.80599000000001,44.97953],"type":"Point"}
+  "geometry": {"coordinates":[-64.80599,44.97953],"type":"Point"}
 }

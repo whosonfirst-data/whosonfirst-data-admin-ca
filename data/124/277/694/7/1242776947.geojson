@@ -42,7 +42,7 @@
         "wk:page":"Moore%27s_Cove"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d09bf95a98ac74152c08e73cac2899ed",
+    "wof:geomhash":"1536fa6c52f8c007784848cc1c514f86",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -55.29816999999999,
     49.49993
 ],
-  "geometry": {"coordinates":[-55.29816999999999,49.49993],"type":"Point"}
+  "geometry": {"coordinates":[-55.29817,49.49993],"type":"Point"}
 }

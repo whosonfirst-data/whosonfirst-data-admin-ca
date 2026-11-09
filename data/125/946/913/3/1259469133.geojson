@@ -54,7 +54,7 @@
         "wk:page":"Kakisa"
     },
     "wof:country":"CA",
-    "wof:geomhash":"c95a4d97907180183d3f731ecde3053c",
+    "wof:geomhash":"1bcc252dfb8a3b73e888ee2ddd9e2c9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,5 +80,5 @@
     -117.40883,
     60.93926999999999
 ],
-  "geometry": {"coordinates":[-117.40882999999999,60.93926999999999],"type":"Point"}
+  "geometry": {"coordinates":[-117.40883,60.93927],"type":"Point"}
 }

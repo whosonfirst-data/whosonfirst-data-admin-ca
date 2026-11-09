@@ -42,7 +42,7 @@
         "wk:page":"Coffinscroft%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"a0a93907227dcedba828a358dde64c25",
+    "wof:geomhash":"e32eb1d0a58049738dc5d4d4cfe65da9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.55386,
     43.54839000000001
 ],
-  "geometry": {"coordinates":[-65.55386,43.54839000000001],"type":"Point"}
+  "geometry": {"coordinates":[-65.55386,43.54839],"type":"Point"}
 }

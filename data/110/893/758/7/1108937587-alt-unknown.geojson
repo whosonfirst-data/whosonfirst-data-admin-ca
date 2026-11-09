@@ -4,7 +4,7 @@
   "properties": {
     "src:alt_label":"unknown",
     "src:geom":"unknown",
-    "wof:geomhash":"7bc3faf55276ee893fd8b61dcd6e7972",
+    "wof:geomhash":"d3fe7697045f1ef36be85f770522fa67",
     "wof:id":1108937587,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ca"
@@ -15,5 +15,5 @@
     -97.05003670122159,
     49.90424435954973
 ],
-  "geometry": {"coordinates":[-97.05003670122159,49.90424435954973],"type":"Point"}
+  "geometry": {"coordinates":[-97.050037,49.904244],"type":"Point"}
 }

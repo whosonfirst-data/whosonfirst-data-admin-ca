@@ -42,7 +42,7 @@
         "wk:page":"Eldon%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"2cd09e379b99b8d0ff7749151d58bfba",
+    "wof:geomhash":"f38ea52e3afb51ec12857c26bb9a7894",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -79.01361,
     44.50944000000001
 ],
-  "geometry": {"coordinates":[-79.01361,44.50944000000001],"type":"Point"}
+  "geometry": {"coordinates":[-79.01361,44.50944],"type":"Point"}
 }

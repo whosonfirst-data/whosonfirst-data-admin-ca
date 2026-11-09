@@ -42,7 +42,7 @@
         "wk:page":"Buffalo_Head_Prairie%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"65107a12f2eb6bb10d1ec8821abc3931",
+    "wof:geomhash":"adf16ebb0e1d54b74f78a32339cc9f0c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -116.34944,
     58.05083000000001
 ],
-  "geometry": {"coordinates":[-116.34944,58.05083000000001],"type":"Point"}
+  "geometry": {"coordinates":[-116.34944,58.05083],"type":"Point"}
 }

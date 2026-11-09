@@ -93,7 +93,7 @@
         "wk:page":"Ryerson_University"
     },
     "wof:country":"CA",
-    "wof:geomhash":"9d6343f4ebc99d724fbd44d119fc35be",
+    "wof:geomhash":"099fba9e4ac0e9f81a1a3a502e463626",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -119,5 +119,5 @@
     -79.38016999999998,
     43.65774
 ],
-  "geometry": {"coordinates":[-79.38016999999998,43.65774],"type":"Point"}
+  "geometry": {"coordinates":[-79.38017,43.65774],"type":"Point"}
 }

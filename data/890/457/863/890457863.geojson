@@ -44,7 +44,7 @@
     },
     "wof:country":"CA",
     "wof:created":1469053173,
-    "wof:geomhash":"781b08998105bb5341eb849eb9bbce2b",
+    "wof:geomhash":"e2c5532684a1a4a2d52cfc9ad1fab846",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,5 +70,5 @@
     -54.700227,
     49.5988355
 ],
-  "geometry": {"coordinates":[-54.700227,49.5988355],"type":"Point"}
+  "geometry": {"coordinates":[-54.700227,49.598836],"type":"Point"}
 }

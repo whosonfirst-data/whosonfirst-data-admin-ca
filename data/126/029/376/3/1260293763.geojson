@@ -48,7 +48,7 @@
         "wk:page":"Alexandria%2C_British_Columbia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"7cdfa02550ca27f586e7925039aaf935",
+    "wof:geomhash":"33a26fe3cec536a88b95fa5be6407811",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,5 +74,5 @@
     -122.45286000000002,
     52.63315
 ],
-  "geometry": {"coordinates":[-122.45286000000002,52.63315],"type":"Point"}
+  "geometry": {"coordinates":[-122.45286,52.63315],"type":"Point"}
 }

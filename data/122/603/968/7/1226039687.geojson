@@ -45,7 +45,7 @@
         "wk:page":"Auburndale%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"bc8aad1533d91a61738f24ab07e09b82",
+    "wof:geomhash":"f3a6ef3df0fef60eb4b2c0fb30d8d6f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -64.59281999999999,
     44.40525
 ],
-  "geometry": {"coordinates":[-64.59281999999999,44.40525],"type":"Point"}
+  "geometry": {"coordinates":[-64.59282,44.40525],"type":"Point"}
 }

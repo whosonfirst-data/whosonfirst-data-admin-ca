@@ -42,7 +42,7 @@
         "wk:page":"Fort_Pitt_%28Saskatchewan%29"
     },
     "wof:country":"CA",
-    "wof:geomhash":"5f20752f8c586bc3167b013884dae9f7",
+    "wof:geomhash":"252ea5ddb8289d351826fcda443fa87f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -109.75154,
     53.65018000000001
 ],
-  "geometry": {"coordinates":[-109.75154000000001,53.65018000000001],"type":"Point"}
+  "geometry": {"coordinates":[-109.75154,53.65018],"type":"Point"}
 }

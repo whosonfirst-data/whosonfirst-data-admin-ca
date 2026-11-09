@@ -42,7 +42,7 @@
         "wk:page":"Uhl%27s_Bay%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"2ed76022c724aa8823d64d86304b2c18",
+    "wof:geomhash":"67a681a5321d1cc49c5780dd63632121",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -105.15113999999998,
     50.98338
 ],
-  "geometry": {"coordinates":[-105.15113999999998,50.98338],"type":"Point"}
+  "geometry": {"coordinates":[-105.15114,50.98338],"type":"Point"}
 }

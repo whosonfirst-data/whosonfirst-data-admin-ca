@@ -45,7 +45,7 @@
         "wk:page":"Norway%2C_Prince_Edward_Island"
     },
     "wof:country":"CA",
-    "wof:geomhash":"4dd006c22b73b034edf6d77dd7d13c09",
+    "wof:geomhash":"92863b931e160f3d3de410f7412773b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -64.03201999999999,
     47.00014
 ],
-  "geometry": {"coordinates":[-64.03201999999999,47.00014],"type":"Point"}
+  "geometry": {"coordinates":[-64.03202,47.00014],"type":"Point"}
 }

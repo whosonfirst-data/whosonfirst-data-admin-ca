@@ -42,7 +42,7 @@
         "wk:page":"North_Alton%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"76a7cb40b66f91043f728b5cdcde7fce",
+    "wof:geomhash":"47f28f307c40daa019eb581243dc1383",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.52320999999999,
     45.05076
 ],
-  "geometry": {"coordinates":[-64.52320999999999,45.05076],"type":"Point"}
+  "geometry": {"coordinates":[-64.52321,45.05076],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Leville%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"e83d5807c801cfc35ef397e14829d3a2",
+    "wof:geomhash":"d3d998e12505281b2abb73077f56c7da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.41226999999999,
     44.7482
 ],
-  "geometry": {"coordinates":[-64.41226999999999,44.7482],"type":"Point"}
+  "geometry": {"coordinates":[-64.41227,44.7482],"type":"Point"}
 }

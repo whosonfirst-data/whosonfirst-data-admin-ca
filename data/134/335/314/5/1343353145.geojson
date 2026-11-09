@@ -42,7 +42,7 @@
         "wk:page":"Weaver_Settlement%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"9168ed64933ccfd8393d13391b199f1e",
+    "wof:geomhash":"c0a03a6b611c4c85bbbccf11cabf6b4b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.96786999999999,
     44.38543
 ],
-  "geometry": {"coordinates":[-65.96786999999999,44.38543],"type":"Point"}
+  "geometry": {"coordinates":[-65.96787,44.38543],"type":"Point"}
 }

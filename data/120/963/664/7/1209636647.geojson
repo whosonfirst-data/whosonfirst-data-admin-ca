@@ -39,7 +39,7 @@
         "wk:page":"North_River%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc9cb569129743779dcb92950612471d",
+    "wof:geomhash":"15bba82f075bde76a8e4f96c0ba5753a",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -62,5 +62,5 @@
     -63.27198000000001,
     45.43532
 ],
-  "geometry": {"coordinates":[-63.27198000000001,45.43532],"type":"Point"}
+  "geometry": {"coordinates":[-63.27198,45.43532],"type":"Point"}
 }

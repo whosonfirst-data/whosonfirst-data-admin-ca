@@ -42,7 +42,7 @@
         "wk:page":"Justasons_Corner%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f1aa7dab27c03a420e6f0f8878280950",
+    "wof:geomhash":"8804789015ea09816483b264eb2806bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -66.76243000000001,
     45.1009
 ],
-  "geometry": {"coordinates":[-66.76243000000001,45.1009],"type":"Point"}
+  "geometry": {"coordinates":[-66.76243,45.1009],"type":"Point"}
 }

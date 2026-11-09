@@ -42,7 +42,7 @@
         "wk:page":"Nass_Camp"
     },
     "wof:country":"CA",
-    "wof:geomhash":"65bf12b1f9d1583fe022bb161f1b5824",
+    "wof:geomhash":"0097cedfa9906ff33a35a814a52722b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -128.98333,
     55.28333000000001
 ],
-  "geometry": {"coordinates":[-128.98333,55.28333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-128.98333,55.28333],"type":"Point"}
 }

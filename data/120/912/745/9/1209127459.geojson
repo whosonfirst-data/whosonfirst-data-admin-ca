@@ -39,7 +39,7 @@
         "wk:page":"Lower_Eel_Brook%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"8faf00fbaa872945e4527a7bdbb56734",
+    "wof:geomhash":"149e1ad6adde335d933c4ca26bc8ca52",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -62,5 +62,5 @@
     -65.90760999999999,
     43.8173
 ],
-  "geometry": {"coordinates":[-65.90760999999999,43.8173],"type":"Point"}
+  "geometry": {"coordinates":[-65.90761,43.8173],"type":"Point"}
 }

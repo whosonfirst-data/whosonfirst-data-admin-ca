@@ -44,7 +44,7 @@
         "wk:page":"Morrisville%2C_Newfoundland_and_Labrador"
     },
     "wof:country":"CA",
-    "wof:geomhash":"02fe27c9aa5142f412573a327b8aab6c",
+    "wof:geomhash":"5dc5faef3574b9f58e1c4db79a4679e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,5 +69,5 @@
     -55.76501999999999,
     47.86665
 ],
-  "geometry": {"coordinates":[-55.76501999999999,47.86665],"type":"Point"}
+  "geometry": {"coordinates":[-55.76502,47.86665],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Evergreen_Acres%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"ac90d7113c07b2d267c3832e28242af4",
+    "wof:geomhash":"87b1fd17e0d84038b18a308ae1d28baf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -108.6514,
     53.51688000000001
 ],
-  "geometry": {"coordinates":[-108.6514,53.51688000000001],"type":"Point"}
+  "geometry": {"coordinates":[-108.6514,53.51688],"type":"Point"}
 }

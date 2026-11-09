@@ -45,7 +45,7 @@
         "wk:page":"Scarborough_Bluffs"
     },
     "wof:country":"CA",
-    "wof:geomhash":"bff50c7e55bce174e8a8b5105ed4039e",
+    "wof:geomhash":"14cb7194af8c4f74d774d147131309e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -79.24318000000002,
     43.70213
 ],
-  "geometry": {"coordinates":[-79.24318000000002,43.70213],"type":"Point"}
+  "geometry": {"coordinates":[-79.24318,43.70213],"type":"Point"}
 }

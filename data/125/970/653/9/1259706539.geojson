@@ -41,7 +41,7 @@
         "wk:page":"Brig_Bay"
     },
     "wof:country":"CA",
-    "wof:geomhash":"7ecbd2dbf14abf2b5d3bc69d2c08a284",
+    "wof:geomhash":"81d4b4018f17e0013f3a05e514b22588",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,5 +66,5 @@
     -56.9148,
     51.06679000000001
 ],
-  "geometry": {"coordinates":[-56.9148,51.06679000000001],"type":"Point"}
+  "geometry": {"coordinates":[-56.9148,51.06679],"type":"Point"}
 }

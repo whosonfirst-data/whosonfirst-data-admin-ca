@@ -45,7 +45,7 @@
         "wk:page":"Lady_Slipper%2C_Prince_Edward_Island"
     },
     "wof:country":"CA",
-    "wof:geomhash":"46f7e5122a4f9095336154b5afeb37d8",
+    "wof:geomhash":"91bc161afcd1ed192ab400e4e0f9aa3e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -64.01543000000001,
     46.60014
 ],
-  "geometry": {"coordinates":[-64.01543000000001,46.60014],"type":"Point"}
+  "geometry": {"coordinates":[-64.01543,46.60014],"type":"Point"}
 }

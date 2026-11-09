@@ -45,7 +45,7 @@
         "wk:page":"Chaplin%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"ba32e7c5c8027f5e8989cdf312d1818c",
+    "wof:geomhash":"c6de5f113da920375ef6c5557ada1450",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -62.84679000000001,
     45.2082
 ],
-  "geometry": {"coordinates":[-62.84679000000001,45.2082],"type":"Point"}
+  "geometry": {"coordinates":[-62.84679,45.2082],"type":"Point"}
 }

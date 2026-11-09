@@ -45,7 +45,7 @@
         "wk:page":"Bloomfield_Corner%2C_Prince_Edward_Island"
     },
     "wof:country":"CA",
-    "wof:geomhash":"9dd088f88be5e1b5d8c520c5ac4c754e",
+    "wof:geomhash":"014a6f7000a3d03ea9de0c45b30c9a2c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -64.18203000000001,
     46.76685
 ],
-  "geometry": {"coordinates":[-64.18203000000001,46.76685],"type":"Point"}
+  "geometry": {"coordinates":[-64.18203,46.76685],"type":"Point"}
 }

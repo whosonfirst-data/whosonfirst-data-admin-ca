@@ -52,7 +52,7 @@
         "wk:page":"Glenora%2C_British_Columbia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"263a97b92f772e5a9c1a26ad5f43594b",
+    "wof:geomhash":"805059e4617209fa42df7743373dcd62",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,5 +78,5 @@
     -131.38975,
     57.84368000000001
 ],
-  "geometry": {"coordinates":[-131.38974999999999,57.84368000000001],"type":"Point"}
+  "geometry": {"coordinates":[-131.38975,57.84368],"type":"Point"}
 }

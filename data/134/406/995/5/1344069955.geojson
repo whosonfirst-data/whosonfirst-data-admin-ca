@@ -42,7 +42,7 @@
         "wk:page":"Brookmere"
     },
     "wof:country":"CA",
-    "wof:geomhash":"6869bb5ae7169a542f1c466ae18a3542",
+    "wof:geomhash":"4471feb0c6f8791c0ba30011440031e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -120.87749,
     49.81782000000001
 ],
-  "geometry": {"coordinates":[-120.87748999999999,49.81782000000001],"type":"Point"}
+  "geometry": {"coordinates":[-120.87749,49.81782],"type":"Point"}
 }

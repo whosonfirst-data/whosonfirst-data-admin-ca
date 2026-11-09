@@ -42,7 +42,7 @@
         "wk:page":"O%27Grady_Settlement"
     },
     "wof:country":"CA",
-    "wof:geomhash":"601573c0f454719cb1d476e96d7dc20b",
+    "wof:geomhash":"8b4674dc4dc492418f81f87153cb9731",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -77.49389000000002,
     45.49056
 ],
-  "geometry": {"coordinates":[-77.49389000000002,45.49056],"type":"Point"}
+  "geometry": {"coordinates":[-77.49389,45.49056],"type":"Point"}
 }

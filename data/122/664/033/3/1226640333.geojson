@@ -42,7 +42,7 @@
         "wk:page":"Lower_East_Chezzetcook%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f2d0b4daffb31f5fc4c5d22c07ebbe56",
+    "wof:geomhash":"ef7dab20df1793091f6c01738b70f869",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.21244,
     44.69967000000001
 ],
-  "geometry": {"coordinates":[-63.21244,44.69967000000001],"type":"Point"}
+  "geometry": {"coordinates":[-63.21244,44.69967],"type":"Point"}
 }

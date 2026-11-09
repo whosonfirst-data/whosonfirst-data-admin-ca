@@ -42,7 +42,7 @@
         "wk:page":"Centre_Musquodoboit%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"7f2daac800d7bde2f630e851dc864b33",
+    "wof:geomhash":"8863fad9a61bac754ac3ef2da2b7cb32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.03888000000001,
     45.09894
 ],
-  "geometry": {"coordinates":[-63.03888000000001,45.09894],"type":"Point"}
+  "geometry": {"coordinates":[-63.03888,45.09894],"type":"Point"}
 }

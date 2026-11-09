@@ -4,7 +4,7 @@
   "properties": {
     "src:alt_label":"naturalearth",
     "src:geom":"naturalearth",
-    "wof:geomhash":"9be8e2cbe4630345fc8c8f995e68c0eb",
+    "wof:geomhash":"f925132116200a9218d456dacf3dd375",
     "wof:id":101735439,
     "wof:repo":"whosonfirst-data-admin-ca"
 },
@@ -14,5 +14,5 @@
     -69.88331608242333,
     62.85002545078868
 ],
-  "geometry": {"coordinates":[-69.88331608242333,62.85002545078868],"type":"Point"}
+  "geometry": {"coordinates":[-69.883316,62.850025],"type":"Point"}
 }

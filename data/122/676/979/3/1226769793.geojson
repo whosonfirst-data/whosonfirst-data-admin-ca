@@ -42,7 +42,7 @@
         "wk:page":"West_River%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"9f9d5cb31ab24e8487f521886d022b71",
+    "wof:geomhash":"bc630244de68371b81b2af1a0bbc3fc1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -81.75376999999997,
     46.14535
 ],
-  "geometry": {"coordinates":[-81.75376999999997,46.14535],"type":"Point"}
+  "geometry": {"coordinates":[-81.75377,46.14535],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Long_Island_Main%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"bb454be0eea93a22784933e37d9bb5c3",
+    "wof:geomhash":"f39568da47d30e0c326a7861523a4217",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -60.38061999999999,
     46.19946
 ],
-  "geometry": {"coordinates":[-60.38061999999999,46.19946],"type":"Point"}
+  "geometry": {"coordinates":[-60.38062,46.19946],"type":"Point"}
 }

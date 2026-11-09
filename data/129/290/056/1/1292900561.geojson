@@ -42,7 +42,7 @@
         "wk:page":"MacPhees_Corner%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"7db80a1edb4d4b07c70363c430b66ebd",
+    "wof:geomhash":"899679b866ed3e5cd7066b3c73d9b032",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.53899000000001,
     45.11713
 ],
-  "geometry": {"coordinates":[-63.53899000000001,45.11713],"type":"Point"}
+  "geometry": {"coordinates":[-63.53899,45.11713],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Rawdon_Gold_Mines%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"47ad642046f128b58b92e229b30fe7cd",
+    "wof:geomhash":"d1c2a88ea03c83affd400752b67f287e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.76408000000001,
     45.05458
 ],
-  "geometry": {"coordinates":[-63.76408000000001,45.05458],"type":"Point"}
+  "geometry": {"coordinates":[-63.76408,45.05458],"type":"Point"}
 }

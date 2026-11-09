@@ -42,7 +42,7 @@
         "wk:page":"Beinn_Scalpie%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"8c2cda0ed5818bfc9c2a7ba83a141ee4",
+    "wof:geomhash":"bb1f293a85de2b1444f42020d0540dc6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -60.56517,
     46.20014000000001
 ],
-  "geometry": {"coordinates":[-60.56517,46.20014000000001],"type":"Point"}
+  "geometry": {"coordinates":[-60.56517,46.20014],"type":"Point"}
 }

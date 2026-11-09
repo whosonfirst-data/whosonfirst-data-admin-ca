@@ -42,7 +42,7 @@
         "wk:page":"Vandeleur%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"ad034207a30cf5962b3a6274cccd6dee",
+    "wof:geomhash":"b35c73952a406676891ed782464b2ade",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -80.55944000000002,
     44.3325
 ],
-  "geometry": {"coordinates":[-80.55944000000002,44.3325],"type":"Point"}
+  "geometry": {"coordinates":[-80.55944,44.3325],"type":"Point"}
 }

@@ -79,7 +79,7 @@
         "wk:page":"Kangiqsualujjuaq"
     },
     "wof:country":"CA",
-    "wof:geomhash":"0fcfac4ed2495c57b7f4b1b64a2afce5",
+    "wof:geomhash":"447f8a8a0a20d66e51af45efa3477864",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -105,5 +105,5 @@
     -65.95246999999999,
     58.69143
 ],
-  "geometry": {"coordinates":[-65.95246999999999,58.69143],"type":"Point"}
+  "geometry": {"coordinates":[-65.95247,58.69143],"type":"Point"}
 }

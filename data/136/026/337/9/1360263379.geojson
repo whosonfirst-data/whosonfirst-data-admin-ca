@@ -42,7 +42,7 @@
         "wk:page":"Yonker%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"6529cf44f949802d167b6da5e7839625",
+    "wof:geomhash":"2e545326e6d04e96ba0129828a3c44d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -109.66821000000002,
     52.65015
 ],
-  "geometry": {"coordinates":[-109.66821000000002,52.65015],"type":"Point"}
+  "geometry": {"coordinates":[-109.66821,52.65015],"type":"Point"}
 }

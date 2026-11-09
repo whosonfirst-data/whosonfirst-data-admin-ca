@@ -45,7 +45,7 @@
         "wk:page":"Bailey%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"56aba40589971f56071f804904456405",
+    "wof:geomhash":"af70878e4543387fc06f0be55f459c2a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -66.58216999999999,
     45.63343
 ],
-  "geometry": {"coordinates":[-66.58216999999999,45.63343],"type":"Point"}
+  "geometry": {"coordinates":[-66.58217,45.63343],"type":"Point"}
 }

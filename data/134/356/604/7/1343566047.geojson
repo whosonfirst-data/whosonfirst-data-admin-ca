@@ -47,7 +47,7 @@
         "wk:page":"Southern_Harbour"
     },
     "wof:country":"CA",
-    "wof:geomhash":"1591ddf56a474224cfdb990776fde670",
+    "wof:geomhash":"b9c8255800ed13f199ac950f5795a5c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,5 +72,5 @@
     -53.96483000000001,
     47.7166
 ],
-  "geometry": {"coordinates":[-53.96483000000001,47.7166],"type":"Point"}
+  "geometry": {"coordinates":[-53.96483,47.7166],"type":"Point"}
 }

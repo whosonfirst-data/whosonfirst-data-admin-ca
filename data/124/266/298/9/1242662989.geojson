@@ -42,7 +42,7 @@
         "wk:page":"Shebandowan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"17e5dcf2e69ac4213e3cf675de2c5c20",
+    "wof:geomhash":"876e8c0692bae91f72d105c05d35b789",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -90.06685999999998,
     48.63341
 ],
-  "geometry": {"coordinates":[-90.06685999999998,48.63341],"type":"Point"}
+  "geometry": {"coordinates":[-90.06686,48.63341],"type":"Point"}
 }

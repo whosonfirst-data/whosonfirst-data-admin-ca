@@ -45,7 +45,7 @@
         "wk:page":"Loch_Broom%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"58fd64785748713880bd772e0c479b21",
+    "wof:geomhash":"03ae2984c8d6ce1fe81bce81d8645949",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -62.74961999999999,
     45.65145
 ],
-  "geometry": {"coordinates":[-62.74961999999999,45.65145],"type":"Point"}
+  "geometry": {"coordinates":[-62.74962,45.65145],"type":"Point"}
 }

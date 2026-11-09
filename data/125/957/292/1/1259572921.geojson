@@ -45,7 +45,7 @@
         "wk:page":"St._Roch%2C_Prince_Edward_Island"
     },
     "wof:country":"CA",
-    "wof:geomhash":"c75e4ebe12e5073869b0b63432937ce1",
+    "wof:geomhash":"dd4704e514d08d3938b6a4734de17c9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -64.04871999999999,
     46.91684
 ],
-  "geometry": {"coordinates":[-64.04871999999999,46.91684],"type":"Point"}
+  "geometry": {"coordinates":[-64.04872,46.91684],"type":"Point"}
 }

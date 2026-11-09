@@ -45,7 +45,7 @@
         "wk:page":"Balmoral_Mills"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f496932b410e896e63021685f3d48352",
+    "wof:geomhash":"e8bc8bf6661c03940e457b4cd4d4db0d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -63.19638000000001,
     45.64725
 ],
-  "geometry": {"coordinates":[-63.19638000000001,45.64725],"type":"Point"}
+  "geometry": {"coordinates":[-63.19638,45.64725],"type":"Point"}
 }

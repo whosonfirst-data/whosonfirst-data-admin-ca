@@ -42,7 +42,7 @@
         "wk:page":"Kempt_Head%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f7602ea1569751c8cab37a7b38444b93",
+    "wof:geomhash":"5fe2bafc9763745a280fafc52b99dd11",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -60.6567,
     46.08759000000001
 ],
-  "geometry": {"coordinates":[-60.6567,46.08759000000001],"type":"Point"}
+  "geometry": {"coordinates":[-60.6567,46.08759],"type":"Point"}
 }

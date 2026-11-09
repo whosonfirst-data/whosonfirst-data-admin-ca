@@ -42,7 +42,7 @@
         "wk:page":"Wedgewood%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d7483454ab56f61d406871462d3615bd",
+    "wof:geomhash":"9360abcad2ee1597c22761ae4b331478",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.67183000000001,
     44.68151
 ],
-  "geometry": {"coordinates":[-63.67183000000001,44.68151],"type":"Point"}
+  "geometry": {"coordinates":[-63.67183,44.68151],"type":"Point"}
 }

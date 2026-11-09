@@ -64,7 +64,7 @@
         "wk:page":"Aupaluk"
     },
     "wof:country":"CA",
-    "wof:geomhash":"3998be794595f2c1bf72ca669f820e6c",
+    "wof:geomhash":"c585e8c692a4b2071b849c0e78390b0a",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -87,5 +87,5 @@
     -69.59853000000001,
     59.30041
 ],
-  "geometry": {"coordinates":[-69.59853000000001,59.30041],"type":"Point"}
+  "geometry": {"coordinates":[-69.59853,59.30041],"type":"Point"}
 }

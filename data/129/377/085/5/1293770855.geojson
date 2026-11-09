@@ -45,7 +45,7 @@
         "wk:page":"Grand_Forks%2C_Yukon"
     },
     "wof:country":"CA",
-    "wof:geomhash":"0d6849343cf21fcce6ac5c6be834ab22",
+    "wof:geomhash":"cb4be3cdeb0aabc84fc6704a1d40b976",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -139.31691999999998,
     63.92025
 ],
-  "geometry": {"coordinates":[-139.31691999999998,63.92025],"type":"Point"}
+  "geometry": {"coordinates":[-139.31692,63.92025],"type":"Point"}
 }

@@ -41,7 +41,7 @@
         "wk:page":"Three_Arms"
     },
     "wof:country":"CA",
-    "wof:geomhash":"a60567bba7d22f58e134acb56730a7b0",
+    "wof:geomhash":"4bc7470eb2ac30607c296519127b66ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,5 +66,5 @@
     -55.89816999999999,
     49.68326
 ],
-  "geometry": {"coordinates":[-55.89816999999999,49.68326],"type":"Point"}
+  "geometry": {"coordinates":[-55.89817,49.68326],"type":"Point"}
 }

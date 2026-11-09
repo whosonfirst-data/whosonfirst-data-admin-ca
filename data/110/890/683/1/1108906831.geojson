@@ -42,7 +42,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CA",
-    "wof:geomhash":"dc55fa83bde5dcab2b7d4aaf924c96ea",
+    "wof:geomhash":"a1dd913906a246ef3515f5dd9d38832a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,5 +72,5 @@
     -123.0341996111609,
     49.32646673751162
 ],
-  "geometry": {"coordinates":[-123.0341996111609,49.32646673751162],"type":"Point"}
+  "geometry": {"coordinates":[-123.0342,49.326467],"type":"Point"}
 }

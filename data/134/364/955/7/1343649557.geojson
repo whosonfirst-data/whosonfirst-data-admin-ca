@@ -42,7 +42,7 @@
         "wk:page":"Powm_Beach%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"e81fbb79f8ca153e7533c61290635e51",
+    "wof:geomhash":"c35cfe2440bcc9c654987d613842073a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -108.70141,
     53.56688000000001
 ],
-  "geometry": {"coordinates":[-108.70141,53.56688000000001],"type":"Point"}
+  "geometry": {"coordinates":[-108.70141,53.56688],"type":"Point"}
 }

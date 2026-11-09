@@ -42,7 +42,7 @@
         "wk:page":"Saulnierville_Station%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"a6d5175168ba2ae9e96de2eb6a609b3c",
+    "wof:geomhash":"747011f2859b2421c6709d522867844c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -66.09973000000001,
     44.24488
 ],
-  "geometry": {"coordinates":[-66.09973000000001,44.24488],"type":"Point"}
+  "geometry": {"coordinates":[-66.09973,44.24488],"type":"Point"}
 }

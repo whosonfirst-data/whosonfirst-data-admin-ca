@@ -51,7 +51,7 @@
         "wk:page":"Happy_Adventure"
     },
     "wof:country":"CA",
-    "wof:geomhash":"156798feff76db468c77d60fb12c2576",
+    "wof:geomhash":"c9f6c0e017328f3bf500f6de5067edd1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,5 +77,5 @@
     -53.76479000000001,
     48.6332
 ],
-  "geometry": {"coordinates":[-53.76479000000001,48.6332],"type":"Point"}
+  "geometry": {"coordinates":[-53.76479,48.6332],"type":"Point"}
 }

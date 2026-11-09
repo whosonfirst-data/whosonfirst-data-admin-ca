@@ -42,7 +42,7 @@
         "wk:page":"Skiff_Lake%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"5a5ec60a27f3f9beb88c04b21404f9f7",
+    "wof:geomhash":"b2c7d9ba7c1b53814388f5d00ff3974e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -67.54878000000001,
     45.82772
 ],
-  "geometry": {"coordinates":[-67.54878000000001,45.82772],"type":"Point"}
+  "geometry": {"coordinates":[-67.54878,45.82772],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Lourdes%2C_Newfoundland_and_Labrador"
     },
     "wof:country":"CA",
-    "wof:geomhash":"2c75d4d5421e98774bd9b034bb57efc3",
+    "wof:geomhash":"a22ed8fba6525d1a891f52bd97cd56f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,5 +77,5 @@
     -58.99851999999999,
     48.65002
 ],
-  "geometry": {"coordinates":[-58.99851999999999,48.65002],"type":"Point"}
+  "geometry": {"coordinates":[-58.99852,48.65002],"type":"Point"}
 }

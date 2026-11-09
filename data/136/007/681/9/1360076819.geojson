@@ -42,7 +42,7 @@
         "wk:page":"Oliver%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"372353c838795c823f274faf645f8b28",
+    "wof:geomhash":"d3247146f3bb2792d24f38922683a352",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.31874000000001,
     45.65961
 ],
-  "geometry": {"coordinates":[-63.31874000000001,45.65961],"type":"Point"}
+  "geometry": {"coordinates":[-63.31874,45.65961],"type":"Point"}
 }

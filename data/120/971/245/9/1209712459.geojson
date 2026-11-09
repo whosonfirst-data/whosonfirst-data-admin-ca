@@ -45,7 +45,7 @@
         "wk:page":"Glendale%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"6fd43c78c3ee00d58ce8f162e138dc37",
+    "wof:geomhash":"00e3ffbb7d3004ad589e4be921491ea8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -61.29853000000001,
     45.81684
 ],
-  "geometry": {"coordinates":[-61.29853000000001,45.81684],"type":"Point"}
+  "geometry": {"coordinates":[-61.29853,45.81684],"type":"Point"}
 }

@@ -43,7 +43,7 @@
         "wk:page":"Sewall%2C_British_Columbia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"c14a5cfe72bfe9feea7e60ba77976f10",
+    "wof:geomhash":"2e9d522a6671fb142dbef0ab32efccb6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,5 +69,5 @@
     -132.29951,
     53.76368000000001
 ],
-  "geometry": {"coordinates":[-132.29951,53.76368000000001],"type":"Point"}
+  "geometry": {"coordinates":[-132.29951,53.76368],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "wk:page":"St._Nicholas%2C_Prince_Edward_Island"
     },
     "wof:country":"CA",
-    "wof:geomhash":"0ea6d8977a25d7369da1262b4ebadd2c",
+    "wof:geomhash":"98d7a651a50a45ff231465300eab0d9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -63.95403,
     46.41954000000001
 ],
-  "geometry": {"coordinates":[-63.95403,46.41954000000001],"type":"Point"}
+  "geometry": {"coordinates":[-63.95403,46.41954],"type":"Point"}
 }

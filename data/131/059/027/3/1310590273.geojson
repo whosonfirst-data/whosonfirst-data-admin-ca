@@ -70,7 +70,7 @@
         "wk:page":"Quaqtaq"
     },
     "wof:country":"CA",
-    "wof:geomhash":"3eb5abc4137236930633a9edde35c451",
+    "wof:geomhash":"534ca25d0635d5a7a5876be1dff10034",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -96,5 +96,5 @@
     -69.61471999999999,
     61.03375
 ],
-  "geometry": {"coordinates":[-69.61471999999999,61.03375],"type":"Point"}
+  "geometry": {"coordinates":[-69.61472,61.03375],"type":"Point"}
 }

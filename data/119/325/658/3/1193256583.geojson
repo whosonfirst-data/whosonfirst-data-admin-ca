@@ -42,7 +42,7 @@
         "wk:page":"Carlea%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"298464a4636aee10e0b4f73b60205b03",
+    "wof:geomhash":"bafa9a0b496da6cc156b9942ce250658",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -103.90046,
     53.15003000000001
 ],
-  "geometry": {"coordinates":[-103.90046,53.15003000000001],"type":"Point"}
+  "geometry": {"coordinates":[-103.90046,53.15003],"type":"Point"}
 }

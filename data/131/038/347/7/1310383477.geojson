@@ -42,7 +42,7 @@
         "wk:page":"Helena_Lake%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"855915e6867b3555623a8bd4d20fd06c",
+    "wof:geomhash":"d1412457b39ee252ae6d193029d40d10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -108.25133999999998,
     53.50017
 ],
-  "geometry": {"coordinates":[-108.25133999999998,53.50017],"type":"Point"}
+  "geometry": {"coordinates":[-108.25134,53.50017],"type":"Point"}
 }

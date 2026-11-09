@@ -42,7 +42,7 @@
         "wk:page":"East_Ferry%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"0488ec71128043db8a94578bca583e3a",
+    "wof:geomhash":"8aae6739e3855ffd8b0adab1f9e4f5d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -66.20083000000001,
     44.39193
 ],
-  "geometry": {"coordinates":[-66.20083000000001,44.39193],"type":"Point"}
+  "geometry": {"coordinates":[-66.20083,44.39193],"type":"Point"}
 }

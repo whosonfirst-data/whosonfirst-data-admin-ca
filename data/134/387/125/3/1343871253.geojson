@@ -43,7 +43,7 @@
         "wk:page":"Hopetown%2C_British_Columbia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f89c76f0467d4988095adc225e38fc50",
+    "wof:geomhash":"0c2ca0d9689c35ddf59b479513a05961",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,5 +69,5 @@
     -126.82227,
     50.92384000000001
 ],
-  "geometry": {"coordinates":[-126.82227,50.92384000000001],"type":"Point"}
+  "geometry": {"coordinates":[-126.82227,50.92384],"type":"Point"}
 }

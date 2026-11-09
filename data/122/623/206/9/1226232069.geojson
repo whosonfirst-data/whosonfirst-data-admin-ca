@@ -45,7 +45,7 @@
         "wk:page":"Campbellton%2C_Prince_Edward_Island"
     },
     "wof:country":"CA",
-    "wof:geomhash":"1032865c86f62050ff898ab7ade9e29b",
+    "wof:geomhash":"93896e22e6cd98ca92ef1d3ef7e055a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -64.29874000000001,
     46.78345
 ],
-  "geometry": {"coordinates":[-64.29874000000001,46.78345],"type":"Point"}
+  "geometry": {"coordinates":[-64.29874,46.78345],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Baleine%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"7b638a7d99b5c1cff77d27daa26a1c7b",
+    "wof:geomhash":"1355cbe3c37ff761597d2037eae29c58",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -59.81513,
     45.95014000000001
 ],
-  "geometry": {"coordinates":[-59.81513,45.95014000000001],"type":"Point"}
+  "geometry": {"coordinates":[-59.81513,45.95014],"type":"Point"}
 }

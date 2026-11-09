@@ -42,7 +42,7 @@
         "wk:page":"Windfall%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"8b9faf40235c64fc5ef2774fdbb97b7b",
+    "wof:geomhash":"086fad24be3286c93bf99552f3cdfc3e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -116.21083,
     54.18333000000001
 ],
-  "geometry": {"coordinates":[-116.21083,54.18333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-116.21083,54.18333],"type":"Point"}
 }

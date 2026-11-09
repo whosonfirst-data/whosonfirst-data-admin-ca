@@ -42,7 +42,7 @@
         "wk:page":"Pathlow%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"618b039dffbedbddec28cc1909c47972",
+    "wof:geomhash":"e9024cb9a73d8b68d22f23085e4e6a09",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -104.801,
     52.71673000000001
 ],
-  "geometry": {"coordinates":[-104.801,52.71673000000001],"type":"Point"}
+  "geometry": {"coordinates":[-104.801,52.71673],"type":"Point"}
 }

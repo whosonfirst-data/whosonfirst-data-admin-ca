@@ -42,7 +42,7 @@
         "wk:page":"Tyrone%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"ad55ca8b5aacc3bb9ffc555fcbadc58c",
+    "wof:geomhash":"fc3bae357a4bc139813ce540bbafefdb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -78.71625999999998,
     44.01682
 ],
-  "geometry": {"coordinates":[-78.71625999999998,44.01682],"type":"Point"}
+  "geometry": {"coordinates":[-78.71626,44.01682],"type":"Point"}
 }

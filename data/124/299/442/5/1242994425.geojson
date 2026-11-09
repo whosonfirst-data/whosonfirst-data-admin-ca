@@ -42,7 +42,7 @@
         "wk:page":"Brenton%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fb350c1d11862f5ac6c1d00c42d7aac2",
+    "wof:geomhash":"195906065bbce5414efee7e7c271928c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -66.04715999999999,
     43.96752
 ],
-  "geometry": {"coordinates":[-66.04715999999999,43.96752],"type":"Point"}
+  "geometry": {"coordinates":[-66.04716,43.96752],"type":"Point"}
 }

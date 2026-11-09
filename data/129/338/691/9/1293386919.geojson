@@ -42,7 +42,7 @@
         "wk:page":"North_Noel_Road%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"41ecc35722dffdaa45c2391e7e53c784",
+    "wof:geomhash":"f6383be0ea8bc506c97a361a8eae419e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.7461,
     45.22839000000001
 ],
-  "geometry": {"coordinates":[-63.7461,45.22839000000001],"type":"Point"}
+  "geometry": {"coordinates":[-63.7461,45.22839],"type":"Point"}
 }

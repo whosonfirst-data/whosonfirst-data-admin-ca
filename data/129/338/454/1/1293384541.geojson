@@ -51,7 +51,7 @@
         "wk:page":"Foxley_River%2C_Prince_Edward_Island"
     },
     "wof:country":"CA",
-    "wof:geomhash":"16c7da3b90d51518c1ae58844f86d7d3",
+    "wof:geomhash":"5ebd3a04de07e8eca8d0ed7b8df41edf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,5 +77,5 @@
     -64.01543000000001,
     46.70014000000001
 ],
-  "geometry": {"coordinates":[-64.01543000000001,46.70014000000001],"type":"Point"}
+  "geometry": {"coordinates":[-64.01543,46.70014],"type":"Point"}
 }

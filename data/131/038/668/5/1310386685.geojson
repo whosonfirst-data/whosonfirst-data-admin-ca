@@ -42,7 +42,7 @@
         "wk:page":"Oxarat%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"c98ce9a6524c46d979377392cee7a665",
+    "wof:geomhash":"7d6ffdb03670c80545bf7e7ef190411f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -109.58478999999998,
     49.43334
 ],
-  "geometry": {"coordinates":[-109.58478999999998,49.43334],"type":"Point"}
+  "geometry": {"coordinates":[-109.58479,49.43334],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "wk:page":"Southend%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d404f8d70672b05da838e47e963a7bc1",
+    "wof:geomhash":"da10694161345b37d506bfdc5c69ee00",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -103.23409,
     56.31688000000001
 ],
-  "geometry": {"coordinates":[-103.23408999999999,56.31688000000001],"type":"Point"}
+  "geometry": {"coordinates":[-103.23409,56.31688],"type":"Point"}
 }

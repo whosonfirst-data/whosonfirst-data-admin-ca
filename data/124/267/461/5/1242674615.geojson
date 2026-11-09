@@ -45,7 +45,7 @@
         "wk:page":"Hopewell%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"16f9235c85a23237348978e92aca530a",
+    "wof:geomhash":"b99336e3cb3455eb97b17db6d971c1e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -62.69864000000001,
     45.48345
 ],
-  "geometry": {"coordinates":[-62.69864000000001,45.48345],"type":"Point"}
+  "geometry": {"coordinates":[-62.69864,45.48345],"type":"Point"}
 }

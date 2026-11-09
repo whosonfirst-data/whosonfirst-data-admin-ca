@@ -42,7 +42,7 @@
         "wk:page":"Ellerslie%2C_Prince_Edward_Island"
     },
     "wof:country":"CA",
-    "wof:geomhash":"c75e7d275b4af2d9a4e66c3f2e142fe4",
+    "wof:geomhash":"9224e4d71e1507ca7a8b4d58608432e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.94873000000001,
     46.60014
 ],
-  "geometry": {"coordinates":[-63.94873000000001,46.60014],"type":"Point"}
+  "geometry": {"coordinates":[-63.94873,46.60014],"type":"Point"}
 }

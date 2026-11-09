@@ -42,7 +42,7 @@
         "wk:page":"Melrose%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d788c3b1dae7546fe9609c8cb43d5db0",
+    "wof:geomhash":"bf6e7ea53016f69e174ff68819dad5a6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -62.04043000000001,
     45.26145
 ],
-  "geometry": {"coordinates":[-62.04043000000001,45.26145],"type":"Point"}
+  "geometry": {"coordinates":[-62.04043,45.26145],"type":"Point"}
 }

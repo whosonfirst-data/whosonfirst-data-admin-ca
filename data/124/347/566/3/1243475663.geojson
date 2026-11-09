@@ -42,7 +42,7 @@
         "wk:page":"Ostrea_Lake%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"5e53a055762ec0052fec1f2aec21b4f7",
+    "wof:geomhash":"dcf566e50f6dec51959ab2432ea8a5eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.08844000000001,
     44.72154000000001
 ],
-  "geometry": {"coordinates":[-63.08844000000001,44.72154000000001],"type":"Point"}
+  "geometry": {"coordinates":[-63.08844,44.72154],"type":"Point"}
 }

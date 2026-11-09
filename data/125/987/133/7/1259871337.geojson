@@ -42,7 +42,7 @@
         "wk:page":"East_Gore%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"7e60c4f2e2d8f03372fba532c5315552",
+    "wof:geomhash":"b1cfc4b60a15d80caa00e8c043c517f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.68324000000001,
     45.11631
 ],
-  "geometry": {"coordinates":[-63.68324000000001,45.11631],"type":"Point"}
+  "geometry": {"coordinates":[-63.68324,45.11631],"type":"Point"}
 }

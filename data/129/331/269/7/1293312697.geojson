@@ -42,7 +42,7 @@
         "wk:page":"Hammertown%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d65500d79f3e9635235c4aeec6dd20f1",
+    "wof:geomhash":"b9ded4b89a416c837a2117ce483d914d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -79.74963000000002,
     43.93341
 ],
-  "geometry": {"coordinates":[-79.74963000000002,43.93341],"type":"Point"}
+  "geometry": {"coordinates":[-79.74963,43.93341],"type":"Point"}
 }

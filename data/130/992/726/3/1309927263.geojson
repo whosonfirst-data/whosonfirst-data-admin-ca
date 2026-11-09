@@ -42,7 +42,7 @@
         "wk:page":"Nappan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"8cff6704e658671982a4f9eb285f0fd9",
+    "wof:geomhash":"be0132b4fd0c8cf8b405de27536aef92",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.23971999999999,
     45.76925
 ],
-  "geometry": {"coordinates":[-64.23971999999999,45.76925],"type":"Point"}
+  "geometry": {"coordinates":[-64.23972,45.76925],"type":"Point"}
 }

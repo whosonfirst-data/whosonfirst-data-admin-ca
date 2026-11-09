@@ -42,7 +42,7 @@
         "wk:page":"Upper_Point_de_Bute%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"5692ea8735fc8b771659a94812c951dc",
+    "wof:geomhash":"32316b0a020c2042ae833673a8d3ad36",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.22294000000001,
     45.92176
 ],
-  "geometry": {"coordinates":[-64.22294000000001,45.92176],"type":"Point"}
+  "geometry": {"coordinates":[-64.22294,45.92176],"type":"Point"}
 }

@@ -43,7 +43,7 @@
         "wk:page":"Kitamaat_Village"
     },
     "wof:country":"CA",
-    "wof:geomhash":"1aceaf79a4801e41ede0062092f01518",
+    "wof:geomhash":"1c8c147295f166ffa6e4c7e61aeea336",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,5 +69,5 @@
     -128.64986000000002,
     53.97436
 ],
-  "geometry": {"coordinates":[-128.64986000000002,53.97436],"type":"Point"}
+  "geometry": {"coordinates":[-128.64986,53.97436],"type":"Point"}
 }

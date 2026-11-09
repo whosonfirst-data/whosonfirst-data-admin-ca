@@ -42,7 +42,7 @@
         "wk:page":"Crystal_Bay-Sunset%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"a7c8e02f3755be02068d53fb64899d47",
+    "wof:geomhash":"be42a0a41101fd49bd66e446c7261034",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -108.86813,
     53.55018000000001
 ],
-  "geometry": {"coordinates":[-108.86812999999999,53.55018000000001],"type":"Point"}
+  "geometry": {"coordinates":[-108.86813,53.55018],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "wk:page":"Wymark%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"911b2f7ef2ee459b085f9dead7ac583f",
+    "wof:geomhash":"e031e9bcfb7795cd982aef8951d0f2e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -107.73463999999998,
     50.11677
 ],
-  "geometry": {"coordinates":[-107.73463999999998,50.11677],"type":"Point"}
+  "geometry": {"coordinates":[-107.73464,50.11677],"type":"Point"}
 }

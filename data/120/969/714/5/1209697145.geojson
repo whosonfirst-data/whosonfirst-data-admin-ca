@@ -42,7 +42,7 @@
         "wk:page":"Reward%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"b4547e9fb659998020966d948e4a8e6a",
+    "wof:geomhash":"5477c6d7512b71150d187ac68f2df6c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -109.36818999999998,
     52.28344
 ],
-  "geometry": {"coordinates":[-109.36818999999998,52.28344],"type":"Point"}
+  "geometry": {"coordinates":[-109.36819,52.28344],"type":"Point"}
 }

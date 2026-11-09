@@ -47,7 +47,7 @@
         "wk:page":"Rivi%C3%A8re-Matawin%2C_Quebec"
     },
     "wof:country":"CA",
-    "wof:geomhash":"11ec47cadb40429a6067c23c9fc5e70f",
+    "wof:geomhash":"5db8def6a2fc7a9ed905d1eb9bf2947f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,5 +73,5 @@
     -72.92553000000002,
     46.91616
 ],
-  "geometry": {"coordinates":[-72.92553000000002,46.91616],"type":"Point"}
+  "geometry": {"coordinates":[-72.92553,46.91616],"type":"Point"}
 }

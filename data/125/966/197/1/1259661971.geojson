@@ -42,7 +42,7 @@
         "wk:page":"Leacross%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"5d61ed7a88b559fec64486b7dd7bb158",
+    "wof:geomhash":"d272ba9bcffe97da63a94a4051bd9a32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -104.05047,
     53.05003000000001
 ],
-  "geometry": {"coordinates":[-104.05047,53.05003000000001],"type":"Point"}
+  "geometry": {"coordinates":[-104.05047,53.05003],"type":"Point"}
 }

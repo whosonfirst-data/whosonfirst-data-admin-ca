@@ -42,7 +42,7 @@
         "wk:page":"Southport%2C_Newfoundland_and_Labrador"
     },
     "wof:country":"CA",
-    "wof:geomhash":"2e020ce3fd9bb0120e8b81dccf1c5e66",
+    "wof:geomhash":"68a4a1cc2d03f3c4de888e101b2e3d31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -53.63139,
     48.04989000000001
 ],
-  "geometry": {"coordinates":[-53.63139,48.04989000000001],"type":"Point"}
+  "geometry": {"coordinates":[-53.63139,48.04989],"type":"Point"}
 }

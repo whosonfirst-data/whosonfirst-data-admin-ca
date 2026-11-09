@@ -42,7 +42,7 @@
         "wk:page":"Dempseys_Corner%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f5a7ae03b10400153a64333c024c2260",
+    "wof:geomhash":"6d7e1b76dd96c30bdd470c0f73415f18",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.84891999999999,
     45.05262000000001
 ],
-  "geometry": {"coordinates":[-64.84891999999999,45.05262000000001],"type":"Point"}
+  "geometry": {"coordinates":[-64.84892,45.05262],"type":"Point"}
 }

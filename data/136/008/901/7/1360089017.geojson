@@ -45,7 +45,7 @@
         "wk:page":"Lindbergh%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"c6af1e958f15fbb5f81effc36d42d315",
+    "wof:geomhash":"9a96d62945131a0f658686ba29b19280",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -110.66838,
     53.88348000000001
 ],
-  "geometry": {"coordinates":[-110.66838,53.88348000000001],"type":"Point"}
+  "geometry": {"coordinates":[-110.66838,53.88348],"type":"Point"}
 }

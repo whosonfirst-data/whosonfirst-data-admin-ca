@@ -45,7 +45,7 @@
         "wk:page":"Fort_Kent%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"91aebaecda80e2d8d94932d8a2c95ebd",
+    "wof:geomhash":"3de3916cf0ca6fa4f5f458052cafc42d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -110.61845,
     54.31688000000001
 ],
-  "geometry": {"coordinates":[-110.61845,54.31688000000001],"type":"Point"}
+  "geometry": {"coordinates":[-110.61845,54.31688],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Valley_Mills%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"09bb0658b8590e3e4f483192cd888ba5",
+    "wof:geomhash":"986135a95bd462eb30680dde498905fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -61.11024000000001,
     45.84387
 ],
-  "geometry": {"coordinates":[-61.11024000000001,45.84387],"type":"Point"}
+  "geometry": {"coordinates":[-61.11024,45.84387],"type":"Point"}
 }

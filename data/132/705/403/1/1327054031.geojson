@@ -45,7 +45,7 @@
         "wk:page":"Weaver_Siding%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"669e74c0b9a960d5e8504108ba21fa76",
+    "wof:geomhash":"f6f6bd9a4f7ac4518dc49f4f2c077178",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -65.95078000000001,
     46.6201
 ],
-  "geometry": {"coordinates":[-65.95078000000001,46.6201],"type":"Point"}
+  "geometry": {"coordinates":[-65.95078,46.6201],"type":"Point"}
 }

@@ -39,7 +39,7 @@
         "wk:page":"Woodlawn%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f1123dab9b290023c69bfa8de8c1dd41",
+    "wof:geomhash":"b0ac2a3956f3dec5c3acd9b897eb5fbb",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -62,5 +62,5 @@
     -63.52733000000001,
     44.67747
 ],
-  "geometry": {"coordinates":[-63.52733000000001,44.67747],"type":"Point"}
+  "geometry": {"coordinates":[-63.52733,44.67747],"type":"Point"}
 }

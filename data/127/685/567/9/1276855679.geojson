@@ -44,7 +44,7 @@
         "wk:page":"Lennox_Island_%28Prince_Edward_Island%29"
     },
     "wof:country":"CA",
-    "wof:geomhash":"23f23b905cba6b39e30e5fb069e6b8a1",
+    "wof:geomhash":"fc80a2ba616cf4ca74d674ef361b65b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,5 +69,5 @@
     -63.84871999999999,
     46.60014
 ],
-  "geometry": {"coordinates":[-63.84871999999999,46.60014],"type":"Point"}
+  "geometry": {"coordinates":[-63.84872,46.60014],"type":"Point"}
 }

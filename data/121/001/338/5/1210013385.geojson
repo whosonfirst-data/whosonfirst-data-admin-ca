@@ -44,7 +44,7 @@
         "wk:page":"Castle_Bay%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"088246bd5581a91a5bad202f1deabcc7",
+    "wof:geomhash":"3ba183359c79a5e774d032762a6496b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,5 +69,5 @@
     -60.64848000000001,
     45.91684
 ],
-  "geometry": {"coordinates":[-60.64848000000001,45.91684],"type":"Point"}
+  "geometry": {"coordinates":[-60.64848,45.91684],"type":"Point"}
 }

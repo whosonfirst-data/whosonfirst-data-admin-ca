@@ -42,7 +42,7 @@
         "wk:page":"Morden%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"2ad07bcaadcd131af4d22044f6a12dae",
+    "wof:geomhash":"ee265dcde9c3ff8a4b20d06c4467417f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.94608000000001,
     45.10312
 ],
-  "geometry": {"coordinates":[-64.94608000000001,45.10312],"type":"Point"}
+  "geometry": {"coordinates":[-64.94608,45.10312],"type":"Point"}
 }

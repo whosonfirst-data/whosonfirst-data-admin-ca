@@ -53,7 +53,7 @@
         "wk:page":"Heart%27s_Desire%2C_Newfoundland_and_Labrador"
     },
     "wof:country":"CA",
-    "wof:geomhash":"ea2b1926f9a8c93fe274985a456e35ee",
+    "wof:geomhash":"9aad4d291bece92330e32b5990911e91",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,5 +78,5 @@
     -53.44809,
     47.81659000000001
 ],
-  "geometry": {"coordinates":[-53.44809,47.81659000000001],"type":"Point"}
+  "geometry": {"coordinates":[-53.44809,47.81659],"type":"Point"}
 }

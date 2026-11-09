@@ -42,7 +42,7 @@
         "wk:page":"Billtown%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"afceffbee475b0fdd60a03e7bda4ab6e",
+    "wof:geomhash":"3593ffc89aa318314e6daaad6ea03bd9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.57238000000001,
     45.12296
 ],
-  "geometry": {"coordinates":[-64.57238000000001,45.12296],"type":"Point"}
+  "geometry": {"coordinates":[-64.57238,45.12296],"type":"Point"}
 }

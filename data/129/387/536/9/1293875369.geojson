@@ -42,7 +42,7 @@
         "wk:page":"Bramber%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"b878d60d217abb2fba50037506764474",
+    "wof:geomhash":"e8399f173d5fb95ed19e6099199b3f61",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.14565999999999,
     45.18217
 ],
-  "geometry": {"coordinates":[-64.14565999999999,45.18217],"type":"Point"}
+  "geometry": {"coordinates":[-64.14566,45.18217],"type":"Point"}
 }

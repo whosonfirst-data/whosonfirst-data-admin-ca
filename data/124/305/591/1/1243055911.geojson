@@ -42,7 +42,7 @@
         "wk:page":"Kopp%27s_Kove%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"86633313d324d3265ad6aeb615c2f1cf",
+    "wof:geomhash":"7c0ff40552fc2e75a9b82c2e8bde7669",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -108.6847,
     53.51688000000001
 ],
-  "geometry": {"coordinates":[-108.68470000000001,53.51688000000001],"type":"Point"}
+  "geometry": {"coordinates":[-108.6847,53.51688],"type":"Point"}
 }

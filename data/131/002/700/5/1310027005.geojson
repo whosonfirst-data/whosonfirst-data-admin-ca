@@ -45,7 +45,7 @@
         "wk:page":"Grande_Greve%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"51bbe09ccb73a608529d407d25933c18",
+    "wof:geomhash":"3883ced14b1a8d3bec9656c29c92231b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -60.84444000000001,
     45.63093
 ],
-  "geometry": {"coordinates":[-60.84444000000001,45.63093],"type":"Point"}
+  "geometry": {"coordinates":[-60.84444,45.63093],"type":"Point"}
 }

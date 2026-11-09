@@ -38,7 +38,7 @@
         "gn:id":11071617
     },
     "wof:country":"CA",
-    "wof:geomhash":"6c202c8d606bd0c83f6df5a8bcc29c6a",
+    "wof:geomhash":"9715fc6293cfd85964583db0dcde095c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,5 +64,5 @@
     -79.72901999999998,
     43.47955
 ],
-  "geometry": {"coordinates":[-79.72901999999998,43.47955],"type":"Point"}
+  "geometry": {"coordinates":[-79.72902,43.47955],"type":"Point"}
 }

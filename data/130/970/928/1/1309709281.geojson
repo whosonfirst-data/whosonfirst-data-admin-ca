@@ -42,7 +42,7 @@
         "wk:page":"Forest_Glen%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"693093c924c5ac98c57272bd6b770e86",
+    "wof:geomhash":"f83178e64f6cc47b3b189fadc4501bf0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.91020999999999,
     44.08038
 ],
-  "geometry": {"coordinates":[-65.91020999999999,44.08038],"type":"Point"}
+  "geometry": {"coordinates":[-65.91021,44.08038],"type":"Point"}
 }

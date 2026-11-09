@@ -42,7 +42,7 @@
         "wk:page":"Algoma%2C_Unorganized%2C_North_Part%2C_Ontario%23Amyot"
     },
     "wof:country":"CA",
-    "wof:geomhash":"be0e0ccd2e5a175237b477034a9939c0",
+    "wof:geomhash":"08c36af1670a56636d100332b0a8d8f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -84.94981999999997,
     48.48339
 ],
-  "geometry": {"coordinates":[-84.94981999999997,48.48339],"type":"Point"}
+  "geometry": {"coordinates":[-84.94982,48.48339],"type":"Point"}
 }

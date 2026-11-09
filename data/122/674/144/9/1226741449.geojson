@@ -42,7 +42,7 @@
         "wk:page":"Mabou_Harbour_Mouth%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"8a092d91a9320ea5abb2837bb0fa63dd",
+    "wof:geomhash":"468d20dc10147d1a31b11eb9e1da7d3c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -61.45999000000001,
     46.08938
 ],
-  "geometry": {"coordinates":[-61.45999000000001,46.08938],"type":"Point"}
+  "geometry": {"coordinates":[-61.45999,46.08938],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Kinkora%2C_Prince_Edward_Island"
     },
     "wof:country":"CA",
-    "wof:geomhash":"2991c4a0b940533a186a8109ea5a340d",
+    "wof:geomhash":"f815a0a9cc37e7826b86df9bdd87e372",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,5 +77,5 @@
     -63.59871999999999,
     46.31683
 ],
-  "geometry": {"coordinates":[-63.59871999999999,46.31683],"type":"Point"}
+  "geometry": {"coordinates":[-63.59872,46.31683],"type":"Point"}
 }

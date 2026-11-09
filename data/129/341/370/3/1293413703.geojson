@@ -45,7 +45,7 @@
         "wk:page":"Anagance%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"af700b533c2c74185a431ccd74a4713a",
+    "wof:geomhash":"33a0f88eba65877d367453e414abdcce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -65.25258000000001,
     45.86988
 ],
-  "geometry": {"coordinates":[-65.25258000000001,45.86988],"type":"Point"}
+  "geometry": {"coordinates":[-65.25258,45.86988],"type":"Point"}
 }

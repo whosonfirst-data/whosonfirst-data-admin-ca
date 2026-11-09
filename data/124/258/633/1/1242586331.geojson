@@ -42,7 +42,7 @@
         "wk:page":"Clayhurst"
     },
     "wof:country":"CA",
-    "wof:geomhash":"8f332b973cf7a951d7bd4b3dd7d90145",
+    "wof:geomhash":"1ea47f7bfb410d6258c93c5edf5ed940",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -120.05,
     56.18333000000001
 ],
-  "geometry": {"coordinates":[-120.05,56.18333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-120.05,56.18333],"type":"Point"}
 }

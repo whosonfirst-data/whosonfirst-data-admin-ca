@@ -45,7 +45,7 @@
         "wk:page":"Holmesville%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"384a98e2cd72a1794084f7c0b8964631",
+    "wof:geomhash":"2185f33f991d21a115aeafb1d4b240b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -81.60278000000002,
     43.64528
 ],
-  "geometry": {"coordinates":[-81.60278000000002,43.64528],"type":"Point"}
+  "geometry": {"coordinates":[-81.60278,43.64528],"type":"Point"}
 }

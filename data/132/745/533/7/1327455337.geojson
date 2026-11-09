@@ -42,7 +42,7 @@
         "wk:page":"Ballantynes_Cove"
     },
     "wof:country":"CA",
-    "wof:geomhash":"0cfd9cca26943d35930edf0a50ad2c87",
+    "wof:geomhash":"3be103c8660fac1a23f51099d5be5bd4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -61.92088,
     45.85977000000001
 ],
-  "geometry": {"coordinates":[-61.92088,45.85977000000001],"type":"Point"}
+  "geometry": {"coordinates":[-61.92088,45.85977],"type":"Point"}
 }

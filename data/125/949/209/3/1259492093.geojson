@@ -43,7 +43,7 @@
         "wk:page":"Jackson_Bay%2C_British_Columbia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"be33cf820f7758a0e0241bed7b429613",
+    "wof:geomhash":"671bbf7812f1adcaf5a8614782ce3208",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,5 +69,5 @@
     -125.75388999999998,
     50.51367
 ],
-  "geometry": {"coordinates":[-125.75388999999998,50.51367],"type":"Point"}
+  "geometry": {"coordinates":[-125.75389,50.51367],"type":"Point"}
 }

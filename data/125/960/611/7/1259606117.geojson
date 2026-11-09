@@ -44,7 +44,7 @@
         "wk:page":"South_River%2C_Newfoundland_and_Labrador"
     },
     "wof:country":"CA",
-    "wof:geomhash":"091ae30ce13f9c28e3679e2c32726fe3",
+    "wof:geomhash":"076fe275d5d8dd5871d60954153eccd6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,5 +69,5 @@
     -53.26478,
     47.54989000000001
 ],
-  "geometry": {"coordinates":[-53.26478,47.54989000000001],"type":"Point"}
+  "geometry": {"coordinates":[-53.26478,47.54989],"type":"Point"}
 }

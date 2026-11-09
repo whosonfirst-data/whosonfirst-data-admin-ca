@@ -42,7 +42,7 @@
         "wk:page":"Taylors_Head%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"8d81fedc4f6cbc9af71619bdc8ea8afb",
+    "wof:geomhash":"a40594aa5805ddf9907d2533d42f910d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -62.56531999999999,
     44.81685
 ],
-  "geometry": {"coordinates":[-62.56531999999999,44.81685],"type":"Point"}
+  "geometry": {"coordinates":[-62.56532,44.81685],"type":"Point"}
 }
