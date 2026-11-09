@@ -42,7 +42,7 @@
         "wk:page":"Fox_Island_Main%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"08484a5e7e9b4fe3f8229bd6d4034da7",
+    "wof:geomhash":"871833c09351d594987e52a9c982d6a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -61.10426999999999,
     45.33799000000001
 ],
-  "geometry": {"coordinates":[-61.10426999999999,45.33799000000001],"type":"Point"}
+  "geometry": {"coordinates":[-61.10427,45.33799],"type":"Point"}
 }

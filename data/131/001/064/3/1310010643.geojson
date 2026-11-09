@@ -50,7 +50,7 @@
         "wk:page":"Grand_le_Pierre"
     },
     "wof:country":"CA",
-    "wof:geomhash":"bf1033ad03660ce712a0064428f451e7",
+    "wof:geomhash":"3f6c1c9b84150145696566ab7d3f3417",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,5 +75,5 @@
     -54.78151999999999,
     47.68321
 ],
-  "geometry": {"coordinates":[-54.78151999999999,47.68321],"type":"Point"}
+  "geometry": {"coordinates":[-54.78152,47.68321],"type":"Point"}
 }

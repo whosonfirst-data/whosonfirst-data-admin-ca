@@ -42,7 +42,7 @@
         "wk:page":"Castle_Rock%2C_British_Columbia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"1a721f14a909b850b5057fadb63ee4b7",
+    "wof:geomhash":"23e2ada17e73b830512f4e919d9793c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -122.48333,
     52.53333000000001
 ],
-  "geometry": {"coordinates":[-122.48333,52.53333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-122.48333,52.53333],"type":"Point"}
 }

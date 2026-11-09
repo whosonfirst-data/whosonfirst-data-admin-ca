@@ -42,7 +42,7 @@
         "wk:page":"Colesdale_Park%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"71358cfa7bc7230dbc66c2877dc48a00",
+    "wof:geomhash":"e91d427a3518e163fa36254b3e9608d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -105.15113999999998,
     50.95008
 ],
-  "geometry": {"coordinates":[-105.15113999999998,50.95008],"type":"Point"}
+  "geometry": {"coordinates":[-105.15114,50.95008],"type":"Point"}
 }

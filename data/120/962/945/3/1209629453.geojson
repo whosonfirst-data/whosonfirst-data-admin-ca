@@ -39,7 +39,7 @@
         "wk:page":"Carnwood%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"3e01d30584803e1c9bd8ca49c2dd1209",
+    "wof:geomhash":"fb2c6af799b017a4be625c16a42a91b8",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -62,5 +62,5 @@
     -114.634,
     53.19181999999999
 ],
-  "geometry": {"coordinates":[-114.634,53.19181999999999],"type":"Point"}
+  "geometry": {"coordinates":[-114.634,53.19182],"type":"Point"}
 }

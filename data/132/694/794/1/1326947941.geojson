@@ -42,7 +42,7 @@
         "wk:page":"Spruce_Valley%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"acb42b833179ccd32098d9472abb8d4f",
+    "wof:geomhash":"817861821d92b06a7b2a1a4a82777dfa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -112.80201,
     54.85019000000001
 ],
-  "geometry": {"coordinates":[-112.80201,54.85019000000001],"type":"Point"}
+  "geometry": {"coordinates":[-112.80201,54.85019],"type":"Point"}
 }

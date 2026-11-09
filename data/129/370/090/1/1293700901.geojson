@@ -42,7 +42,7 @@
         "wk:page":"Boyne_Lake%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"6d1c935d1af403dd25507b519f11ce8b",
+    "wof:geomhash":"405f2269fbc2f423ee1d858718228051",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -111.68515,
     54.23348000000001
 ],
-  "geometry": {"coordinates":[-111.68514999999999,54.23348000000001],"type":"Point"}
+  "geometry": {"coordinates":[-111.68515,54.23348],"type":"Point"}
 }

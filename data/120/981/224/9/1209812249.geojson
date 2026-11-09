@@ -42,7 +42,7 @@
         "wk:page":"Sherwood_Heights%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"4571dee3b2587aaa96d7117c5abbf5fa",
+    "wof:geomhash":"50cd302c34cc9610a07e14f0a26671b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.66784000000001,
     44.67518
 ],
-  "geometry": {"coordinates":[-63.66784000000001,44.67518],"type":"Point"}
+  "geometry": {"coordinates":[-63.66784,44.67518],"type":"Point"}
 }

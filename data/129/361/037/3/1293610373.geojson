@@ -45,7 +45,7 @@
         "wk:page":"Lochside%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fd99bd18b5b1c7ecc95d4382b722a67c",
+    "wof:geomhash":"85f330337432979d231d4fdb6a218976",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -60.99673000000001,
     45.54499000000001
 ],
-  "geometry": {"coordinates":[-60.99673000000001,45.54499000000001],"type":"Point"}
+  "geometry": {"coordinates":[-60.99673,45.54499],"type":"Point"}
 }

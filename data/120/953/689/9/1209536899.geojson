@@ -39,7 +39,7 @@
         "wk:page":"Upper_Nappan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"0bd9e61f37c838f81ee4ac83b2ebfc82",
+    "wof:geomhash":"9f543624b2a4c2b88ec873fdbb523d19",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -62,5 +62,5 @@
     -64.19528000000001,
     45.7935
 ],
-  "geometry": {"coordinates":[-64.19528000000001,45.7935],"type":"Point"}
+  "geometry": {"coordinates":[-64.19528,45.7935],"type":"Point"}
 }

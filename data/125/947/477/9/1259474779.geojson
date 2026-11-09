@@ -42,7 +42,7 @@
         "wk:page":"Tam_O%27Shanter_Ridge%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"e45710db57a488e0227f2883df83a7cc",
+    "wof:geomhash":"35b98193d30c06c7cd3d2f796ba5c818",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.52681,
     44.68904000000001
 ],
-  "geometry": {"coordinates":[-63.52681,44.68904000000001],"type":"Point"}
+  "geometry": {"coordinates":[-63.52681,44.68904],"type":"Point"}
 }

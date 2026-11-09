@@ -42,7 +42,7 @@
         "wk:page":"Triangle%2C_Newfoundland_and_Labrador"
     },
     "wof:country":"CA",
-    "wof:geomhash":"076bd828d60acb25ee2fc504e632d5bf",
+    "wof:geomhash":"3bca073e93e09d61f3cb785054362cf0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -55.84797,
     52.83338000000001
 ],
-  "geometry": {"coordinates":[-55.84797,52.83338000000001],"type":"Point"}
+  "geometry": {"coordinates":[-55.84797,52.83338],"type":"Point"}
 }

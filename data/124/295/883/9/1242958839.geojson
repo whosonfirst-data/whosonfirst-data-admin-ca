@@ -42,7 +42,7 @@
         "wk:page":"South_Algonquin%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"7e1e3303fa516ece88af6a02ca4deaf6",
+    "wof:geomhash":"bf79ae47301a3eaa0162c317d906a648",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -77.98281999999998,
     45.50012
 ],
-  "geometry": {"coordinates":[-77.98281999999998,45.50012],"type":"Point"}
+  "geometry": {"coordinates":[-77.98282,45.50012],"type":"Point"}
 }

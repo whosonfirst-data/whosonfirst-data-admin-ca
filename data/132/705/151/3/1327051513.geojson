@@ -42,7 +42,7 @@
         "wk:page":"Ingonish_Ferry"
     },
     "wof:country":"CA",
-    "wof:geomhash":"7ed757a84a1c78ae81fb5fbd6657d14d",
+    "wof:geomhash":"0c8a4d9ffde5ae9c2debb62cbd0e705c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -60.39245,
     46.62779000000001
 ],
-  "geometry": {"coordinates":[-60.39245,46.62779000000001],"type":"Point"}
+  "geometry": {"coordinates":[-60.39245,46.62779],"type":"Point"}
 }

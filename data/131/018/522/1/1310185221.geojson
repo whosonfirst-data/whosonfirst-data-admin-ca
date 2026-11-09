@@ -42,7 +42,7 @@
         "wk:page":"Riverdale%2C_Yukon"
     },
     "wof:country":"CA",
-    "wof:geomhash":"c8f92514f3600b0cd5ebe011a350d156",
+    "wof:geomhash":"f2e470770d87213d4507fce227b8d237",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -135.02361000000002,
     60.70694
 ],
-  "geometry": {"coordinates":[-135.02361000000002,60.70694],"type":"Point"}
+  "geometry": {"coordinates":[-135.02361,60.70694],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Dollard%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d0159306eac25fdc4beebbfebcf3c46d",
+    "wof:geomhash":"61e7216d1bd34883d733dfad727beaf2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -108.58471000000002,
     49.61675
 ],
-  "geometry": {"coordinates":[-108.58471000000002,49.61675],"type":"Point"}
+  "geometry": {"coordinates":[-108.58471,49.61675],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Findlay%2C_Manitoba"
     },
     "wof:country":"CA",
-    "wof:geomhash":"de93e7b37abc9cef72afaf25c0db6132",
+    "wof:geomhash":"0c8189a2144d948803ee07b9ff420680",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -100.75841,
     49.56809000000001
 ],
-  "geometry": {"coordinates":[-100.75841,49.56809000000001],"type":"Point"}
+  "geometry": {"coordinates":[-100.75841,49.56809],"type":"Point"}
 }

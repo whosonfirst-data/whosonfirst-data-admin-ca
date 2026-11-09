@@ -42,7 +42,7 @@
         "wk:page":"Wesley_Corners%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"7154c83fd001f5a279a93ecfbf7a49eb",
+    "wof:geomhash":"b3f67e4797c422faa039a5beeeeb52da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -79.39572,
     44.01544000000001
 ],
-  "geometry": {"coordinates":[-79.39572,44.01544000000001],"type":"Point"}
+  "geometry": {"coordinates":[-79.39572,44.01544],"type":"Point"}
 }

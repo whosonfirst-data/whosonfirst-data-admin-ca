@@ -48,7 +48,7 @@
         "wk:page":"Panorama_Mountain_Village"
     },
     "wof:country":"CA",
-    "wof:geomhash":"86334feff940d53b4ea1f3da33457f33",
+    "wof:geomhash":"81e88608496074e1b22ef47875a89672",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,5 +74,5 @@
     -116.22256000000002,
     50.4687
 ],
-  "geometry": {"coordinates":[-116.22256000000002,50.4687],"type":"Point"}
+  "geometry": {"coordinates":[-116.22256,50.4687],"type":"Point"}
 }

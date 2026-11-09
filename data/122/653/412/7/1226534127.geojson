@@ -42,7 +42,7 @@
         "wk:page":"Upper_Port_La_Tour%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"284f8905657bb5d2e18b644d19d38c47",
+    "wof:geomhash":"471153aba2e07e05c3bdea8c7437ee5d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.46995,
     43.51217000000001
 ],
-  "geometry": {"coordinates":[-65.46995,43.51217000000001],"type":"Point"}
+  "geometry": {"coordinates":[-65.46995,43.51217],"type":"Point"}
 }

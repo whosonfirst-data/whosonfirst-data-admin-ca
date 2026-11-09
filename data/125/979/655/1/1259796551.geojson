@@ -45,7 +45,7 @@
         "wk:page":"Anaconda%2C_British_Columbia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"3e454192b9ae5ae0bfd34346209bc4cf",
+    "wof:geomhash":"a639106b828a1dc1079cdd663170a61f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -118.68561,
     49.08309000000001
 ],
-  "geometry": {"coordinates":[-118.68561,49.08309000000001],"type":"Point"}
+  "geometry": {"coordinates":[-118.68561,49.08309],"type":"Point"}
 }

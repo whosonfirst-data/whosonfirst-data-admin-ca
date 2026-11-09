@@ -45,7 +45,7 @@
         "wk:page":"Therien%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"a7956fa905eeac0b7ab29148ee606400",
+    "wof:geomhash":"0fb031b4b1755686ad04009c93c3ada2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -111.26851,
     54.23348000000001
 ],
-  "geometry": {"coordinates":[-111.26851000000001,54.23348000000001],"type":"Point"}
+  "geometry": {"coordinates":[-111.26851,54.23348],"type":"Point"}
 }

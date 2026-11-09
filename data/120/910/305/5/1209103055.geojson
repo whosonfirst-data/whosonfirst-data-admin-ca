@@ -39,7 +39,7 @@
         "wk:page":"Grande_Anse%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"4064292534ab56adc1ed18e2aa9ea69c",
+    "wof:geomhash":"ef8e24288f657c99ee9a53fafa6083d9",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -62,5 +62,5 @@
     -61.06236,
     45.62159000000001
 ],
-  "geometry": {"coordinates":[-61.06236,45.62159000000001],"type":"Point"}
+  "geometry": {"coordinates":[-61.06236,45.62159],"type":"Point"}
 }

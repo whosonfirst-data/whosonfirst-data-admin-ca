@@ -54,7 +54,7 @@
         "wk:page":"Elsa%2C_Yukon"
     },
     "wof:country":"CA",
-    "wof:geomhash":"9395fce1458c3ad7f38649e5c69c221c",
+    "wof:geomhash":"94ab5b89dcdbb7d26caecdabbd02078f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,5 +80,5 @@
     -135.67016999999998,
     63.87274
 ],
-  "geometry": {"coordinates":[-135.67016999999998,63.87274],"type":"Point"}
+  "geometry": {"coordinates":[-135.67017,63.87274],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Mosherville%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"35197506eeb4c25360fd2a14c8772a8e",
+    "wof:geomhash":"426d5961af2dcb1e655da82d4ab535e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.96543000000001,
     45.06685
 ],
-  "geometry": {"coordinates":[-63.96543000000001,45.06685],"type":"Point"}
+  "geometry": {"coordinates":[-63.96543,45.06685],"type":"Point"}
 }

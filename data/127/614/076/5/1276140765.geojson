@@ -45,7 +45,7 @@
         "wk:page":"Urbainville%2C_Prince_Edward_Island"
     },
     "wof:country":"CA",
-    "wof:geomhash":"b405733c8fc77e4aa51cacae074d8432",
+    "wof:geomhash":"b917c6eb7a1059ca07c75e710855ae95",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -64.03204000000001,
     46.46684000000001
 ],
-  "geometry": {"coordinates":[-64.03204000000001,46.46684000000001],"type":"Point"}
+  "geometry": {"coordinates":[-64.03204,46.46684],"type":"Point"}
 }

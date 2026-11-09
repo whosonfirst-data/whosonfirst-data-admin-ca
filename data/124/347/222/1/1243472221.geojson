@@ -45,7 +45,7 @@
         "wk:page":"Saskatchewan_River_Crossing%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"3a671e2ccee6802cce1cfde933062566",
+    "wof:geomhash":"632b587ae6f25478d59fb6cde67f70eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -116.74662,
     51.97499000000001
 ],
-  "geometry": {"coordinates":[-116.74661999999999,51.97499000000001],"type":"Point"}
+  "geometry": {"coordinates":[-116.74662,51.97499],"type":"Point"}
 }

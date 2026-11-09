@@ -42,7 +42,7 @@
         "wk:page":"Morrison_Landing"
     },
     "wof:country":"CA",
-    "wof:geomhash":"0b4f53d218c1cd53e72ef02f1e83efb9",
+    "wof:geomhash":"ca3a85376d078dba7ccce39f7d397a18",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -79.46011999999997,
     44.84789
 ],
-  "geometry": {"coordinates":[-79.46011999999997,44.84789],"type":"Point"}
+  "geometry": {"coordinates":[-79.46012,44.84789],"type":"Point"}
 }

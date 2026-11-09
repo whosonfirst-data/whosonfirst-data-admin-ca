@@ -42,7 +42,7 @@
         "wk:page":"Calhoun%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"95fa55f44b2138ad8790fec797508763",
+    "wof:geomhash":"af6ed10be99fc042988941adbc722ab7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.58643000000001,
     46.06752
 ],
-  "geometry": {"coordinates":[-64.58643000000001,46.06752],"type":"Point"}
+  "geometry": {"coordinates":[-64.58643,46.06752],"type":"Point"}
 }

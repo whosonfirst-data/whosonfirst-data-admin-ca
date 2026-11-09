@@ -43,7 +43,7 @@
         "wk:page":"Wreck_Cove%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"93d8a13012ec7071d0e94dc4f01183be",
+    "wof:geomhash":"03017381e6027020e683c515bbf7b2a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -60.40221999999999,
     46.55028
 ],
-  "geometry": {"coordinates":[-60.40221999999999,46.55028],"type":"Point"}
+  "geometry": {"coordinates":[-60.40222,46.55028],"type":"Point"}
 }

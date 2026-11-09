@@ -45,7 +45,7 @@
         "wk:page":"Great_Codroy"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fdb8dd77e8e0645f8424693bac8a07c2",
+    "wof:geomhash":"8d0ddef0139865aecf3802c5692f006e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -59.26643000000001,
     47.83943
 ],
-  "geometry": {"coordinates":[-59.26643000000001,47.83943],"type":"Point"}
+  "geometry": {"coordinates":[-59.26643,47.83943],"type":"Point"}
 }

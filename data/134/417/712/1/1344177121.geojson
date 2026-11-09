@@ -42,7 +42,7 @@
         "wk:page":"Godfrey%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"258aec5f426e32b20099c85caf46bf84",
+    "wof:geomhash":"832109a90b8ba9bf907f171e0029fa29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -76.68271999999997,
     44.53342
 ],
-  "geometry": {"coordinates":[-76.68271999999997,44.53342],"type":"Point"}
+  "geometry": {"coordinates":[-76.68272,44.53342],"type":"Point"}
 }

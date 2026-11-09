@@ -45,7 +45,7 @@
         "wk:page":"Greenland%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"0dc9f1dfdbc7340e94ca477e155dccdb",
+    "wof:geomhash":"6031b2144033ecb3560a5e1e869d6098",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -65.57951,
     44.57964000000001
 ],
-  "geometry": {"coordinates":[-65.57951,44.57964000000001],"type":"Point"}
+  "geometry": {"coordinates":[-65.57951,44.57964],"type":"Point"}
 }

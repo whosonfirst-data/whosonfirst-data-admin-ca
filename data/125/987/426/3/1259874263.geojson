@@ -45,7 +45,7 @@
         "wk:page":"East_Margaretsville"
     },
     "wof:country":"CA",
-    "wof:geomhash":"0d9d9d24baaca28e2e1b5212fb5c97f1",
+    "wof:geomhash":"c66ad7b13ca73ee81ead9354fb9ca1b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -65.02022,
     45.05354000000001
 ],
-  "geometry": {"coordinates":[-65.02021999999999,45.05354000000001],"type":"Point"}
+  "geometry": {"coordinates":[-65.02022,45.05354],"type":"Point"}
 }

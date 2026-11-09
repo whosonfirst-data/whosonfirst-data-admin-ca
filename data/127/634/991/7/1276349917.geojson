@@ -45,7 +45,7 @@
         "wk:page":"Streamstown%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f1edca54524608f146a13f923745451d",
+    "wof:geomhash":"9f08a9db6deef5275fc95d3a47f68baa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -110.18489,
     53.43346999999999
 ],
-  "geometry": {"coordinates":[-110.18489,53.43346999999999],"type":"Point"}
+  "geometry": {"coordinates":[-110.18489,53.43347],"type":"Point"}
 }

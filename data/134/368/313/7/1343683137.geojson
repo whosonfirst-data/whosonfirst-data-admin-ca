@@ -42,7 +42,7 @@
         "wk:page":"The_Falls%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"9a65357d0f0e54093db0cb2d5eec2f0c",
+    "wof:geomhash":"642cc53357a2c33f5cc49fdac6866b68",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.22193000000001,
     45.63741
 ],
-  "geometry": {"coordinates":[-63.22193000000001,45.63741],"type":"Point"}
+  "geometry": {"coordinates":[-63.22193,45.63741],"type":"Point"}
 }

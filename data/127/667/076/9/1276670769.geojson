@@ -42,7 +42,7 @@
         "wk:page":"Loos%2C_British_Columbia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fdf8fa669df24bbe0839fb7a57f57da1",
+    "wof:geomhash":"f9b70aa7c878e3e5ccbaf62faeef3ad8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -120.70269,
     53.59993000000001
 ],
-  "geometry": {"coordinates":[-120.70269,53.59993000000001],"type":"Point"}
+  "geometry": {"coordinates":[-120.70269,53.59993],"type":"Point"}
 }

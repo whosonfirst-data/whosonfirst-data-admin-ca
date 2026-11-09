@@ -42,7 +42,7 @@
         "wk:page":"North_Colesdale_Park%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"4dbd75ca3e752adf1b2b9f84db110b14",
+    "wof:geomhash":"9f420e462b3c69b8e7036d239c268bd7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -105.15113999999998,
     50.96678
 ],
-  "geometry": {"coordinates":[-105.15113999999998,50.96678],"type":"Point"}
+  "geometry": {"coordinates":[-105.15114,50.96678],"type":"Point"}
 }

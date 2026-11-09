@@ -43,7 +43,7 @@
         "wk:page":"Shushartie"
     },
     "wof:country":"CA",
-    "wof:geomhash":"971cd8394b52a9203f54cc6e4756f743",
+    "wof:geomhash":"f7adb46ca6f59f283569605f281db68a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,5 +69,5 @@
     -127.85493999999998,
     50.85318
 ],
-  "geometry": {"coordinates":[-127.85493999999998,50.85318],"type":"Point"}
+  "geometry": {"coordinates":[-127.85494,50.85318],"type":"Point"}
 }

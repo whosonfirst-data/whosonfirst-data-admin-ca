@@ -42,7 +42,7 @@
         "wk:page":"Middle_River%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"74144674a7745112fc77e22c2a4cf5c4",
+    "wof:geomhash":"621a3ed221e8946246454f029512e484",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -60.92404000000001,
     46.15713
 ],
-  "geometry": {"coordinates":[-60.92404000000001,46.15713],"type":"Point"}
+  "geometry": {"coordinates":[-60.92404,46.15713],"type":"Point"}
 }

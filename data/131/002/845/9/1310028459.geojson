@@ -41,7 +41,7 @@
         "wk:page":"Little_Port%2C_Newfoundland_and_Labrador"
     },
     "wof:country":"CA",
-    "wof:geomhash":"04cfd691b9444f9ade9f9a70ed77bad1",
+    "wof:geomhash":"06bca1a251c92830e322cce6bdfa3c4c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,5 +66,5 @@
     -58.42169000000001,
     49.10669
 ],
-  "geometry": {"coordinates":[-58.42169000000001,49.10669],"type":"Point"}
+  "geometry": {"coordinates":[-58.42169,49.10669],"type":"Point"}
 }

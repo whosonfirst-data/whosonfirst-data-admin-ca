@@ -39,7 +39,7 @@
         "wk:page":"Margaree_Forks%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"c9ee69978039e41d1166ec38487d891f",
+    "wof:geomhash":"5d8cc98ed613292d92267ace86ad401a",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -62,5 +62,5 @@
     -61.09634000000001,
     46.33413
 ],
-  "geometry": {"coordinates":[-61.09634000000001,46.33413],"type":"Point"}
+  "geometry": {"coordinates":[-61.09634,46.33413],"type":"Point"}
 }

@@ -47,7 +47,7 @@
         "wk:page":"St._Vincent%27s-St._Stephen%27s-Peter%27s_River"
     },
     "wof:country":"CA",
-    "wof:geomhash":"e91c84aba25ff85e6f7794f23144a103",
+    "wof:geomhash":"bc698884cfb87ad09c74e12993991f0b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,5 +72,5 @@
     -53.61483000000001,
     46.7666
 ],
-  "geometry": {"coordinates":[-53.61483000000001,46.7666],"type":"Point"}
+  "geometry": {"coordinates":[-53.61483,46.7666],"type":"Point"}
 }

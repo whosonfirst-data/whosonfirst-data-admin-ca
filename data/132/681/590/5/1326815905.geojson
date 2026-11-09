@@ -42,7 +42,7 @@
         "wk:page":"Lynwood_Village"
     },
     "wof:country":"CA",
-    "wof:geomhash":"1a807e6d643ccf28aa3f044c9d5dfe76",
+    "wof:geomhash":"fc1fcbeb6751c282d8eda7861152c75a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -75.81860999999998,
     45.32472
 ],
-  "geometry": {"coordinates":[-75.81860999999998,45.32472],"type":"Point"}
+  "geometry": {"coordinates":[-75.81861,45.32472],"type":"Point"}
 }

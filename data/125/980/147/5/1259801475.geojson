@@ -45,7 +45,7 @@
         "wk:page":"Calling_Lake%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"258a3b48881c570a7f6e012a1c3e89eb",
+    "wof:geomhash":"b30271d749310c6c421d8ad0601fb2f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -113.20208999999998,
     55.2502
 ],
-  "geometry": {"coordinates":[-113.20208999999998,55.2502],"type":"Point"}
+  "geometry": {"coordinates":[-113.20209,55.2502],"type":"Point"}
 }

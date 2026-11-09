@@ -42,7 +42,7 @@
         "wk:page":"The_Keys%2C_Newfoundland_and_Labrador"
     },
     "wof:country":"CA",
-    "wof:geomhash":"4ec73ee3bfbb88c6eae2834615a86517",
+    "wof:geomhash":"795a1d5df95ca495731ff2b71d22a2eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -52.81475,
     47.29989000000001
 ],
-  "geometry": {"coordinates":[-52.81475,47.29989000000001],"type":"Point"}
+  "geometry": {"coordinates":[-52.81475,47.29989],"type":"Point"}
 }

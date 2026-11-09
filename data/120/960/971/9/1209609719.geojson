@@ -39,7 +39,7 @@
         "wk:page":"Head_of_Wallace_Bay%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"9730facff2078d21bad804d9a8e2b921",
+    "wof:geomhash":"7a35ef66dcd328379faf024f97ea18bc",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -62,5 +62,5 @@
     -63.58428000000001,
     45.81564
 ],
-  "geometry": {"coordinates":[-63.58428000000001,45.81564],"type":"Point"}
+  "geometry": {"coordinates":[-63.58428,45.81564],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "wk:page":"Long_Branch_GO_Station"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fc6b8c042d9ea302c86007bd731b3182",
+    "wof:geomhash":"3e9b2d02d86ab5cef3e42fd9da521334",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -79.53251999999998,
     43.5914
 ],
-  "geometry": {"coordinates":[-79.53251999999998,43.5914],"type":"Point"}
+  "geometry": {"coordinates":[-79.53252,43.5914],"type":"Point"}
 }

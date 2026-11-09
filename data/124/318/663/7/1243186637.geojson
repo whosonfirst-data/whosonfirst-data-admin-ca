@@ -45,7 +45,7 @@
         "wk:page":"Itaska_Beach"
     },
     "wof:country":"CA",
-    "wof:geomhash":"b7b6c9e0a38bea2828de163d9b5b5ead",
+    "wof:geomhash":"fd0f34bb5954fc9a0df8ea9f6c9ed0a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -114.08535,
     53.06681999999999
 ],
-  "geometry": {"coordinates":[-114.08535000000001,53.06681999999999],"type":"Point"}
+  "geometry": {"coordinates":[-114.08535,53.06682],"type":"Point"}
 }

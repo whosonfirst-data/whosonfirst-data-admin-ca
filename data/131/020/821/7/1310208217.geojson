@@ -42,7 +42,7 @@
         "wk:page":"Pinegrove%2C_British_Columbia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d37b34250bb6b63d453050f85b1df38e",
+    "wof:geomhash":"9017a2b9fcca03ef95041a78a5881b13",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -121.95284,
     53.06659000000001
 ],
-  "geometry": {"coordinates":[-121.95283999999999,53.06659000000001],"type":"Point"}
+  "geometry": {"coordinates":[-121.95284,53.06659],"type":"Point"}
 }

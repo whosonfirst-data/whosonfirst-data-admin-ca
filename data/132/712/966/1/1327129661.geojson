@@ -42,7 +42,7 @@
         "wk:page":"Copetown%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"41d0aec76131f06b247b05320302f400",
+    "wof:geomhash":"a2ca6041bf7cf9ea4b295a0ca34b34bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -80.05566999999998,
     43.24378
 ],
-  "geometry": {"coordinates":[-80.05566999999998,43.24378],"type":"Point"}
+  "geometry": {"coordinates":[-80.05567,43.24378],"type":"Point"}
 }

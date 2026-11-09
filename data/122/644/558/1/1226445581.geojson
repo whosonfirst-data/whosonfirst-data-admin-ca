@@ -42,7 +42,7 @@
         "wk:page":"Mica_Creek"
     },
     "wof:country":"CA",
-    "wof:geomhash":"96f0f90da863d8dc9433595daad0ab7b",
+    "wof:geomhash":"7c56ef6075d800880fb2615bd0009104",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -118.56667,
     52.0
 ],
-  "geometry": {"coordinates":[-118.56667,52.0],"type":"Point"}
+  "geometry": {"coordinates":[-118.56667,52],"type":"Point"}
 }

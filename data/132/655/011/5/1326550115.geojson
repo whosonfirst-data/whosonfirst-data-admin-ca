@@ -45,7 +45,7 @@
         "wk:page":"Nobel%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"332914e46cc50a3f1970093862e56c24",
+    "wof:geomhash":"4dfc6657b6f940782088958a90d979d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -80.09966999999997,
     45.4168
 ],
-  "geometry": {"coordinates":[-80.09966999999997,45.4168],"type":"Point"}
+  "geometry": {"coordinates":[-80.09967,45.4168],"type":"Point"}
 }

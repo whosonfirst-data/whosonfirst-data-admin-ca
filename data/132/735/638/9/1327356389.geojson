@@ -54,7 +54,7 @@
         "wk:page":"Ming%27s_Bight"
     },
     "wof:country":"CA",
-    "wof:geomhash":"5b52f753b835d52481af966a05196bc8",
+    "wof:geomhash":"5cfbe7d36ff5605a5b70028e3dde27dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,5 +80,5 @@
     -56.04816,
     49.98327000000001
 ],
-  "geometry": {"coordinates":[-56.04816,49.98327000000001],"type":"Point"}
+  "geometry": {"coordinates":[-56.04816,49.98327],"type":"Point"}
 }

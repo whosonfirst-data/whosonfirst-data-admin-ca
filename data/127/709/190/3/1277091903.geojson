@@ -45,7 +45,7 @@
         "wk:page":"Josephburg"
     },
     "wof:country":"CA",
-    "wof:geomhash":"cb09159a01c2e4288ae98318c500ca63",
+    "wof:geomhash":"8ce6f3d6051b3aeec21a2f6688003d3d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -113.08528,
     53.71684000000001
 ],
-  "geometry": {"coordinates":[-113.08528,53.71684000000001],"type":"Point"}
+  "geometry": {"coordinates":[-113.08528,53.71684],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Fairy_Glen"
     },
     "wof:country":"CA",
-    "wof:geomhash":"6c96e2bd26e5b2421923b9d399025e80",
+    "wof:geomhash":"1843920517b9532db0298b6d5e8dacfc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -104.55096,
     53.05003000000001
 ],
-  "geometry": {"coordinates":[-104.55096,53.05003000000001],"type":"Point"}
+  "geometry": {"coordinates":[-104.55096,53.05003],"type":"Point"}
 }

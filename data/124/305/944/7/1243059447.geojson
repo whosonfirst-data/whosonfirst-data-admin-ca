@@ -42,7 +42,7 @@
         "wk:page":"Buckwheat_Corner%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fa4901b07ea3abaa57b54ec031ca2214",
+    "wof:geomhash":"1fc2a90a13223ad02fe6e7f73f40c0b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -60.86519000000001,
     46.10014
 ],
-  "geometry": {"coordinates":[-60.86519000000001,46.10014],"type":"Point"}
+  "geometry": {"coordinates":[-60.86519,46.10014],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Saint-Norbert%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"aba5578f0be58d846ad6ba29f1b65997",
+    "wof:geomhash":"73f984f7ad78643117d482594f18204d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.97093000000001,
     46.46843
 ],
-  "geometry": {"coordinates":[-64.97093000000001,46.46843],"type":"Point"}
+  "geometry": {"coordinates":[-64.97093,46.46843],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Amiraults_Hill%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"231675b26a0a58a20a5c365a10dea5f3",
+    "wof:geomhash":"4560f4ac627f050218a1a7798af92f3b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.9756,
     43.81124000000001
 ],
-  "geometry": {"coordinates":[-65.9756,43.81124000000001],"type":"Point"}
+  "geometry": {"coordinates":[-65.9756,43.81124],"type":"Point"}
 }

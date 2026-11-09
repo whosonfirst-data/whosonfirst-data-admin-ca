@@ -49,7 +49,7 @@
         "wk:page":"Kivitoo"
     },
     "wof:country":"CA",
-    "wof:geomhash":"894e2df65d1429c2dc735cbdc4e5ae9e",
+    "wof:geomhash":"919892ef02213095412b251692934650",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,5 +75,5 @@
     -64.86341999999999,
     67.93414
 ],
-  "geometry": {"coordinates":[-64.86341999999999,67.93414],"type":"Point"}
+  "geometry": {"coordinates":[-64.86342,67.93414],"type":"Point"}
 }

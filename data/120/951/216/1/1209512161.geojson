@@ -39,7 +39,7 @@
         "wk:page":"Donnybrook%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"27f14b9d4aad2bd4f80cf8bf161a1578",
+    "wof:geomhash":"d7aa8c0f755043f541b1718e9610a666",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -62,5 +62,5 @@
     -81.48194000000002,
     43.83639
 ],
-  "geometry": {"coordinates":[-81.48194000000002,43.83639],"type":"Point"}
+  "geometry": {"coordinates":[-81.48194,43.83639],"type":"Point"}
 }

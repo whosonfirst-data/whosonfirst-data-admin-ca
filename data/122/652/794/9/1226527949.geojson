@@ -42,7 +42,7 @@
         "wk:page":"Springvale%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d228813845bd3ed1714a12575c6913fe",
+    "wof:geomhash":"310cb8740b6bd49195e8e404685be70f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -80.12416999999998,
     42.97167
 ],
-  "geometry": {"coordinates":[-80.12416999999998,42.97167],"type":"Point"}
+  "geometry": {"coordinates":[-80.12417,42.97167],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Melrose%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"1e38764557a0a24243c7e58baa04a2f0",
+    "wof:geomhash":"7d95a836d50124f1a2b8a41664be3da0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.94873000000001,
     46.10014
 ],
-  "geometry": {"coordinates":[-63.94873000000001,46.10014],"type":"Point"}
+  "geometry": {"coordinates":[-63.94873,46.10014],"type":"Point"}
 }

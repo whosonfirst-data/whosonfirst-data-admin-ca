@@ -42,7 +42,7 @@
         "wk:page":"Fort_MacKay"
     },
     "wof:country":"CA",
-    "wof:geomhash":"5badccac8f14fb942e0a460f192a4461",
+    "wof:geomhash":"b213341b45f6fc2195858965f23f93f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -111.61858,
     57.18353000000001
 ],
-  "geometry": {"coordinates":[-111.61857999999999,57.18353000000001],"type":"Point"}
+  "geometry": {"coordinates":[-111.61858,57.18353],"type":"Point"}
 }

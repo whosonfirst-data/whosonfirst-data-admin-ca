@@ -45,7 +45,7 @@
         "wk:page":"Midland%2C_Albert_County%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"28f6350f34cd2d4c6a1315835dcaf1a3",
+    "wof:geomhash":"78f51108de611a7565bd7e11bc45ec4c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -65.13486999999999,
     45.78515
 ],
-  "geometry": {"coordinates":[-65.13486999999999,45.78515],"type":"Point"}
+  "geometry": {"coordinates":[-65.13487,45.78515],"type":"Point"}
 }

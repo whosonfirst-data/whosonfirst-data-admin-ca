@@ -42,7 +42,7 @@
         "wk:page":"Buffalo_Gap%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"a027edab90b8dac59ff09eedd32834bf",
+    "wof:geomhash":"4bec7a30d0daa2a6ebc5a48cf9d24c53",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -105.26721,
     49.11669000000001
 ],
-  "geometry": {"coordinates":[-105.26721000000001,49.11669000000001],"type":"Point"}
+  "geometry": {"coordinates":[-105.26721,49.11669],"type":"Point"}
 }

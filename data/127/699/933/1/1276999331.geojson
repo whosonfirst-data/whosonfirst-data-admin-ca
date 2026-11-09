@@ -42,7 +42,7 @@
         "wk:page":"Lac_Ste._Anne%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"9dbbdb23cc7b904d8653d0cfe100c32a",
+    "wof:geomhash":"2882bc7cef9950fb5859f2495b784654",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -114.43538999999998,
     53.68344
 ],
-  "geometry": {"coordinates":[-114.43538999999998,53.68344],"type":"Point"}
+  "geometry": {"coordinates":[-114.43539,53.68344],"type":"Point"}
 }

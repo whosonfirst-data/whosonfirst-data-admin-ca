@@ -39,7 +39,7 @@
         "wk:page":"Upper_Nine_Mile_River%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"6d00fedd1e192760c1fa9848c1b258db",
+    "wof:geomhash":"f9091f0f6942e3d18f74fad4bae7713f",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -62,5 +62,5 @@
     -63.62643000000001,
     45.07921
 ],
-  "geometry": {"coordinates":[-63.62643000000001,45.07921],"type":"Point"}
+  "geometry": {"coordinates":[-63.62643,45.07921],"type":"Point"}
 }

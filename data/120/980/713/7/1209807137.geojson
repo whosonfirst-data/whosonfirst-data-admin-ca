@@ -42,7 +42,7 @@
         "wk:page":"Upper_LaHave%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"993d88857462eb9a4730ad7d9bc1930a",
+    "wof:geomhash":"204433602ea8b75637de14d5ef6ac0a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.44433000000001,
     44.3655
 ],
-  "geometry": {"coordinates":[-64.44433000000001,44.3655],"type":"Point"}
+  "geometry": {"coordinates":[-64.44433,44.3655],"type":"Point"}
 }

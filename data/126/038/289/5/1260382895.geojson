@@ -42,7 +42,7 @@
         "wk:page":"Churchover%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"7fc5b78f03763caaf7df2dfeb8c45cfd",
+    "wof:geomhash":"7c64a34ca06639e2374fbb6f1fe25379",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.35649000000001,
     43.71181
 ],
-  "geometry": {"coordinates":[-65.35649000000001,43.71181],"type":"Point"}
+  "geometry": {"coordinates":[-65.35649,43.71181],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "wk:page":"Boston_Creek%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"14156957752771b5e96ab8e871dc29c3",
+    "wof:geomhash":"100005aa2731c41c996f7ca9a3c51cc9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -79.9377,
     48.01067000000001
 ],
-  "geometry": {"coordinates":[-79.93770000000001,48.01067000000001],"type":"Point"}
+  "geometry": {"coordinates":[-79.9377,48.01067],"type":"Point"}
 }

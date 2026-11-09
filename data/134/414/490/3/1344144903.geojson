@@ -45,7 +45,7 @@
         "wk:page":"Tarnopol%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"96efc1073e782d061eb3aea03ded60bf",
+    "wof:geomhash":"ea6f2923cea97d0664834989815e352b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -105.38386,
     52.70003000000001
 ],
-  "geometry": {"coordinates":[-105.38386,52.70003000000001],"type":"Point"}
+  "geometry": {"coordinates":[-105.38386,52.70003],"type":"Point"}
 }

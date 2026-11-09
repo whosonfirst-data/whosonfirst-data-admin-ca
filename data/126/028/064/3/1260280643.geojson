@@ -42,7 +42,7 @@
         "wk:page":"Ross_Corner%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"b0e7c4e2816ab3622496915a41dc38db",
+    "wof:geomhash":"55889b85f494439cd7454db1c597b022",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.64981999999999,
     45.14749000000001
 ],
-  "geometry": {"coordinates":[-64.64981999999999,45.14749000000001],"type":"Point"}
+  "geometry": {"coordinates":[-64.64982,45.14749],"type":"Point"}
 }

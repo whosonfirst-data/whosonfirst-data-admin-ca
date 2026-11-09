@@ -42,7 +42,7 @@
         "wk:page":"Upper_New_Cornwall%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"85c4d9248910018945b68a2cfcbc3a46",
+    "wof:geomhash":"4b4a339cb2b2e709c05b97e1899b2d7c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.5799,
     44.53149000000001
 ],
-  "geometry": {"coordinates":[-64.57989999999999,44.53149000000001],"type":"Point"}
+  "geometry": {"coordinates":[-64.5799,44.53149],"type":"Point"}
 }

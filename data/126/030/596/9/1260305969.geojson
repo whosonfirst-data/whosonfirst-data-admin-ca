@@ -42,7 +42,7 @@
         "wk:page":"Mafeking%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"90776a77508b938f4ae768edd002941b",
+    "wof:geomhash":"c9f6db32e8a4b1b813d0220c11d657c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -81.60600000000002,
     43.91406
 ],
-  "geometry": {"coordinates":[-81.60600000000002,43.91406],"type":"Point"}
+  "geometry": {"coordinates":[-81.606,43.91406],"type":"Point"}
 }

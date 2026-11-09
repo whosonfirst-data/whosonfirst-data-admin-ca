@@ -42,7 +42,7 @@
         "wk:page":"Taku%2C_British_Columbia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"6595f8c9b230794cf26371ad221cae0d",
+    "wof:geomhash":"4dfe31c851ef8cf7a7cf3eae2fa7bf4a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -133.85357,
     59.63271999999999
 ],
-  "geometry": {"coordinates":[-133.85356999999999,59.63271999999999],"type":"Point"}
+  "geometry": {"coordinates":[-133.85357,59.63272],"type":"Point"}
 }

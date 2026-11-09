@@ -42,7 +42,7 @@
         "wk:page":"Fountain_Road"
     },
     "wof:country":"CA",
-    "wof:geomhash":"9e059bef388a129df45f894dd0cff745",
+    "wof:geomhash":"f552ceee2eec299cb13b03d261387d7b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.58578000000001,
     45.8017
 ],
-  "geometry": {"coordinates":[-63.58578000000001,45.8017],"type":"Point"}
+  "geometry": {"coordinates":[-63.58578,45.8017],"type":"Point"}
 }

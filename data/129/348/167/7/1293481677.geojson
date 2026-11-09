@@ -42,7 +42,7 @@
         "wk:page":"Sheffield_Mills%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"055d34ea821dcd7772b19bd2b9fac42d",
+    "wof:geomhash":"db07a1386218b876512c549ca9f9a891",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.47636999999999,
     45.15104
 ],
-  "geometry": {"coordinates":[-64.47636999999999,45.15104],"type":"Point"}
+  "geometry": {"coordinates":[-64.47637,45.15104],"type":"Point"}
 }

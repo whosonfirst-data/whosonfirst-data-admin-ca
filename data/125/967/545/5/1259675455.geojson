@@ -42,7 +42,7 @@
         "wk:page":"Caribou_Mines%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"ee65245e379632668633b4036de2beff",
+    "wof:geomhash":"3804e1916dc21ae316c8cacec9fc14eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -62.94198000000001,
     45.05731
 ],
-  "geometry": {"coordinates":[-62.94198000000001,45.05731],"type":"Point"}
+  "geometry": {"coordinates":[-62.94198,45.05731],"type":"Point"}
 }

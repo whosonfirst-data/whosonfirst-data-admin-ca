@@ -42,7 +42,7 @@
         "wk:page":"East_Bayfront"
     },
     "wof:country":"CA",
-    "wof:geomhash":"e28177719f571edf1e50e7f0d8d18030",
+    "wof:geomhash":"b683d1d411e0d4d32d2ef85e6bd109ee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -79.36506,
     43.64514000000001
 ],
-  "geometry": {"coordinates":[-79.36506,43.64514000000001],"type":"Point"}
+  "geometry": {"coordinates":[-79.36506,43.64514],"type":"Point"}
 }

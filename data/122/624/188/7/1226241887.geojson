@@ -42,7 +42,7 @@
         "wk:page":"Great_Jervais"
     },
     "wof:country":"CA",
-    "wof:geomhash":"a9b5d226113f8c8c8a01435f12ea9af4",
+    "wof:geomhash":"dffeb119f62f480c25d088fddfcf5532",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -55.14828000000001,
     47.46663
 ],
-  "geometry": {"coordinates":[-55.14828000000001,47.46663],"type":"Point"}
+  "geometry": {"coordinates":[-55.14828,47.46663],"type":"Point"}
 }

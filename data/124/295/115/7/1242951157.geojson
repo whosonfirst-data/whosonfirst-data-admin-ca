@@ -48,7 +48,7 @@
         "wk:page":"Greenfeld%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"b18dff217d36b6b72b7b0aab828774fa",
+    "wof:geomhash":"51d2a0357457dc6a2d1e279605b7dd6b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,5 +74,5 @@
     -106.63393,
     52.43338000000001
 ],
-  "geometry": {"coordinates":[-106.63393000000001,52.43338000000001],"type":"Point"}
+  "geometry": {"coordinates":[-106.63393,52.43338],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Springhill_Junction%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"1aa0f8652df50ee0b73ccbb930781bb8",
+    "wof:geomhash":"1385bac9fff5a675697be53b3263efb0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.10750999999999,
     45.69265
 ],
-  "geometry": {"coordinates":[-64.10750999999999,45.69265],"type":"Point"}
+  "geometry": {"coordinates":[-64.10751,45.69265],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Cosy_Cove%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fa7b24018283a9f67ff428ebf8cbf1f2",
+    "wof:geomhash":"8e94677e4696f93fcc67d0262eb312fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -77.28083000000002,
     44.49083
 ],
-  "geometry": {"coordinates":[-77.28083000000002,44.49083],"type":"Point"}
+  "geometry": {"coordinates":[-77.28083,44.49083],"type":"Point"}
 }

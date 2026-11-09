@@ -45,7 +45,7 @@
         "wk:page":"Codroy"
     },
     "wof:country":"CA",
-    "wof:geomhash":"7c8fee59670d36fa1df560a4fd938277",
+    "wof:geomhash":"b6c427840b68cb245f722526df9fe75c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -59.36496999999999,
     47.86408
 ],
-  "geometry": {"coordinates":[-59.36496999999999,47.86408],"type":"Point"}
+  "geometry": {"coordinates":[-59.36497,47.86408],"type":"Point"}
 }

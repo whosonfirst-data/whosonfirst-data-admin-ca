@@ -42,7 +42,7 @@
         "wk:page":"East_Royalty%2C_Prince_Edward_Island"
     },
     "wof:country":"CA",
-    "wof:geomhash":"1d2c1362342486da2e3bb9e32ca251ec",
+    "wof:geomhash":"2c906e137b1b4e5d1ab92ed700f34cf8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.10228000000001,
     46.27792
 ],
-  "geometry": {"coordinates":[-63.10228000000001,46.27792],"type":"Point"}
+  "geometry": {"coordinates":[-63.10228,46.27792],"type":"Point"}
 }

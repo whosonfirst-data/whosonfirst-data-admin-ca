@@ -42,7 +42,7 @@
         "wk:page":"Gallagher_Ridge%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"65272360594267a4a26b50eab97aee69",
+    "wof:geomhash":"246de9a9bbe81298005d4fb520c0108c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.02018000000001,
     46.20071
 ],
-  "geometry": {"coordinates":[-65.02018000000001,46.20071],"type":"Point"}
+  "geometry": {"coordinates":[-65.02018,46.20071],"type":"Point"}
 }

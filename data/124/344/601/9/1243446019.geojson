@@ -45,7 +45,7 @@
         "wk:page":"Victoria_Vale"
     },
     "wof:country":"CA",
-    "wof:geomhash":"771c587f1f7a3dbe631526915b2e6ec9",
+    "wof:geomhash":"df8c30f8716fc2361a86b1a9387193fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -65.07330999999999,
     44.99521
 ],
-  "geometry": {"coordinates":[-65.07330999999999,44.99521],"type":"Point"}
+  "geometry": {"coordinates":[-65.07331,44.99521],"type":"Point"}
 }

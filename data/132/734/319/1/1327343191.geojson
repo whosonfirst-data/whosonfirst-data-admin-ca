@@ -45,7 +45,7 @@
         "wk:page":"Notikewin"
     },
     "wof:country":"CA",
-    "wof:geomhash":"90e78a89faf7d62fee75b84149e50c16",
+    "wof:geomhash":"419e1f02627d7c8491c7c32e687dbf56",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -117.63605,
     56.98343000000001
 ],
-  "geometry": {"coordinates":[-117.63605,56.98343000000001],"type":"Point"}
+  "geometry": {"coordinates":[-117.63605,56.98343],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"East_Branch%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"c23ca727d9ee8af226b9cf291afaff0f",
+    "wof:geomhash":"d641e2871a7c7b9b41376eae62bbc0be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.89093000000001,
     46.54372
 ],
-  "geometry": {"coordinates":[-64.89093000000001,46.54372],"type":"Point"}
+  "geometry": {"coordinates":[-64.89093,46.54372],"type":"Point"}
 }

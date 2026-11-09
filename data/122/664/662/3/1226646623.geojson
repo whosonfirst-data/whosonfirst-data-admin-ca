@@ -48,7 +48,7 @@
         "wk:page":"Adamsville%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"76cca357f78096c201c55d71c325571e",
+    "wof:geomhash":"6378952def30da44ec89403a026dbdd9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,5 +74,5 @@
     -65.18415999999999,
     46.39675
 ],
-  "geometry": {"coordinates":[-65.18415999999999,46.39675],"type":"Point"}
+  "geometry": {"coordinates":[-65.18416,46.39675],"type":"Point"}
 }

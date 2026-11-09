@@ -42,7 +42,7 @@
         "wk:page":"Jordantown%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"a32b0ff45e8a10528fe1cf8837dc4c07",
+    "wof:geomhash":"c9bc09c6608eb27792c66d9e836461ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.77871999999999,
     44.58568
 ],
-  "geometry": {"coordinates":[-65.77871999999999,44.58568],"type":"Point"}
+  "geometry": {"coordinates":[-65.77872,44.58568],"type":"Point"}
 }

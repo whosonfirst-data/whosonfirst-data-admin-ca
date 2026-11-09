@@ -42,7 +42,7 @@
         "wk:page":"Loon_Lake%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"8242c1df5272ad893a2c9e07a5762f6c",
+    "wof:geomhash":"e27fa8dc1976235c69e108f281fa0199",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -115.39388999999998,
     56.53889
 ],
-  "geometry": {"coordinates":[-115.39388999999998,56.53889],"type":"Point"}
+  "geometry": {"coordinates":[-115.39389,56.53889],"type":"Point"}
 }

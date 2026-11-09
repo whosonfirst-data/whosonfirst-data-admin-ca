@@ -42,7 +42,7 @@
         "wk:page":"Napier%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"05edafab940baec6cf1ab91c9d696d0f",
+    "wof:geomhash":"9041d1b788d7aafe254133950e78f3ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -81.76886999999998,
     42.86848
 ],
-  "geometry": {"coordinates":[-81.76886999999998,42.86848],"type":"Point"}
+  "geometry": {"coordinates":[-81.76887,42.86848],"type":"Point"}
 }

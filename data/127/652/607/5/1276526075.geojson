@@ -42,7 +42,7 @@
         "wk:page":"Estlin%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"c8d4e388c6570b202015d43e9acae18c",
+    "wof:geomhash":"3f071b1b826bf8623decde66bd225a03",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -104.53388,
     50.25004000000001
 ],
-  "geometry": {"coordinates":[-104.53388,50.25004000000001],"type":"Point"}
+  "geometry": {"coordinates":[-104.53388,50.25004],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Ingomar%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"bc43876978cf179a364f325c4d26302f",
+    "wof:geomhash":"8d17d63ce4b364267cfad1ab9aaf5031",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.35821999999999,
     43.56459
 ],
-  "geometry": {"coordinates":[-65.35821999999999,43.56459],"type":"Point"}
+  "geometry": {"coordinates":[-65.35822,43.56459],"type":"Point"}
 }

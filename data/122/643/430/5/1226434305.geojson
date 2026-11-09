@@ -42,7 +42,7 @@
         "wk:page":"Mill_Road%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"25b213b11307f69067bdf2d8e30225ae",
+    "wof:geomhash":"06e48b270df19923e5cae11e822372ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.44866999999999,
     44.78206
 ],
-  "geometry": {"coordinates":[-64.44866999999999,44.78206],"type":"Point"}
+  "geometry": {"coordinates":[-64.44867,44.78206],"type":"Point"}
 }

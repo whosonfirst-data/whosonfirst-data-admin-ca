@@ -42,7 +42,7 @@
         "wk:page":"Harmony_Mills%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"2d8f7f2cb068f46c4dea883ca9455756",
+    "wof:geomhash":"07813e3283134bc127dc79a9b423b38a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.07545999999999,
     44.40423
 ],
-  "geometry": {"coordinates":[-65.07545999999999,44.40423],"type":"Point"}
+  "geometry": {"coordinates":[-65.07546,44.40423],"type":"Point"}
 }

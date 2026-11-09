@@ -42,7 +42,7 @@
         "wk:page":"Grand_Mira_South"
     },
     "wof:country":"CA",
-    "wof:geomhash":"77fe0e990d82a757cc89425ca57f4e3a",
+    "wof:geomhash":"1a549939f6f89ce670fcd75ff6ab05a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -60.29067,
     45.88800000000001
 ],
-  "geometry": {"coordinates":[-60.29067,45.88800000000001],"type":"Point"}
+  "geometry": {"coordinates":[-60.29067,45.888],"type":"Point"}
 }

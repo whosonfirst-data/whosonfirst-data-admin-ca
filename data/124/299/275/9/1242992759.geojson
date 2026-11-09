@@ -42,7 +42,7 @@
         "wk:page":"Clute%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"b15669a0d181949a26ae3a90b8fef8da",
+    "wof:geomhash":"22f4fb0affdbad0cf2b5f3f3bc96666f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -81.08306999999998,
     49.18349
 ],
-  "geometry": {"coordinates":[-81.08306999999998,49.18349],"type":"Point"}
+  "geometry": {"coordinates":[-81.08307,49.18349],"type":"Point"}
 }

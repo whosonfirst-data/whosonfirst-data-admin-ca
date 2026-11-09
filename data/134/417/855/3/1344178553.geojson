@@ -42,7 +42,7 @@
         "wk:page":"West_Dublin%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"93c197022c869af6c1f8d81e81515b51",
+    "wof:geomhash":"efb6b0df7aba0b3f1fa1593d09db84ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.39948000000001,
     44.25334
 ],
-  "geometry": {"coordinates":[-64.39948000000001,44.25334],"type":"Point"}
+  "geometry": {"coordinates":[-64.39948,44.25334],"type":"Point"}
 }

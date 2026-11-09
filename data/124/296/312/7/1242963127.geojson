@@ -42,7 +42,7 @@
         "wk:page":"Skinners_Pond%2C_Prince_Edward_Island"
     },
     "wof:country":"CA",
-    "wof:geomhash":"396e177342e3ba36f3b96e08c8e16f40",
+    "wof:geomhash":"118ec043b87dd6d031c6af9df62c3b53",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,5 +67,5 @@
     -64.13203,
     46.96684000000001
 ],
-  "geometry": {"coordinates":[-64.13203,46.96684000000001],"type":"Point"}
+  "geometry": {"coordinates":[-64.13203,46.96684],"type":"Point"}
 }

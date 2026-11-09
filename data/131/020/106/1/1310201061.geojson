@@ -45,7 +45,7 @@
         "wk:page":"Freeland%2C_Prince_Edward_Island"
     },
     "wof:country":"CA",
-    "wof:geomhash":"406be4b145211a2c9d77be3a71d01319",
+    "wof:geomhash":"ad3b599c69e7d097fa93daf8f631a0a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -63.96543000000001,
     46.68344
 ],
-  "geometry": {"coordinates":[-63.96543000000001,46.68344],"type":"Point"}
+  "geometry": {"coordinates":[-63.96543,46.68344],"type":"Point"}
 }

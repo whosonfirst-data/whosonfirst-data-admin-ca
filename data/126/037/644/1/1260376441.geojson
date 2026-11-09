@@ -42,7 +42,7 @@
         "wk:page":"Zorra%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"5e708216a1b268cacdd7bb9c75687f94",
+    "wof:geomhash":"f9353a349f239fc4c6252a190f92d8b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -80.89331999999997,
     43.07789
 ],
-  "geometry": {"coordinates":[-80.89331999999997,43.07789],"type":"Point"}
+  "geometry": {"coordinates":[-80.89332,43.07789],"type":"Point"}
 }

@@ -45,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CA",
-    "wof:geomhash":"a05f38e07e8622cbd773a67b02c7dbdc",
+    "wof:geomhash":"819e41b273068f809e9ce37540eda187",
     "wof:hierarchy":[
         {
             "borough_id":1108955759,
@@ -76,5 +76,5 @@
     -73.59985260691732,
     45.4679772743718
 ],
-  "geometry": {"coordinates":[-73.59985260691732,45.4679772743718],"type":"Point"}
+  "geometry": {"coordinates":[-73.599853,45.467977],"type":"Point"}
 }

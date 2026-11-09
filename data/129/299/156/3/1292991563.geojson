@@ -42,7 +42,7 @@
         "wk:page":"Missanabie"
     },
     "wof:country":"CA",
-    "wof:geomhash":"8ba6ffe72af7b86cec104b0e89dd4b2f",
+    "wof:geomhash":"0a0aa055aabdbe30907f0da9a37d0f6d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -84.08306999999998,
     48.31677
 ],
-  "geometry": {"coordinates":[-84.08306999999998,48.31677],"type":"Point"}
+  "geometry": {"coordinates":[-84.08307,48.31677],"type":"Point"}
 }

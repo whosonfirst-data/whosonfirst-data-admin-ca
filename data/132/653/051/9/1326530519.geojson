@@ -42,7 +42,7 @@
         "wk:page":"Beaver_Dam%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"ef432afbca4ada4882240cb3009cd1a3",
+    "wof:geomhash":"f01ac89f2fa480b86434c03f8df31144",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -66.69516999999999,
     45.78915
 ],
-  "geometry": {"coordinates":[-66.69516999999999,45.78915],"type":"Point"}
+  "geometry": {"coordinates":[-66.69517,45.78915],"type":"Point"}
 }

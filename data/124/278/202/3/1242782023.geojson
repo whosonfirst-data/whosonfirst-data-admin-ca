@@ -42,7 +42,7 @@
         "wk:page":"Brazeau%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"428646d07be73f909fc8d6b3abcd718d",
+    "wof:geomhash":"c3e31be31f69b6e69c1c4ad95acfbf70",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -116.08551,
     52.46678000000001
 ],
-  "geometry": {"coordinates":[-116.08551,52.46678000000001],"type":"Point"}
+  "geometry": {"coordinates":[-116.08551,52.46678],"type":"Point"}
 }

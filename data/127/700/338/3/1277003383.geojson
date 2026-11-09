@@ -42,7 +42,7 @@
         "wk:page":"Apple_River%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"94cc952dfcd5f7e77030b29c95b7f498",
+    "wof:geomhash":"03716d6fd75b263878473ccb91f9f437",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.78206999999999,
     45.46683
 ],
-  "geometry": {"coordinates":[-64.78206999999999,45.46683],"type":"Point"}
+  "geometry": {"coordinates":[-64.78207,45.46683],"type":"Point"}
 }

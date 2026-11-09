@@ -45,7 +45,7 @@
         "wk:page":"Yellow_Creek%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"63c2939401b17fe6e2f32369ddb23bcf",
+    "wof:geomhash":"a8eca268e335ad11a5396f1b7b31f35d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -105.25104,
     52.75004000000001
 ],
-  "geometry": {"coordinates":[-105.25104,52.75004000000001],"type":"Point"}
+  "geometry": {"coordinates":[-105.25104,52.75004],"type":"Point"}
 }

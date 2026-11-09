@@ -42,7 +42,7 @@
         "wk:page":"Harrisville%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"430aa3cb230489e80fc9dc19b6a529fd",
+    "wof:geomhash":"3403dd8ddd662b49e1ce90a0c7c170b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.72209000000001,
     46.11771
 ],
-  "geometry": {"coordinates":[-64.72209000000001,46.11771],"type":"Point"}
+  "geometry": {"coordinates":[-64.72209,46.11771],"type":"Point"}
 }

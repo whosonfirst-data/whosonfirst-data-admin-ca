@@ -42,7 +42,7 @@
         "wk:page":"Gardenton%2C_Manitoba"
     },
     "wof:country":"CA",
-    "wof:geomhash":"1ebdad92f67de60ef24f601b78c4c663",
+    "wof:geomhash":"930e5e7bb0a0bbd57a099d2b67be0f83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -96.69562,
     49.08687000000001
 ],
-  "geometry": {"coordinates":[-96.69562000000001,49.08687000000001],"type":"Point"}
+  "geometry": {"coordinates":[-96.69562,49.08687],"type":"Point"}
 }

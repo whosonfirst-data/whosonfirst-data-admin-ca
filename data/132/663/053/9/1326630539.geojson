@@ -42,7 +42,7 @@
         "wk:page":"Zealand%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"5471410dcf7818c0d3503c3a8314c57f",
+    "wof:geomhash":"8626d83ff0ded7d84dffc18cfc12a736",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -66.93588000000001,
     46.05362
 ],
-  "geometry": {"coordinates":[-66.93588000000001,46.05362],"type":"Point"}
+  "geometry": {"coordinates":[-66.93588,46.05362],"type":"Point"}
 }

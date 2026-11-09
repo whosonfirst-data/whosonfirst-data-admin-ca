@@ -48,7 +48,7 @@
         "wk:page":"St._Brendan%27s%2C_Newfoundland_and_Labrador"
     },
     "wof:country":"CA",
-    "wof:geomhash":"a33461b4ae10d291b27504010d1d2d0b",
+    "wof:geomhash":"4ff4bec3cc4ad63cda1c5f70facd47ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,5 +74,5 @@
     -53.66478000000001,
     48.86658
 ],
-  "geometry": {"coordinates":[-53.66478000000001,48.86658],"type":"Point"}
+  "geometry": {"coordinates":[-53.66478,48.86658],"type":"Point"}
 }

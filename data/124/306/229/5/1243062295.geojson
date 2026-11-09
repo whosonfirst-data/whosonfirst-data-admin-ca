@@ -45,7 +45,7 @@
         "wk:page":"Fenwick%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"56fedafb0a756006c1f9d556bf22fdd9",
+    "wof:geomhash":"b9567cc6f9ffef38a3c7c8cff7f0351d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -64.18684,
     45.76289000000001
 ],
-  "geometry": {"coordinates":[-64.18684,45.76289000000001],"type":"Point"}
+  "geometry": {"coordinates":[-64.18684,45.76289],"type":"Point"}
 }

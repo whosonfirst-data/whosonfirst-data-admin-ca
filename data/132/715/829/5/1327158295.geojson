@@ -42,7 +42,7 @@
         "wk:page":"Pollett_River%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"e0a8e5483a8cebac6124bafc0a95fbde",
+    "wof:geomhash":"ef9eb1711c16ea858a6b816f88487cf9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.09966999999999,
     45.88774
 ],
-  "geometry": {"coordinates":[-65.09966999999999,45.88774],"type":"Point"}
+  "geometry": {"coordinates":[-65.09967,45.88774],"type":"Point"}
 }

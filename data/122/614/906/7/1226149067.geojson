@@ -45,7 +45,7 @@
         "wk:page":"Anderson_Settlement%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d5771f048f5024d311a508d0f3caf6d7",
+    "wof:geomhash":"640574d05891ea89da8aa2ee5966e038",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -64.24611999999999,
     46.1148
 ],
-  "geometry": {"coordinates":[-64.24611999999999,46.1148],"type":"Point"}
+  "geometry": {"coordinates":[-64.24612,46.1148],"type":"Point"}
 }

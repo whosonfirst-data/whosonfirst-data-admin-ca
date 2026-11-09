@@ -45,7 +45,7 @@
         "wk:page":"Garden_Cove%2C_Newfoundland_and_Labrador"
     },
     "wof:country":"CA",
-    "wof:geomhash":"bbfc6fefc604d16a65f51fdf1243509e",
+    "wof:geomhash":"6999a9ea390cc71bd701e981043245ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -54.15728000000001,
     47.85233
 ],
-  "geometry": {"coordinates":[-54.15728000000001,47.85233],"type":"Point"}
+  "geometry": {"coordinates":[-54.15728,47.85233],"type":"Point"}
 }

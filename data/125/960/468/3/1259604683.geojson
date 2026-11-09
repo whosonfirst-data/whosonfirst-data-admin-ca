@@ -45,7 +45,7 @@
         "wk:page":"Pondville_South%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"1e45b9a2b6ef120cad944456ec2a7a97",
+    "wof:geomhash":"dd29cb2860e0818e2d3bd54248b6a882",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -60.98186,
     45.53299000000001
 ],
-  "geometry": {"coordinates":[-60.98186,45.53299000000001],"type":"Point"}
+  "geometry": {"coordinates":[-60.98186,45.53299],"type":"Point"}
 }

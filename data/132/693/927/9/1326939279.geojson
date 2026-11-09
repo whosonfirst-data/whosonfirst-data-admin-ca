@@ -42,7 +42,7 @@
         "wk:page":"Gates%2C_British_Columbia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"a23f487efe8c37bcd076ae6f6e9c5132",
+    "wof:geomhash":"c2315b681ba28ad80c6fa04b7517a609",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -122.53598999999998,
     50.49973
 ],
-  "geometry": {"coordinates":[-122.53598999999998,50.49973],"type":"Point"}
+  "geometry": {"coordinates":[-122.53599,50.49973],"type":"Point"}
 }

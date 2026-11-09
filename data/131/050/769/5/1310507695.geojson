@@ -42,7 +42,7 @@
         "wk:page":"Utopia%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"1279cf796c0b7e06d1037e4da2cf8bb7",
+    "wof:geomhash":"8daf43e63649b70455988074f500d4ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -66.77138000000001,
     45.14769
 ],
-  "geometry": {"coordinates":[-66.77138000000001,45.14769],"type":"Point"}
+  "geometry": {"coordinates":[-66.77138,45.14769],"type":"Point"}
 }

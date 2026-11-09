@@ -42,7 +42,7 @@
         "wk:page":"Grand_Narrows%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"8866f8d44e20c00669450b14c9b9b84a",
+    "wof:geomhash":"5fe5f76f19646c60b83ace91154bf643",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -65,5 +65,5 @@
     -60.78179,
     45.95014000000001
 ],
-  "geometry": {"coordinates":[-60.78179,45.95014000000001],"type":"Point"}
+  "geometry": {"coordinates":[-60.78179,45.95014],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "wk:page":"Neerlandia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"a4d0d80ec859e1501d49bfb189f9f3a5",
+    "wof:geomhash":"75dd28ffe9d8749d54b13d3453f3b4dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -114.37722,
     54.31916999999999
 ],
-  "geometry": {"coordinates":[-114.37721999999999,54.31916999999999],"type":"Point"}
+  "geometry": {"coordinates":[-114.37722,54.31917],"type":"Point"}
 }

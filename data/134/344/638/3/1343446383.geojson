@@ -42,7 +42,7 @@
         "wk:page":"Welcome%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fdd26d77ce4d41ba974ca8ffab6795d4",
+    "wof:geomhash":"fbe551559882a4bf37db62d36b559615",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -78.34194000000002,
     43.975
 ],
-  "geometry": {"coordinates":[-78.34194000000002,43.975],"type":"Point"}
+  "geometry": {"coordinates":[-78.34194,43.975],"type":"Point"}
 }

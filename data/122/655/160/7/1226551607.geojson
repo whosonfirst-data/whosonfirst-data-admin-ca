@@ -43,7 +43,7 @@
         "wk:page":"Ilford%2C_Manitoba"
     },
     "wof:country":"CA",
-    "wof:geomhash":"0bdd9176088534d4e68550c01afa4a5e",
+    "wof:geomhash":"8319f9907580061b10586b5dcbc80356",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -95.59925,
     56.06721999999999
 ],
-  "geometry": {"coordinates":[-95.59925,56.06721999999999],"type":"Point"}
+  "geometry": {"coordinates":[-95.59925,56.06722],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Tungsten%2C_Northwest_Territories"
     },
     "wof:country":"CA",
-    "wof:geomhash":"b67c8c9c10724adc3b7dfd3ec9d10bc6",
+    "wof:geomhash":"bb25361228d18199b35885b257c0fcc2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,5 +74,5 @@
     -128.20358000000002,
     61.95683
 ],
-  "geometry": {"coordinates":[-128.20358000000002,61.95683],"type":"Point"}
+  "geometry": {"coordinates":[-128.20358,61.95683],"type":"Point"}
 }

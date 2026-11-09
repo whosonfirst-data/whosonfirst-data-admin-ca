@@ -63,7 +63,7 @@
         "wk:page":"Harvey%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"358c07f909c6083534e6f3d34854c65e",
+    "wof:geomhash":"71170b93295a0cafd7052ac4add3b814",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -89,5 +89,5 @@
     -64.71028000000001,
     45.72458
 ],
-  "geometry": {"coordinates":[-64.71028000000001,45.72458],"type":"Point"}
+  "geometry": {"coordinates":[-64.71028,45.72458],"type":"Point"}
 }

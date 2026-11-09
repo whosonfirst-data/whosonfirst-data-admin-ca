@@ -42,7 +42,7 @@
         "wk:page":"South_Rawdon%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"66a009f7c451ddd3b1e40219c54b9ae6",
+    "wof:geomhash":"9ec5e68f679fa5fc23f74a0047f4c807",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.86541999999999,
     45.00015
 ],
-  "geometry": {"coordinates":[-63.86541999999999,45.00015],"type":"Point"}
+  "geometry": {"coordinates":[-63.86542,45.00015],"type":"Point"}
 }

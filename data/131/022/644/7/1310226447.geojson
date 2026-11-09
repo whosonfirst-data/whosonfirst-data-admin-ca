@@ -42,7 +42,7 @@
         "wk:page":"Nine_Mile_River%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"a2946200625ef1b076a5f621c724ed98",
+    "wof:geomhash":"13dd956912dc22331b745a369d388aa1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.57694,
     45.04154000000001
 ],
-  "geometry": {"coordinates":[-63.57694,45.04154000000001],"type":"Point"}
+  "geometry": {"coordinates":[-63.57694,45.04154],"type":"Point"}
 }

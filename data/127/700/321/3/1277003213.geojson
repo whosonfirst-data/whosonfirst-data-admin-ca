@@ -42,7 +42,7 @@
         "wk:page":"Middlefield%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"c35c1d534c954f412afbf6600bd0b08b",
+    "wof:geomhash":"e46c966145b524c4e8909d5cbade5e2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.86451,
     44.20887000000001
 ],
-  "geometry": {"coordinates":[-64.86451,44.20887000000001],"type":"Point"}
+  "geometry": {"coordinates":[-64.86451,44.20887],"type":"Point"}
 }

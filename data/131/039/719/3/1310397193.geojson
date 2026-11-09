@@ -45,7 +45,7 @@
         "wk:page":"Cherry_Hill%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"8141649a09db3a9b393328fe5d5881e3",
+    "wof:geomhash":"bbb1dc8c2bdd2d2c7e882f64433c740a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -64.49011999999999,
     44.15235
 ],
-  "geometry": {"coordinates":[-64.49011999999999,44.15235],"type":"Point"}
+  "geometry": {"coordinates":[-64.49012,44.15235],"type":"Point"}
 }

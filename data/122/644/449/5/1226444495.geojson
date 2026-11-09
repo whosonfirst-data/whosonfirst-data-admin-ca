@@ -42,7 +42,7 @@
         "wk:page":"Bakers_Narrows"
     },
     "wof:country":"CA",
-    "wof:geomhash":"cc84beb8fcc2f7fb2c3a65eb3aabaec0",
+    "wof:geomhash":"db9eb4899d575826b922630b46ce1ed3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -101.66108,
     54.67733000000001
 ],
-  "geometry": {"coordinates":[-101.66108,54.67733000000001],"type":"Point"}
+  "geometry": {"coordinates":[-101.66108,54.67733],"type":"Point"}
 }

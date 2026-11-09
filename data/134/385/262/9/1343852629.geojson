@@ -45,7 +45,7 @@
         "wk:page":"Pomquet"
     },
     "wof:country":"CA",
-    "wof:geomhash":"921ce34e46990ff5cfcc6c74b5984d68",
+    "wof:geomhash":"8167bea3915f13dab797f70963ae45b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -61.84444000000001,
     45.62712
 ],
-  "geometry": {"coordinates":[-61.84444000000001,45.62712],"type":"Point"}
+  "geometry": {"coordinates":[-61.84444,45.62712],"type":"Point"}
 }

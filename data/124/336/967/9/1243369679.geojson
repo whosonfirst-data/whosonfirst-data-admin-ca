@@ -52,7 +52,7 @@
         "wk:page":"Rivi%C3%A8re-Verte%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d08235dee9ee1ad145c5f6ac5bf64118",
+    "wof:geomhash":"9b99185b971735cebd4922c156d502df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,5 +78,5 @@
     -68.14343000000001,
     47.32035
 ],
-  "geometry": {"coordinates":[-68.14343000000001,47.32035],"type":"Point"}
+  "geometry": {"coordinates":[-68.14343,47.32035],"type":"Point"}
 }

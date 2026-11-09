@@ -42,7 +42,7 @@
         "wk:page":"Pinchi_Lake"
     },
     "wof:country":"CA",
-    "wof:geomhash":"1973de9d47aaaf6cf0ee1f7efba757ab",
+    "wof:geomhash":"48e6076c45d0b08e211e2810283fb825",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -124.41993,
     54.63316999999999
 ],
-  "geometry": {"coordinates":[-124.41992999999999,54.63316999999999],"type":"Point"}
+  "geometry": {"coordinates":[-124.41993,54.63317],"type":"Point"}
 }

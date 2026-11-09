@@ -42,7 +42,7 @@
         "wk:page":"Tullamore%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"369488f24767e8128b7521a1b3fd6cf8",
+    "wof:geomhash":"0cbeff214faea34126febcecffb91543",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -79.75858000000002,
     43.79123
 ],
-  "geometry": {"coordinates":[-79.75858000000002,43.79123],"type":"Point"}
+  "geometry": {"coordinates":[-79.75858,43.79123],"type":"Point"}
 }

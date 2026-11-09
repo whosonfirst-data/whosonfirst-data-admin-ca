@@ -42,7 +42,7 @@
         "wk:page":"Lemonville%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"137be7a01f1e0c897ada0555b9e4bc6b",
+    "wof:geomhash":"f463eac40ba63888b3082e7ab9512a36",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -79.30944000000002,
     43.98722
 ],
-  "geometry": {"coordinates":[-79.30944000000002,43.98722],"type":"Point"}
+  "geometry": {"coordinates":[-79.30944,43.98722],"type":"Point"}
 }

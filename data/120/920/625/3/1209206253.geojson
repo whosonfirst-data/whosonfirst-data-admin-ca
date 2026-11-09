@@ -39,7 +39,7 @@
         "wk:page":"Waterford%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"a6b30fbe5bf41bf0da3c6242d0c77a2b",
+    "wof:geomhash":"7f36b2ecd86e2859e34c32131cefd72d",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -62,5 +62,5 @@
     -65.97968,
     44.56789000000001
 ],
-  "geometry": {"coordinates":[-65.97968,44.56789000000001],"type":"Point"}
+  "geometry": {"coordinates":[-65.97968,44.56789],"type":"Point"}
 }

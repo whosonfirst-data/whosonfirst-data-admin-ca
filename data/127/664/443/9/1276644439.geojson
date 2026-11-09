@@ -42,7 +42,7 @@
         "wk:page":"White_Bear%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"11cc1a77cc4b33a8f4d0ba7fe65888cd",
+    "wof:geomhash":"1cd0ebee1b06e7fc772bfa1da9ee2c55",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -108.21809,
     50.88339000000001
 ],
-  "geometry": {"coordinates":[-108.21809,50.88339000000001],"type":"Point"}
+  "geometry": {"coordinates":[-108.21809,50.88339],"type":"Point"}
 }

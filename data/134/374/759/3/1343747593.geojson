@@ -42,7 +42,7 @@
         "wk:page":"Camp_Champlain%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"36527817717b9440b05f67f70c8d5a19",
+    "wof:geomhash":"bf5feff742b3e2b3132a92c0082d31b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -79.29486999999997,
     46.32234
 ],
-  "geometry": {"coordinates":[-79.29486999999997,46.32234],"type":"Point"}
+  "geometry": {"coordinates":[-79.29487,46.32234],"type":"Point"}
 }

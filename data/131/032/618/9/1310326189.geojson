@@ -42,7 +42,7 @@
         "wk:page":"Troy%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"ff9f4372e3da8f76ddf1502b7c91aab2",
+    "wof:geomhash":"902d00574426d1e0a6c1c11f1c202474",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -61.43184,
     45.70014000000001
 ],
-  "geometry": {"coordinates":[-61.43184,45.70014000000001],"type":"Point"}
+  "geometry": {"coordinates":[-61.43184,45.70014],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "wk:page":"Cloverdale%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"b4b05dc47dbcf093f52d84ba020d558e",
+    "wof:geomhash":"a5763981e76c8d15231d4f96e96493ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -63.21536999999999,
     45.18345
 ],
-  "geometry": {"coordinates":[-63.21536999999999,45.18345],"type":"Point"}
+  "geometry": {"coordinates":[-63.21537,45.18345],"type":"Point"}
 }

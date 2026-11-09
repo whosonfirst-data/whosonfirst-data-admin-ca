@@ -42,7 +42,7 @@
         "wk:page":"Stoney_Creek%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"4fdc879cbd82c77eb785125763679458",
+    "wof:geomhash":"d65b091b5e33eef2c7dbdf378310fbcf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.70683000000001,
     45.99335
 ],
-  "geometry": {"coordinates":[-64.70683000000001,45.99335],"type":"Point"}
+  "geometry": {"coordinates":[-64.70683,45.99335],"type":"Point"}
 }

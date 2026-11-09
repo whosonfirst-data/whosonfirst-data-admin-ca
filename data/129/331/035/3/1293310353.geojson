@@ -42,7 +42,7 @@
         "wk:page":"Legend%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"2b12a9882fe17f609f341d63b98dda59",
+    "wof:geomhash":"9de02d01d7f1ec5003d2a60d346059e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -111.60172,
     49.48334000000001
 ],
-  "geometry": {"coordinates":[-111.60172,49.48334000000001],"type":"Point"}
+  "geometry": {"coordinates":[-111.60172,49.48334],"type":"Point"}
 }

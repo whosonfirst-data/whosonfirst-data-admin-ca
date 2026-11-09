@@ -61,7 +61,7 @@
         "wk:page":"Passes-Dangereuses,_Quebec"
     },
     "wof:country":"CA",
-    "wof:geomhash":"4c62c4940140e274342402b1277a6071",
+    "wof:geomhash":"2b2599a9b9b15d6331f1a02c1faf349b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -87,5 +87,5 @@
     -71.16478000000002,
     49.83977
 ],
-  "geometry": {"coordinates":[-71.16478000000002,49.83977],"type":"Point"}
+  "geometry": {"coordinates":[-71.16478,49.83977],"type":"Point"}
 }

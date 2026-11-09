@@ -39,7 +39,7 @@
         "wk:page":"Lower_Economy"
     },
     "wof:country":"CA",
-    "wof:geomhash":"50ee3cc369aa81bdeeb9a5e7e24294ff",
+    "wof:geomhash":"d07b525cc58d49c67c20d5742cefce34",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -62,5 +62,5 @@
     -63.98589000000001,
     45.40129
 ],
-  "geometry": {"coordinates":[-63.98589000000001,45.40129],"type":"Point"}
+  "geometry": {"coordinates":[-63.98589,45.40129],"type":"Point"}
 }

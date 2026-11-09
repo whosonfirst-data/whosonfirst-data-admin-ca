@@ -42,7 +42,7 @@
         "wk:page":"Maugerville%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d22d4f963550f771548f3024bf9939e4",
+    "wof:geomhash":"39446937e3ee71e04d8a96aaab475e8c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -66.44528000000001,
     45.87165
 ],
-  "geometry": {"coordinates":[-66.44528000000001,45.87165],"type":"Point"}
+  "geometry": {"coordinates":[-66.44528,45.87165],"type":"Point"}
 }

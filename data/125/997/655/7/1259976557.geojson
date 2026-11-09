@@ -42,7 +42,7 @@
         "wk:page":"White_Rock%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"c01dc23ff7b5ea986e1f975816812fef",
+    "wof:geomhash":"747efce45c2a193ad167d8dfa32c311b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.41096999999999,
     45.05223
 ],
-  "geometry": {"coordinates":[-64.41096999999999,45.05223],"type":"Point"}
+  "geometry": {"coordinates":[-64.41097,45.05223],"type":"Point"}
 }

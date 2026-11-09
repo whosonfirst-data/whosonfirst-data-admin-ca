@@ -45,7 +45,7 @@
         "wk:page":"James_River%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"c69a4268c1e4a60c7bb30d98f68b3d3f",
+    "wof:geomhash":"72954359a8898602fa79f233d5965e10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -62.13158000000001,
     45.57029
 ],
-  "geometry": {"coordinates":[-62.13158000000001,45.57029],"type":"Point"}
+  "geometry": {"coordinates":[-62.13158,45.57029],"type":"Point"}
 }

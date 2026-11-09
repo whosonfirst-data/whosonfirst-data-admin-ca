@@ -40,7 +40,7 @@
         "wk:page":"Cap-de-la-Madeleine%2C_Quebec"
     },
     "wof:country":"CA",
-    "wof:geomhash":"761cb4eca41707585a1b7dea263848d2",
+    "wof:geomhash":"76fe95340df29bb9bc65f0cc07406f26",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,5 +66,5 @@
     -72.51623000000002,
     46.37225
 ],
-  "geometry": {"coordinates":[-72.51623000000002,46.37225],"type":"Point"}
+  "geometry": {"coordinates":[-72.51623,46.37225],"type":"Point"}
 }

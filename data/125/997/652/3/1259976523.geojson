@@ -42,7 +42,7 @@
         "wk:page":"Alma%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"7d0c54a4586f9c53ce7b8b43458aa2b9",
+    "wof:geomhash":"1ad4474133238ebbdf64f508a50e3342",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -62.76031999999999,
     45.57838
 ],
-  "geometry": {"coordinates":[-62.76031999999999,45.57838],"type":"Point"}
+  "geometry": {"coordinates":[-62.76032,45.57838],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Salem_Road"
     },
     "wof:country":"CA",
-    "wof:geomhash":"62fb2a64a8a53efa43de1a0644803162",
+    "wof:geomhash":"2fa139bde888063dfee70064495ffe71",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -60.56518000000001,
     45.81684
 ],
-  "geometry": {"coordinates":[-60.56518000000001,45.81684],"type":"Point"}
+  "geometry": {"coordinates":[-60.56518,45.81684],"type":"Point"}
 }

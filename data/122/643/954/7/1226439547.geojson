@@ -42,7 +42,7 @@
         "wk:page":"Queensway_Terrace_South"
     },
     "wof:country":"CA",
-    "wof:geomhash":"88ce564a51a060505c3d69e4032eb74f",
+    "wof:geomhash":"b5e145c190246eec25b18079461d6457",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -75.78416999999997,
     45.34722
 ],
-  "geometry": {"coordinates":[-75.78416999999997,45.34722],"type":"Point"}
+  "geometry": {"coordinates":[-75.78417,45.34722],"type":"Point"}
 }

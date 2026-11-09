@@ -42,7 +42,7 @@
         "wk:page":"New_England_Settlement%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"e1943a2c6c835ccb17fdf69c018db0f5",
+    "wof:geomhash":"ed0bde2162e629ae77c641412f291d9e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -66.09676999999999,
     46.07727
 ],
-  "geometry": {"coordinates":[-66.09676999999999,46.07727],"type":"Point"}
+  "geometry": {"coordinates":[-66.09677,46.07727],"type":"Point"}
 }

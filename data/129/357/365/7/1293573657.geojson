@@ -45,7 +45,7 @@
         "wk:page":"Tracadie%2C_Prince_Edward_Island"
     },
     "wof:country":"CA",
-    "wof:geomhash":"ca8e975b18e274180fd618e908e48e13",
+    "wof:geomhash":"b3848f01173b31f7a27dfd57f1dcc369",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -62.96536999999999,
     46.35011
 ],
-  "geometry": {"coordinates":[-62.96536999999999,46.35011],"type":"Point"}
+  "geometry": {"coordinates":[-62.96537,46.35011],"type":"Point"}
 }

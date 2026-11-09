@@ -45,7 +45,7 @@
         "wk:page":"Cormier-Village%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"c9b367a88c8ca5cb365c11cd6be07bfd",
+    "wof:geomhash":"46ae4eeef77c8e105aa71f7fdf1ef8fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -64.35193000000001,
     46.17209
 ],
-  "geometry": {"coordinates":[-64.35193000000001,46.17209],"type":"Point"}
+  "geometry": {"coordinates":[-64.35193,46.17209],"type":"Point"}
 }

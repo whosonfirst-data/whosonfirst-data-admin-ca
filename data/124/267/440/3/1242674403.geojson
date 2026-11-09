@@ -42,7 +42,7 @@
         "wk:page":"Northwest%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fff2b2f516b2beac2c940ce714dc30ec",
+    "wof:geomhash":"ff21ef891008bb6ba61d5e1aef78c115",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.35665999999999,
     44.40431
 ],
-  "geometry": {"coordinates":[-64.35665999999999,44.40431],"type":"Point"}
+  "geometry": {"coordinates":[-64.35666,44.40431],"type":"Point"}
 }

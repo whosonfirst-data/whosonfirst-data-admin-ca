@@ -42,7 +42,7 @@
         "wk:page":"North_West_Harbour%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"4fcafe7717aea3096737475b3f6fae40",
+    "wof:geomhash":"77c733b9d8d11e2cf420906a0906aa2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.4142,
     43.56319000000001
 ],
-  "geometry": {"coordinates":[-65.41419999999999,43.56319000000001],"type":"Point"}
+  "geometry": {"coordinates":[-65.4142,43.56319],"type":"Point"}
 }

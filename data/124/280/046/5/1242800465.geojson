@@ -50,7 +50,7 @@
         "wk:page":"Clarke%27s_Beach"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d0ee0953c5cff958631ba0fd2ae80924",
+    "wof:geomhash":"934290c167ac689e95a328fd6ba7a076",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,5 +75,5 @@
     -53.28138000000001,
     47.54989000000001
 ],
-  "geometry": {"coordinates":[-53.28138000000001,47.54989000000001],"type":"Point"}
+  "geometry": {"coordinates":[-53.28138,47.54989],"type":"Point"}
 }

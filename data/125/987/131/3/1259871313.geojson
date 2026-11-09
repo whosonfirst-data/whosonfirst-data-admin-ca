@@ -42,7 +42,7 @@
         "wk:page":"Sissiboo_Falls%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d58a5aa0002fdf49ebb9e94b66063481",
+    "wof:geomhash":"71b472b7c5fb7741fc9862d9fd92eaef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.86223000000001,
     44.42757
 ],
-  "geometry": {"coordinates":[-65.86223000000001,44.42757],"type":"Point"}
+  "geometry": {"coordinates":[-65.86223,44.42757],"type":"Point"}
 }

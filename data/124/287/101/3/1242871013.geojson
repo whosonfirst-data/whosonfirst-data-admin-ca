@@ -42,7 +42,7 @@
         "wk:page":"Weston%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"ef74d10c82813deda0316fb44089c6dc",
+    "wof:geomhash":"c97d3fdf1761f61b0603ea819641d8a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.78208000000001,
     45.06685
 ],
-  "geometry": {"coordinates":[-64.78208000000001,45.06685],"type":"Point"}
+  "geometry": {"coordinates":[-64.78208,45.06685],"type":"Point"}
 }

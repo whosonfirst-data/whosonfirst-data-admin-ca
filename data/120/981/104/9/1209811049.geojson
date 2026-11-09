@@ -48,7 +48,7 @@
         "wk:page":"Vanastra%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"6e39136a714d13ff2e690f40f64e332b",
+    "wof:geomhash":"83b33c6e7911f93c6c2c4a93c8a66694",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,5 +74,5 @@
     -81.52261999999997,
     43.58353
 ],
-  "geometry": {"coordinates":[-81.52261999999997,43.58353],"type":"Point"}
+  "geometry": {"coordinates":[-81.52262,43.58353],"type":"Point"}
 }

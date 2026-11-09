@@ -42,7 +42,7 @@
         "wk:page":"Ecum_Secum%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"6deccd613ba837c8cae2108753deeab8",
+    "wof:geomhash":"811afc002276c79cb4587d7735cc5bad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -62.13189000000001,
     44.96685
 ],
-  "geometry": {"coordinates":[-62.13189000000001,44.96685],"type":"Point"}
+  "geometry": {"coordinates":[-62.13189,44.96685],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "wk:page":"Victoria_Mines%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"6850f7f9411a444ad470e3fbb817022a",
+    "wof:geomhash":"57a0285f19837b66ea5c6aafe2f094ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -60.17308000000001,
     46.23684
 ],
-  "geometry": {"coordinates":[-60.17308000000001,46.23684],"type":"Point"}
+  "geometry": {"coordinates":[-60.17308,46.23684],"type":"Point"}
 }

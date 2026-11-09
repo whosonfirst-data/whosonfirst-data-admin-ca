@@ -45,7 +45,7 @@
         "wk:page":"St._Esprit%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"803cabda1aa15cc176e05c76d1e2d7f0",
+    "wof:geomhash":"f99cee943b5bb339a6ee9d317ef976a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -60.53178000000001,
     45.63345
 ],
-  "geometry": {"coordinates":[-60.53178000000001,45.63345],"type":"Point"}
+  "geometry": {"coordinates":[-60.53178,45.63345],"type":"Point"}
 }

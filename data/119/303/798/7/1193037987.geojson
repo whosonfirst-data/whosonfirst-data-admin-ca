@@ -42,7 +42,7 @@
         "wk:page":"Ponsonby%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"ce3f78f522e1e1e7034389c3e63e0961",
+    "wof:geomhash":"420d7e851397e2d6806856e9ac431d2a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -80.36139,
     43.62889000000001
 ],
-  "geometry": {"coordinates":[-80.36139,43.62889000000001],"type":"Point"}
+  "geometry": {"coordinates":[-80.36139,43.62889],"type":"Point"}
 }

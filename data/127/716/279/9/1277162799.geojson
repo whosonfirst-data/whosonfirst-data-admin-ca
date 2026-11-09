@@ -45,7 +45,7 @@
         "wk:page":"Burwash%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"7fa9a0d80152ab4dac02e2ceaf38e462",
+    "wof:geomhash":"11abf0d779a5a4332cc778a0e9afcfca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -80.84971999999998,
     46.23338
 ],
-  "geometry": {"coordinates":[-80.84971999999998,46.23338],"type":"Point"}
+  "geometry": {"coordinates":[-80.84972,46.23338],"type":"Point"}
 }

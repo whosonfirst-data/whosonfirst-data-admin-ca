@@ -42,7 +42,7 @@
         "wk:page":"Reesor%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"c0c830e5ba03c78540a672f8bb9b72ea",
+    "wof:geomhash":"736be4352f06fa1e9aec309ea89220f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -83.11721999999997,
     49.58361
 ],
-  "geometry": {"coordinates":[-83.11721999999997,49.58361],"type":"Point"}
+  "geometry": {"coordinates":[-83.11722,49.58361],"type":"Point"}
 }

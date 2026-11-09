@@ -42,7 +42,7 @@
         "wk:page":"Ogden%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f58b1cdad7e4ef38f841d01b17872069",
+    "wof:geomhash":"f705471cbcc274fb5e442bbde2ae3c0f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -61.63158000000001,
     45.34602
 ],
-  "geometry": {"coordinates":[-61.63158000000001,45.34602],"type":"Point"}
+  "geometry": {"coordinates":[-61.63158,45.34602],"type":"Point"}
 }

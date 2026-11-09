@@ -63,7 +63,7 @@
         "wk:page":"New_Norway"
     },
     "wof:country":"CA",
-    "wof:geomhash":"01022703f1ad43809a6421cc14b9b8ac",
+    "wof:geomhash":"0ea8ae6c2693cb2a0fdaae97a5ca6417",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -89,5 +89,5 @@
     -112.95196,
     52.86683000000001
 ],
-  "geometry": {"coordinates":[-112.95196,52.86683000000001],"type":"Point"}
+  "geometry": {"coordinates":[-112.95196,52.86683],"type":"Point"}
 }

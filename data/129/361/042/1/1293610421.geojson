@@ -42,7 +42,7 @@
         "wk:page":"Aspen%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"84b11b10e038707e522983267cc9c8f9",
+    "wof:geomhash":"b1baf032317045e08375087d9da3f95f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -62.05224000000001,
     45.30164
 ],
-  "geometry": {"coordinates":[-62.05224000000001,45.30164],"type":"Point"}
+  "geometry": {"coordinates":[-62.05224,45.30164],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"East_Sooke"
     },
     "wof:country":"CA",
-    "wof:geomhash":"a756ceb92d503c3cefbc752e76455d4b",
+    "wof:geomhash":"57b0657c846b56c96e61880a6e20f560",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,5 +74,5 @@
     -123.68361000000002,
     48.36639
 ],
-  "geometry": {"coordinates":[-123.68361000000002,48.36639],"type":"Point"}
+  "geometry": {"coordinates":[-123.68361,48.36639],"type":"Point"}
 }

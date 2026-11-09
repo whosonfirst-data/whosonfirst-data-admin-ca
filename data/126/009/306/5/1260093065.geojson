@@ -42,7 +42,7 @@
         "wk:page":"Crescent_Spur%2C_British_Columbia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"bc3af9603663c6bcc9cc57a2c14afe43",
+    "wof:geomhash":"5384bd286a18a740d79367383c619837",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -120.68597,
     53.58323000000001
 ],
-  "geometry": {"coordinates":[-120.68597,53.58323000000001],"type":"Point"}
+  "geometry": {"coordinates":[-120.68597,53.58323],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Port_Clyde%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f134767dcbab12ca1087af4153668aa4",
+    "wof:geomhash":"9535f15acfc11e79fc9455955d661d7c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.46786999999999,
     43.60535
 ],
-  "geometry": {"coordinates":[-65.46786999999999,43.60535],"type":"Point"}
+  "geometry": {"coordinates":[-65.46787,43.60535],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Lower_Melbourne%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"b17bd1c4ecc8496bdc224098433d4172",
+    "wof:geomhash":"0bba6b280bceb745b17c46d44eb91756",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -66.06383000000001,
     43.758
 ],
-  "geometry": {"coordinates":[-66.06383000000001,43.758],"type":"Point"}
+  "geometry": {"coordinates":[-66.06383,43.758],"type":"Point"}
 }

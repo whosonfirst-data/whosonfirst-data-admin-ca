@@ -39,7 +39,7 @@
         "wk:page":"Walden%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"528a135ee9332d39c104e4c9a0b9c177",
+    "wof:geomhash":"f7896522c0b022a472363a2ba9b0e32d",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -62,5 +62,5 @@
     -64.50135999999999,
     44.55638
 ],
-  "geometry": {"coordinates":[-64.50135999999999,44.55638],"type":"Point"}
+  "geometry": {"coordinates":[-64.50136,44.55638],"type":"Point"}
 }

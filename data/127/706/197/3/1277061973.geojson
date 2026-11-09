@@ -42,7 +42,7 @@
         "wk:page":"Dalmeny%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"5821f430717c5cbe07d453dee6501477",
+    "wof:geomhash":"57d294829b816d481686072e9a3b4fd8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -75.53083000000002,
     45.14611
 ],
-  "geometry": {"coordinates":[-75.53083000000002,45.14611],"type":"Point"}
+  "geometry": {"coordinates":[-75.53083,45.14611],"type":"Point"}
 }

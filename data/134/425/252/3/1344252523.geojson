@@ -42,7 +42,7 @@
         "wk:page":"Kilcoo_Camp"
     },
     "wof:country":"CA",
-    "wof:geomhash":"2812dcd2d6e8d62d6b1b98d563ed9da2",
+    "wof:geomhash":"a9845b474f2f958dfc9ce921b2bff647",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -78.76380999999998,
     44.85651
 ],
-  "geometry": {"coordinates":[-78.76380999999998,44.85651],"type":"Point"}
+  "geometry": {"coordinates":[-78.76381,44.85651],"type":"Point"}
 }

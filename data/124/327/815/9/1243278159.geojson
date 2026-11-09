@@ -45,7 +45,7 @@
         "wk:page":"Silver_Beach%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"07ac6544af8e6557440f982e266a9318",
+    "wof:geomhash":"69a76f8494444e19df964070f5cd7901",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -113.96874,
     53.03341999999999
 ],
-  "geometry": {"coordinates":[-113.96874,53.03341999999999],"type":"Point"}
+  "geometry": {"coordinates":[-113.96874,53.03342],"type":"Point"}
 }

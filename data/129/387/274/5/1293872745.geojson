@@ -47,7 +47,7 @@
         "wk:page":"Pointe-aux-Anglais"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f27ff1aa7dba0ab789f47b288c68b3ff",
+    "wof:geomhash":"d2921d7afcb9ed3e990c401a6138f456",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,5 +73,5 @@
     -67.16693000000001,
     49.67729
 ],
-  "geometry": {"coordinates":[-67.16693000000001,49.67729],"type":"Point"}
+  "geometry": {"coordinates":[-67.16693,49.67729],"type":"Point"}
 }

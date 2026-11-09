@@ -60,7 +60,7 @@
         "wk:page":"Arrowwood%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"4343e3dc795e3605f31bf70623805d4a",
+    "wof:geomhash":"a3431886ebdd25f0e40dc875fa493b8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -86,5 +86,5 @@
     -113.15191000000002,
     50.73341
 ],
-  "geometry": {"coordinates":[-113.15191000000002,50.73341],"type":"Point"}
+  "geometry": {"coordinates":[-113.15191,50.73341],"type":"Point"}
 }

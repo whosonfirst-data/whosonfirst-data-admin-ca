@@ -42,7 +42,7 @@
         "wk:page":"Avonbank%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"1f69c530eade034aec53fcaeddb73638",
+    "wof:geomhash":"351c8a5d47b291586fd7bed428e9c582",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -81.12917,
     43.32899999999999
 ],
-  "geometry": {"coordinates":[-81.12917,43.32899999999999],"type":"Point"}
+  "geometry": {"coordinates":[-81.12917,43.329],"type":"Point"}
 }

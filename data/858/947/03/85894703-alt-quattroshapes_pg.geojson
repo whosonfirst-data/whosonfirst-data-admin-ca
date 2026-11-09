@@ -4,7 +4,7 @@
   "properties": {
     "src:alt_label":"quattroshapes_pg",
     "src:geom":"quattroshapes_pg",
-    "wof:geomhash":"3993a12124933177492eade10e7d088d",
+    "wof:geomhash":"1482267d7f0628648418a00554f430d0",
     "wof:id":85894703,
     "wof:repo":"whosonfirst-data-admin-ca"
 },
@@ -14,5 +14,5 @@
     -123.0691865,
     49.025776
 ],
-  "geometry": {"coordinates":[-123.0691865,49.025776],"type":"Point"}
+  "geometry": {"coordinates":[-123.069186,49.025776],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Louis_Head%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f2e9e6898a5853762d180c3f505cbf02",
+    "wof:geomhash":"08f6444b9d878d93c1a31c0489f1fada",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.01538000000001,
     43.74145
 ],
-  "geometry": {"coordinates":[-65.01538000000001,43.74145],"type":"Point"}
+  "geometry": {"coordinates":[-65.01538,43.74145],"type":"Point"}
 }

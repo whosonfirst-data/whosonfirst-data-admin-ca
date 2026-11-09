@@ -42,7 +42,7 @@
         "wk:page":"Spring_Bay%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"14cf7779c78ba177aaef72930f8df4cd",
+    "wof:geomhash":"fcf84121ef8d5e8c784aa834bb8f4fc8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -105.13443999999998,
     50.93338
 ],
-  "geometry": {"coordinates":[-105.13443999999998,50.93338],"type":"Point"}
+  "geometry": {"coordinates":[-105.13444,50.93338],"type":"Point"}
 }

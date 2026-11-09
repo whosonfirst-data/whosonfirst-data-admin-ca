@@ -42,7 +42,7 @@
         "wk:page":"Mason_Point%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"3c3704d6daa00044328447eed2cd2a61",
+    "wof:geomhash":"1abcf654c40240977614f167155bee3c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -61.23181999999999,
     46.13344
 ],
-  "geometry": {"coordinates":[-61.23181999999999,46.13344],"type":"Point"}
+  "geometry": {"coordinates":[-61.23182,46.13344],"type":"Point"}
 }

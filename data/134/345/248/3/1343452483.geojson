@@ -42,7 +42,7 @@
         "wk:page":"Elderbank%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f7181799e42f8b9d6c19b8d47b7f1f76",
+    "wof:geomhash":"26c0bb034fb979572cabeab22501700c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.21633000000001,
     44.9803
 ],
-  "geometry": {"coordinates":[-63.21633000000001,44.9803],"type":"Point"}
+  "geometry": {"coordinates":[-63.21633,44.9803],"type":"Point"}
 }

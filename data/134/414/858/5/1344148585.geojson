@@ -42,7 +42,7 @@
         "wk:page":"Country_Harbour_Mines%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"6ddb1c4fe567776ca760c77926128875",
+    "wof:geomhash":"6cd4e5646eb4480dd89f33cf3e566b12",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -61.82168000000001,
     45.2541
 ],
-  "geometry": {"coordinates":[-61.82168000000001,45.2541],"type":"Point"}
+  "geometry": {"coordinates":[-61.82168,45.2541],"type":"Point"}
 }

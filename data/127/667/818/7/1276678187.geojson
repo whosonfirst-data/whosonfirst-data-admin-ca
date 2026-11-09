@@ -42,7 +42,7 @@
         "wk:page":"Teviotdale%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"40f6edda8511bf5e51ff4c23a6d6011a",
+    "wof:geomhash":"8dbf994e02cdf8f83ec0f23ab105457c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -80.75972,
     43.84444000000001
 ],
-  "geometry": {"coordinates":[-80.75972,43.84444000000001],"type":"Point"}
+  "geometry": {"coordinates":[-80.75972,43.84444],"type":"Point"}
 }

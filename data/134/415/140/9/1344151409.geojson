@@ -42,7 +42,7 @@
         "wk:page":"Malay_Falls%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"a4d62afdffe806b3dd392928c243192f",
+    "wof:geomhash":"de1e6d79dce7bee4954a595a511b88e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -62.48218000000001,
     44.98676
 ],
-  "geometry": {"coordinates":[-62.48218000000001,44.98676],"type":"Point"}
+  "geometry": {"coordinates":[-62.48218,44.98676],"type":"Point"}
 }

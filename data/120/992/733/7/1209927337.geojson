@@ -42,7 +42,7 @@
         "wk:page":"Giscome%2C_British_Columbia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"dcef8691355f7a19df67fa4ba4ac8ec7",
+    "wof:geomhash":"eed0bcef77b9afd5080370293bc79618",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -122.3697,
     54.06661999999999
 ],
-  "geometry": {"coordinates":[-122.36969999999999,54.06661999999999],"type":"Point"}
+  "geometry": {"coordinates":[-122.3697,54.06662],"type":"Point"}
 }

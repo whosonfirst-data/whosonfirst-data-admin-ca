@@ -42,7 +42,7 @@
         "wk:page":"Shabaqua_Corners"
     },
     "wof:country":"CA",
-    "wof:geomhash":"74c62a2acefe81d48453972c047d14bf",
+    "wof:geomhash":"b7575c08ad477a03357003ba2d5e6cc1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -89.88790999999998,
     48.59363
 ],
-  "geometry": {"coordinates":[-89.88790999999998,48.59363],"type":"Point"}
+  "geometry": {"coordinates":[-89.88791,48.59363],"type":"Point"}
 }

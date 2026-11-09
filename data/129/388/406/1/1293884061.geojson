@@ -42,7 +42,7 @@
         "wk:page":"Whites_Cove%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"5166bafdf35bc9bd84025f1a5ccf4d93",
+    "wof:geomhash":"df53e4bae8c1d67731a13ce7856765c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -66.05951999999999,
     45.8632
 ],
-  "geometry": {"coordinates":[-66.05951999999999,45.8632],"type":"Point"}
+  "geometry": {"coordinates":[-66.05952,45.8632],"type":"Point"}
 }

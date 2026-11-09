@@ -42,7 +42,7 @@
         "wk:page":"Doe_Lake_%28Parry_Sound_District%2C_Ontario%29"
     },
     "wof:country":"CA",
-    "wof:geomhash":"da3c13f03ef18c52e6fadb4fbce49eb5",
+    "wof:geomhash":"e3f0e309bf73083ed62cb60b97eaba00",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -79.42643000000002,
     45.55322
 ],
-  "geometry": {"coordinates":[-79.42643000000002,45.55322],"type":"Point"}
+  "geometry": {"coordinates":[-79.42643,45.55322],"type":"Point"}
 }

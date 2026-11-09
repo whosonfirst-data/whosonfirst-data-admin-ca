@@ -54,7 +54,7 @@
         "wk:page":"Postville%2C_Newfoundland_and_Labrador"
     },
     "wof:country":"CA",
-    "wof:geomhash":"41f51b69c09fbee0b09bd58ed40c6db9",
+    "wof:geomhash":"2af6fe0bbcf36828b4330dc5f4809738",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,5 +80,5 @@
     -59.77258000000001,
     54.90795
 ],
-  "geometry": {"coordinates":[-59.77258000000001,54.90795],"type":"Point"}
+  "geometry": {"coordinates":[-59.77258,54.90795],"type":"Point"}
 }

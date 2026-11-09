@@ -48,7 +48,7 @@
         "wk:page":"Paris%2C_Yukon"
     },
     "wof:country":"CA",
-    "wof:geomhash":"e0eb513dc1fb8a3e1e68b46a82d8d133",
+    "wof:geomhash":"4dd33919c81cecac30b16b8007c38688",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,5 +74,5 @@
     -138.65435,
     63.81446999999999
 ],
-  "geometry": {"coordinates":[-138.65434999999999,63.81446999999999],"type":"Point"}
+  "geometry": {"coordinates":[-138.65435,63.81447],"type":"Point"}
 }

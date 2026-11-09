@@ -55,7 +55,7 @@
         "wk:page":"Rayside-Balfour"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d18314531af3a214d503e9a6357bfea5",
+    "wof:geomhash":"dab7f87d35d61dcb679bd3611939e2d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,5 +83,5 @@
     -81.20763000000002,
     46.60873
 ],
-  "geometry": {"coordinates":[-81.20763000000002,46.60873],"type":"Point"}
+  "geometry": {"coordinates":[-81.20763,46.60873],"type":"Point"}
 }

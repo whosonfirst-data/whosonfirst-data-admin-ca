@@ -42,7 +42,7 @@
         "wk:page":"Upper_Fraser%2C_British_Columbia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"13cb3b71cf4a621d85f35673e94bcf1c",
+    "wof:geomhash":"971e35eef62a275cd10e6314184637fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -121.93333,
     54.11666999999999
 ],
-  "geometry": {"coordinates":[-121.93333,54.11666999999999],"type":"Point"}
+  "geometry": {"coordinates":[-121.93333,54.11667],"type":"Point"}
 }

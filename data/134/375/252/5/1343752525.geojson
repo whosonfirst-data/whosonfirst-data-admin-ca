@@ -42,7 +42,7 @@
         "wk:page":"Prairie_Siding%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"aacf0033ed39ba567ed326f96f9a1b57",
+    "wof:geomhash":"f68fe1f8497ccc75dcc84e6f4b1e0716",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -82.32403000000002,
     42.34673
 ],
-  "geometry": {"coordinates":[-82.32403000000002,42.34673],"type":"Point"}
+  "geometry": {"coordinates":[-82.32403,42.34673],"type":"Point"}
 }

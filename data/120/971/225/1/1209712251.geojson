@@ -42,7 +42,7 @@
         "wk:page":"Harbourville%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"bb193cd8a19450f619335675ca4078df",
+    "wof:geomhash":"7efd2c003131c2084d492637b893fd70",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.81213000000001,
     45.15143
 ],
-  "geometry": {"coordinates":[-64.81213000000001,45.15143],"type":"Point"}
+  "geometry": {"coordinates":[-64.81213,45.15143],"type":"Point"}
 }

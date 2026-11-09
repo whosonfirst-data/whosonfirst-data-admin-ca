@@ -45,7 +45,7 @@
         "wk:page":"Looma%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"5854f5fb20eb6f4f20a21c3c82167347",
+    "wof:geomhash":"310a58823ee583999e0e281b1c525cf0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,5 +73,5 @@
     -113.252,
     53.36683000000001
 ],
-  "geometry": {"coordinates":[-113.252,53.36683000000001],"type":"Point"}
+  "geometry": {"coordinates":[-113.252,53.36683],"type":"Point"}
 }

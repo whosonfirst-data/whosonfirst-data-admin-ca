@@ -42,7 +42,7 @@
         "wk:page":"Durham_Bridge%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"470d132567092fd1db21ab41c5c7f53e",
+    "wof:geomhash":"7917a2f81af203273d797620029c652e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -66.59886999999999,
     46.11681
 ],
-  "geometry": {"coordinates":[-66.59886999999999,46.11681],"type":"Point"}
+  "geometry": {"coordinates":[-66.59887,46.11681],"type":"Point"}
 }

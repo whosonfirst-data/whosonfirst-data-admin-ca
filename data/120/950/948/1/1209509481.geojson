@@ -60,7 +60,7 @@
         "wk:page":"Port_Royal%2C_Annapolis_County%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"05479b118a54cf58bc8414c259d3b7a0",
+    "wof:geomhash":"cd80002f3473359ecfb5b3f8c2212c26",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -83,5 +83,5 @@
     -65.62404000000001,
     44.71277
 ],
-  "geometry": {"coordinates":[-65.62404000000001,44.71277],"type":"Point"}
+  "geometry": {"coordinates":[-65.62404,44.71277],"type":"Point"}
 }

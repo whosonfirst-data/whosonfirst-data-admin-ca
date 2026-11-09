@@ -42,7 +42,7 @@
         "wk:page":"Tapleytown%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"02b263037e2c5e1dde2c7ea0654a9d35",
+    "wof:geomhash":"57c1d7744666e22f1a46f2b924b93f92",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -79.73033000000002,
     43.18014
 ],
-  "geometry": {"coordinates":[-79.73033000000002,43.18014],"type":"Point"}
+  "geometry": {"coordinates":[-79.73033,43.18014],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Bear_Creek%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"b36eaea70dcbcd524114f0b45c24b745",
+    "wof:geomhash":"268bc6e9e39665ea093e2f13e10d58bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -108.97317,
     56.29828000000001
 ],
-  "geometry": {"coordinates":[-108.97317,56.29828000000001],"type":"Point"}
+  "geometry": {"coordinates":[-108.97317,56.29828],"type":"Point"}
 }

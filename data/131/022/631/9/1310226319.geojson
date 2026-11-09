@@ -42,7 +42,7 @@
         "wk:page":"Tufts_Cove%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"ad97702255784e2752e475c288e060e5",
+    "wof:geomhash":"c3f208324c8142a3581316e09657d6d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.59689,
     44.68219000000001
 ],
-  "geometry": {"coordinates":[-63.59689,44.68219000000001],"type":"Point"}
+  "geometry": {"coordinates":[-63.59689,44.68219],"type":"Point"}
 }

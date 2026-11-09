@@ -42,7 +42,7 @@
         "wk:page":"Mechanic_Settlement%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"a2e82c994c1011fc6a38ceb288f57ff7",
+    "wof:geomhash":"bb7b58eb96dcd188aeab9bc4084ed768",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.20933000000001,
     45.72671
 ],
-  "geometry": {"coordinates":[-65.20933000000001,45.72671],"type":"Point"}
+  "geometry": {"coordinates":[-65.20933,45.72671],"type":"Point"}
 }

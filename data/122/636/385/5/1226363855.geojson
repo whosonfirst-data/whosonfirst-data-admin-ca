@@ -42,7 +42,7 @@
         "wk:page":"Front_Centre%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"97f37dba460856181182a17ddf2bb3e7",
+    "wof:geomhash":"ab8ae28033c39c04a0cca528c23d45d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.35273000000001,
     44.37564
 ],
-  "geometry": {"coordinates":[-64.35273000000001,44.37564],"type":"Point"}
+  "geometry": {"coordinates":[-64.35273,44.37564],"type":"Point"}
 }

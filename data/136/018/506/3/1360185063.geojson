@@ -42,7 +42,7 @@
         "wk:page":"Curryville%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"12ce6645757045cece3b9756f53e9bf8",
+    "wof:geomhash":"55a2d0f1e6de45316ca5dd1b85c17759",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.63353000000001,
     45.83935
 ],
-  "geometry": {"coordinates":[-64.63353000000001,45.83935],"type":"Point"}
+  "geometry": {"coordinates":[-64.63353,45.83935],"type":"Point"}
 }

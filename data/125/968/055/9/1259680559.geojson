@@ -42,7 +42,7 @@
         "wk:page":"Middle_Melford%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"59509bd111ffc580b89db2ef4ac5226a",
+    "wof:geomhash":"5b9b09877fff322bad9c72d15d0c0d97",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -61.29346999999999,
     45.52931
 ],
-  "geometry": {"coordinates":[-61.29346999999999,45.52931],"type":"Point"}
+  "geometry": {"coordinates":[-61.29347,45.52931],"type":"Point"}
 }

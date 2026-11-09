@@ -42,7 +42,7 @@
         "wk:page":"Berwick%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"89c06d30de5be37f4c6b2a80ec3708e8",
+    "wof:geomhash":"c08328c50a6f9a428138b771fa98bcb8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.59598000000001,
     45.77846
 ],
-  "geometry": {"coordinates":[-65.59598000000001,45.77846],"type":"Point"}
+  "geometry": {"coordinates":[-65.59598,45.77846],"type":"Point"}
 }

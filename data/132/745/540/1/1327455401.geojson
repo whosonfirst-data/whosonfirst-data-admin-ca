@@ -45,7 +45,7 @@
         "wk:page":"Moschelle"
     },
     "wof:country":"CA",
-    "wof:geomhash":"c7e32b348fb36f451ac758cfc635fe65",
+    "wof:geomhash":"ab9a9d74e7db985f1c79f56d59facfd7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -65.46656999999999,
     44.75333
 ],
-  "geometry": {"coordinates":[-65.46656999999999,44.75333],"type":"Point"}
+  "geometry": {"coordinates":[-65.46657,44.75333],"type":"Point"}
 }

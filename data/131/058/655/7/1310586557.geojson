@@ -42,7 +42,7 @@
         "wk:page":"Waupoos%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"7d3dae4883840df1bf9ba8ad40a6a39a",
+    "wof:geomhash":"c9c7615db773d4e9cd4cdc00f8d14fb0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -77.00034000000002,
     44.00322
 ],
-  "geometry": {"coordinates":[-77.00034000000002,44.00322],"type":"Point"}
+  "geometry": {"coordinates":[-77.00034,44.00322],"type":"Point"}
 }

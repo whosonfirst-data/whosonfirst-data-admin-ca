@@ -42,7 +42,7 @@
         "wk:page":"Barkhouse_Settlement%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"ce349779bac801f0a21c9ba31922f8e3",
+    "wof:geomhash":"e0a86ede1ff118295bb33d5b0a42595e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -62.37838000000001,
     44.94736
 ],
-  "geometry": {"coordinates":[-62.37838000000001,44.94736],"type":"Point"}
+  "geometry": {"coordinates":[-62.37838,44.94736],"type":"Point"}
 }

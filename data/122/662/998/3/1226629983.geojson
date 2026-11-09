@@ -42,7 +42,7 @@
         "wk:page":"Roggan_River%2C_Quebec"
     },
     "wof:country":"CA",
-    "wof:geomhash":"48e69e34d9447cfe44dbe1a0baf47ae2",
+    "wof:geomhash":"c1fc3a36b35ba04b6af1eefac397d6ee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -79.44937,
     54.41198000000001
 ],
-  "geometry": {"coordinates":[-79.44937,54.41198000000001],"type":"Point"}
+  "geometry": {"coordinates":[-79.44937,54.41198],"type":"Point"}
 }

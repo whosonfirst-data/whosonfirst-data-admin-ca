@@ -45,7 +45,7 @@
         "wk:page":"Trinity_Bellwoods_Park"
     },
     "wof:country":"CA",
-    "wof:geomhash":"c92e1deccbce6ebc6c4f60de42762c5a",
+    "wof:geomhash":"00e1bb69d896281c04a494cbcb135de8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -79.41429000000002,
     43.64806
 ],
-  "geometry": {"coordinates":[-79.41429000000002,43.64806],"type":"Point"}
+  "geometry": {"coordinates":[-79.41429,43.64806],"type":"Point"}
 }

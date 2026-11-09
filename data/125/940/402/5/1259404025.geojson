@@ -42,7 +42,7 @@
         "wk:page":"Waterloo%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"37579d12e914b8752854b7f87df14c9c",
+    "wof:geomhash":"678b3a42547ec5827c8b84471a9cbf9f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.68930999999999,
     44.32516
 ],
-  "geometry": {"coordinates":[-64.68930999999999,44.32516],"type":"Point"}
+  "geometry": {"coordinates":[-64.68931,44.32516],"type":"Point"}
 }

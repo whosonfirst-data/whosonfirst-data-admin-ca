@@ -42,7 +42,7 @@
         "wk:page":"North_Pine%2C_British_Columbia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fe87140eda844f72477c48dc9eb899bf",
+    "wof:geomhash":"d3b15fa6b3e52d70a6ff1be0b41aba56",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -120.71966,
     56.43318000000001
 ],
-  "geometry": {"coordinates":[-120.71966,56.43318000000001],"type":"Point"}
+  "geometry": {"coordinates":[-120.71966,56.43318],"type":"Point"}
 }

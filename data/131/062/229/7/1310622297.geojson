@@ -42,7 +42,7 @@
         "wk:page":"Bel_Ayr_Park%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"57e69484969f6c0205a9135f37187528",
+    "wof:geomhash":"12204dad57c589269d5a015a2ed56293",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.51088000000001,
     44.67281
 ],
-  "geometry": {"coordinates":[-63.51088000000001,44.67281],"type":"Point"}
+  "geometry": {"coordinates":[-63.51088,44.67281],"type":"Point"}
 }

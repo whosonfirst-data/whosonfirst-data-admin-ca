@@ -42,7 +42,7 @@
         "wk:page":"Churchview%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"ffbc02cbeac8386d4b5ca9a2152cbf68",
+    "wof:geomhash":"167639d35ff502505825fa7c6145fae5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -61.14508000000001,
     45.98749
 ],
-  "geometry": {"coordinates":[-61.14508000000001,45.98749],"type":"Point"}
+  "geometry": {"coordinates":[-61.14508,45.98749],"type":"Point"}
 }

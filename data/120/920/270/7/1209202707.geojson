@@ -39,7 +39,7 @@
         "wk:page":"Monchy%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"e2ade1a06666a69a900ac94270c6ce19",
+    "wof:geomhash":"1dab4e5442780a23baeb80b2b0e6de46",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -62,5 +62,5 @@
     -107.83462,
     49.01674000000001
 ],
-  "geometry": {"coordinates":[-107.83462,49.01674000000001],"type":"Point"}
+  "geometry": {"coordinates":[-107.83462,49.01674],"type":"Point"}
 }

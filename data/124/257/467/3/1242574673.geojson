@@ -42,7 +42,7 @@
         "wk:page":"Depot_Harbour%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"0e58c25403c0efdfa99fff4a5ecfe227",
+    "wof:geomhash":"d53140dc3d4b68959fc23bce8b87c1c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -80.09966999999997,
     45.3168
 ],
-  "geometry": {"coordinates":[-80.09966999999997,45.3168],"type":"Point"}
+  "geometry": {"coordinates":[-80.09967,45.3168],"type":"Point"}
 }

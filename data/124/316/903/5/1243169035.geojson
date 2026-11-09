@@ -42,7 +42,7 @@
         "wk:page":"Evanston%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"817d032acb4694a67d525d7461374f1c",
+    "wof:geomhash":"04fe78829fda1f04ac9ca45c47711e82",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -61.21523000000001,
     45.61684
 ],
-  "geometry": {"coordinates":[-61.21523000000001,45.61684],"type":"Point"}
+  "geometry": {"coordinates":[-61.21523,45.61684],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Vaughan%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"8edcf816a344acf96029b1afd24c847b",
+    "wof:geomhash":"a97679b270d137751a57762887f4af71",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.23118000000001,
     44.84067
 ],
-  "geometry": {"coordinates":[-64.23118000000001,44.84067],"type":"Point"}
+  "geometry": {"coordinates":[-64.23118,44.84067],"type":"Point"}
 }

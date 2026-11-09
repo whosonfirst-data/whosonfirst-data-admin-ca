@@ -42,7 +42,7 @@
         "wk:page":"Lymburn"
     },
     "wof:country":"CA",
-    "wof:geomhash":"34922b9febb6fefceee8116aa8b21138",
+    "wof:geomhash":"2c52f52f139409b6f4a0e4aebc9c7acc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -119.78609,
     55.34993000000001
 ],
-  "geometry": {"coordinates":[-119.78609,55.34993000000001],"type":"Point"}
+  "geometry": {"coordinates":[-119.78609,55.34993],"type":"Point"}
 }

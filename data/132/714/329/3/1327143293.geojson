@@ -42,7 +42,7 @@
         "wk:page":"Cedarvale%2C_British_Columbia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"31a9a1be63c51d7fd82196a37c77318c",
+    "wof:geomhash":"7563f53828d44c23a0b75e5045bb039a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -128.33275,
     55.01909000000001
 ],
-  "geometry": {"coordinates":[-128.33275,55.01909000000001],"type":"Point"}
+  "geometry": {"coordinates":[-128.33275,55.01909],"type":"Point"}
 }

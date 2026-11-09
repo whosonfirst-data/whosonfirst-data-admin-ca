@@ -42,7 +42,7 @@
         "wk:page":"Reynoldscroft%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d326c9d9f8279707cd3744e5e7b53299",
+    "wof:geomhash":"bca2fa50e0c0a28d6514f91416327a4c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.45508000000001,
     43.53229
 ],
-  "geometry": {"coordinates":[-65.45508000000001,43.53229],"type":"Point"}
+  "geometry": {"coordinates":[-65.45508,43.53229],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Upper_Big_Tracadie"
     },
     "wof:country":"CA",
-    "wof:geomhash":"13f02fdb7fa3a661ce765dd84e414c41",
+    "wof:geomhash":"0faec0f0379072069cbc817bf09f1693",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -61.58906999999999,
     45.57827
 ],
-  "geometry": {"coordinates":[-61.58906999999999,45.57827],"type":"Point"}
+  "geometry": {"coordinates":[-61.58907,45.57827],"type":"Point"}
 }

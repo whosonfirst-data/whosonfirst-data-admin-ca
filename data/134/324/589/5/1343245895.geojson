@@ -50,7 +50,7 @@
         "wk:page":"Nitchequon"
     },
     "wof:country":"CA",
-    "wof:geomhash":"c060e31e68492708446b5c702648e2ee",
+    "wof:geomhash":"cb64e6e2c9dcf7093e370ff43c0ffdf4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,5 +76,5 @@
     -70.90319000000002,
     53.19781
 ],
-  "geometry": {"coordinates":[-70.90319000000002,53.19781],"type":"Point"}
+  "geometry": {"coordinates":[-70.90319,53.19781],"type":"Point"}
 }

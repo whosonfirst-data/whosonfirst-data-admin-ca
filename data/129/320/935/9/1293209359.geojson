@@ -42,7 +42,7 @@
         "wk:page":"Grand_Rapids%2C_British_Columbia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"21d9fcb0bb271b8fc6395af618e5b3c2",
+    "wof:geomhash":"8b6a4929fe332da5ec7ba6a3af76a7c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -124.88333,
     54.78333000000001
 ],
-  "geometry": {"coordinates":[-124.88333,54.78333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-124.88333,54.78333],"type":"Point"}
 }

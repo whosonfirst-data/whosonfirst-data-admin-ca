@@ -48,7 +48,7 @@
         "wk:page":"Flat_Bay"
     },
     "wof:country":"CA",
-    "wof:geomhash":"cd20e398bd078904c8cb408a888cee5b",
+    "wof:geomhash":"75c8af4fa8bc70b7bba4d788b404f8e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,5 +74,5 @@
     -58.58181999999999,
     48.40002
 ],
-  "geometry": {"coordinates":[-58.58181999999999,48.40002],"type":"Point"}
+  "geometry": {"coordinates":[-58.58182,48.40002],"type":"Point"}
 }

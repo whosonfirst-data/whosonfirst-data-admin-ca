@@ -42,7 +42,7 @@
         "wk:page":"Indian_Pond"
     },
     "wof:country":"CA",
-    "wof:geomhash":"a57d5ee851d0110dde10cedd0cf29706",
+    "wof:geomhash":"e0346b745c1195d8565a00debce8c415",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -53.08136999999999,
     47.46659
 ],
-  "geometry": {"coordinates":[-53.08136999999999,47.46659],"type":"Point"}
+  "geometry": {"coordinates":[-53.08137,47.46659],"type":"Point"}
 }

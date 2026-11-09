@@ -42,7 +42,7 @@
         "wk:page":"Coldstream%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"305ffa50fd1b9a101c675ecd9d334dac",
+    "wof:geomhash":"17eb1b14101c5cba1799557362194a2a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.31538000000001,
     45.06685
 ],
-  "geometry": {"coordinates":[-63.31538000000001,45.06685],"type":"Point"}
+  "geometry": {"coordinates":[-63.31538,45.06685],"type":"Point"}
 }

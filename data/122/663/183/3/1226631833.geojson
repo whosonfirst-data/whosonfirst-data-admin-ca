@@ -42,7 +42,7 @@
         "wk:page":"Nixon%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"8937f2821adaf1e193e901d8cb73aa26",
+    "wof:geomhash":"f2e69a62afac84a06117988a7e0d4739",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -80.40035999999998,
     42.85098
 ],
-  "geometry": {"coordinates":[-80.40035999999998,42.85098],"type":"Point"}
+  "geometry": {"coordinates":[-80.40036,42.85098],"type":"Point"}
 }

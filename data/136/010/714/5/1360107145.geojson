@@ -42,7 +42,7 @@
         "wk:page":"Port_Granby%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"1d71c478d47d902b8e9ab12fb403ff11",
+    "wof:geomhash":"cd35b66deddb00875bfd91c3462cb651",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -78.46667,
     43.90472000000001
 ],
-  "geometry": {"coordinates":[-78.46666999999999,43.90472000000001],"type":"Point"}
+  "geometry": {"coordinates":[-78.46667,43.90472],"type":"Point"}
 }

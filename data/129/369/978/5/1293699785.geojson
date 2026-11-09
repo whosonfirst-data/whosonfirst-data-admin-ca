@@ -42,7 +42,7 @@
         "wk:page":"Silver_River%2C_British_Columbia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"81290ed746d98400d3acb27f06282d59",
+    "wof:geomhash":"b17518fc662b506cd88d5a01632cc868",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -121.81927,
     49.56639000000001
 ],
-  "geometry": {"coordinates":[-121.81927,49.56639000000001],"type":"Point"}
+  "geometry": {"coordinates":[-121.81927,49.56639],"type":"Point"}
 }

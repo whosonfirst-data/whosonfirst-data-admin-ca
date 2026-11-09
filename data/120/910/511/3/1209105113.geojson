@@ -51,7 +51,7 @@
         "wk:page":"River_of_Ponds"
     },
     "wof:country":"CA",
-    "wof:geomhash":"7cad481bc4fcfae3bc62d978670cf5f3",
+    "wof:geomhash":"22ada87c1499f3e237624f3119f486ba",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -74,5 +74,5 @@
     -57.39823000000001,
     50.53336
 ],
-  "geometry": {"coordinates":[-57.39823000000001,50.53336],"type":"Point"}
+  "geometry": {"coordinates":[-57.39823,50.53336],"type":"Point"}
 }

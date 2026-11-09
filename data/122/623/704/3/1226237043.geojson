@@ -45,7 +45,7 @@
         "wk:page":"L%27Archeveque%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d0ec9f7a64b905595086ff11096956b6",
+    "wof:geomhash":"57c777a80afc8cbefcbaa48debf99e49",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -60.57743000000001,
     45.62613
 ],
-  "geometry": {"coordinates":[-60.57743000000001,45.62613],"type":"Point"}
+  "geometry": {"coordinates":[-60.57743,45.62613],"type":"Point"}
 }

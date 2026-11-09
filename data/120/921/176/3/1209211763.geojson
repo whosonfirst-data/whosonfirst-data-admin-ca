@@ -45,7 +45,7 @@
         "wk:page":"Gays_River"
     },
     "wof:country":"CA",
-    "wof:geomhash":"76624a8ff41067a5cf4501a7299940a9",
+    "wof:geomhash":"501cfb4d29e966f21402f0f31a5f34fa",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -68,5 +68,5 @@
     -63.35469000000001,
     45.03386
 ],
-  "geometry": {"coordinates":[-63.35469000000001,45.03386],"type":"Point"}
+  "geometry": {"coordinates":[-63.35469,45.03386],"type":"Point"}
 }

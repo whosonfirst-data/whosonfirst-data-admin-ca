@@ -45,7 +45,7 @@
         "wk:page":"Kinuso"
     },
     "wof:country":"CA",
-    "wof:geomhash":"3df011b45213cd17d61cc67f8e0ef7fc",
+    "wof:geomhash":"57e743cd084bac87fa70f0fdaa86dd4c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -115.41906000000002,
     55.33342
 ],
-  "geometry": {"coordinates":[-115.41906000000002,55.33342],"type":"Point"}
+  "geometry": {"coordinates":[-115.41906,55.33342],"type":"Point"}
 }

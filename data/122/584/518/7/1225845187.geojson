@@ -42,7 +42,7 @@
         "wk:page":"Waterborough%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"357c7a6a8a9b97a12846468feb8a583f",
+    "wof:geomhash":"b25e1273b6598309028d0d6fa34a369d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -66.0,
     45.91667
 ],
-  "geometry": {"coordinates":[-66.0,45.91667],"type":"Point"}
+  "geometry": {"coordinates":[-66,45.91667],"type":"Point"}
 }

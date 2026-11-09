@@ -42,7 +42,7 @@
         "wk:page":"Middle_Ohio%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"b2b4825a9eb93e8b5fc9fcdd1ffa1e59",
+    "wof:geomhash":"007f25938da04e682e33e12a731b811b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.40583000000001,
     43.92604
 ],
-  "geometry": {"coordinates":[-65.40583000000001,43.92604],"type":"Point"}
+  "geometry": {"coordinates":[-65.40583,43.92604],"type":"Point"}
 }

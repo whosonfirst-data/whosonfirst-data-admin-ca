@@ -45,7 +45,7 @@
         "wk:page":"Goodfare"
     },
     "wof:country":"CA",
-    "wof:geomhash":"387fe6eee42bb2f186224fbb5f6d2935",
+    "wof:geomhash":"720ca4d22eaeda52b6c1447d058e2134",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -119.71947,
     55.26663000000001
 ],
-  "geometry": {"coordinates":[-119.71947,55.26663000000001],"type":"Point"}
+  "geometry": {"coordinates":[-119.71947,55.26663],"type":"Point"}
 }

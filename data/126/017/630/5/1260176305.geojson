@@ -42,7 +42,7 @@
         "wk:page":"Renfrew%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"eb55035812c705c54da8985f14de2497",
+    "wof:geomhash":"f5a99b5c8b8266e12ebd08e2dcac43c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.62965,
     45.00604000000001
 ],
-  "geometry": {"coordinates":[-63.62965,45.00604000000001],"type":"Point"}
+  "geometry": {"coordinates":[-63.62965,45.00604],"type":"Point"}
 }

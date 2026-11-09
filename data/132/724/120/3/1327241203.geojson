@@ -42,7 +42,7 @@
         "wk:page":"Carrot_Creek%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fb0d9223676a12e98f776729c776f644",
+    "wof:geomhash":"353cdcd8475e6f43b67479b3c477dc35",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -115.85221,
     53.61683000000001
 ],
-  "geometry": {"coordinates":[-115.85221,53.61683000000001],"type":"Point"}
+  "geometry": {"coordinates":[-115.85221,53.61683],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Kitigan%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"125854450e638b6a13efc7da65bf00de",
+    "wof:geomhash":"1e0d6995577c011e4bda3a6d7a3e0e68",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -82.29889,
     49.38444000000001
 ],
-  "geometry": {"coordinates":[-82.29889,49.38444000000001],"type":"Point"}
+  "geometry": {"coordinates":[-82.29889,49.38444],"type":"Point"}
 }

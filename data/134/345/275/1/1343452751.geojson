@@ -42,7 +42,7 @@
         "wk:page":"Shinimicas_Bridge"
     },
     "wof:country":"CA",
-    "wof:geomhash":"b790b661edc0d43d97ad8efa79567612",
+    "wof:geomhash":"16f553ef7d28f62914835a4fe01462d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -63.90929000000001,
     45.87221
 ],
-  "geometry": {"coordinates":[-63.90929000000001,45.87221],"type":"Point"}
+  "geometry": {"coordinates":[-63.90929,45.87221],"type":"Point"}
 }

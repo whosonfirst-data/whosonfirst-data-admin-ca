@@ -45,7 +45,7 @@
         "wk:page":"Medford%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"51b58f56e17b372f30f80272d4b0586b",
+    "wof:geomhash":"67f8525ef50f0d28d7e303e7deb88421",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -64.36820999999999,
     45.18338
 ],
-  "geometry": {"coordinates":[-64.36820999999999,45.18338],"type":"Point"}
+  "geometry": {"coordinates":[-64.36821,45.18338],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Forties%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"87830d54fb37ffedef6970700a02fe79",
+    "wof:geomhash":"28df76ef989d4d9d8386cb259ac915e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.56761999999999,
     44.73158
 ],
-  "geometry": {"coordinates":[-64.56761999999999,44.73158],"type":"Point"}
+  "geometry": {"coordinates":[-64.56762,44.73158],"type":"Point"}
 }

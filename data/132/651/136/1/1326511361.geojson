@@ -42,7 +42,7 @@
         "wk:page":"North_Shore_Fishing_Lake%2C_Saskatchewan"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f9d37f7f68ec0ae9daf6f35d47533803",
+    "wof:geomhash":"f105634ab0786170b1849ed8ab2a9092",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -103.5177,
     51.84999000000001
 ],
-  "geometry": {"coordinates":[-103.5177,51.84999000000001],"type":"Point"}
+  "geometry": {"coordinates":[-103.5177,51.84999],"type":"Point"}
 }

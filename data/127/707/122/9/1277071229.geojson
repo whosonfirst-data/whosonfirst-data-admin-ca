@@ -42,7 +42,7 @@
         "wk:page":"Gardiner_Mines"
     },
     "wof:country":"CA",
-    "wof:geomhash":"5595ba283a20979692cdac8f8565f8f8",
+    "wof:geomhash":"eef5a5fc0429e7575d7108619df4596c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -60.0475,
     46.20849000000001
 ],
-  "geometry": {"coordinates":[-60.0475,46.20849000000001],"type":"Point"}
+  "geometry": {"coordinates":[-60.0475,46.20849],"type":"Point"}
 }

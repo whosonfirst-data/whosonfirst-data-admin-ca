@@ -54,7 +54,7 @@
         "wk:page":"St._Jacques-Coomb%27s_Cove"
     },
     "wof:country":"CA",
-    "wof:geomhash":"8222c8696b429d0c531987b3fe3c1335",
+    "wof:geomhash":"4822f63ce1c4884f8effff17ec62f8ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,5 +80,5 @@
     -55.51501,
     47.46664000000001
 ],
-  "geometry": {"coordinates":[-55.51501,47.46664000000001],"type":"Point"}
+  "geometry": {"coordinates":[-55.51501,47.46664],"type":"Point"}
 }

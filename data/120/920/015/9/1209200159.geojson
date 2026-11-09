@@ -39,7 +39,7 @@
         "wk:page":"Hope%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"728de1fee00a809dfb122bc064cc231b",
+    "wof:geomhash":"ef9120f52b2969fe14f5bfd8f238af8b",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -62,5 +62,5 @@
     -79.51847,
     43.88417000000001
 ],
-  "geometry": {"coordinates":[-79.51846999999999,43.88417000000001],"type":"Point"}
+  "geometry": {"coordinates":[-79.51847,43.88417],"type":"Point"}
 }

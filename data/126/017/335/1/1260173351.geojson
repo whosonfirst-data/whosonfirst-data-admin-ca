@@ -45,7 +45,7 @@
         "wk:page":"Round_Hill%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"79cf9052d4dfcd1b4fc7c1ab86669909",
+    "wof:geomhash":"002533fda22d3a5ae5c1f9833d56d46d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -65.40831999999999,
     44.77054
 ],
-  "geometry": {"coordinates":[-65.40831999999999,44.77054],"type":"Point"}
+  "geometry": {"coordinates":[-65.40832,44.77054],"type":"Point"}
 }

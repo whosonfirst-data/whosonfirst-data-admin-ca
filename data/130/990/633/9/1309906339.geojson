@@ -42,7 +42,7 @@
         "wk:page":"White_Rapids%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"7b764c5bbb3292defc4a6c8db360c4e2",
+    "wof:geomhash":"baf6905ffc0350e3927d8fd4564b73a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -65.78263000000001,
     46.79571
 ],
-  "geometry": {"coordinates":[-65.78263000000001,46.79571],"type":"Point"}
+  "geometry": {"coordinates":[-65.78263,46.79571],"type":"Point"}
 }

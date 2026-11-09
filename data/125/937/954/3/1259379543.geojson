@@ -42,7 +42,7 @@
         "wk:page":"Yarmouth_Bar%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"5066bdc94b2bcb57b1545e73aaa9f381",
+    "wof:geomhash":"666a19719680b5581f51f8870729779e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -66.14768000000001,
     43.81848
 ],
-  "geometry": {"coordinates":[-66.14768000000001,43.81848],"type":"Point"}
+  "geometry": {"coordinates":[-66.14768,43.81848],"type":"Point"}
 }

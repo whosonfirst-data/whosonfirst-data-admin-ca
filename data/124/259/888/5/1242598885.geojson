@@ -42,7 +42,7 @@
         "wk:page":"Grandique_Ferry%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"518b01d7d3da15039fff06c50e5e2437",
+    "wof:geomhash":"f92bf35622edfd89f407c1973f96a69c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -61.02773000000001,
     45.59848
 ],
-  "geometry": {"coordinates":[-61.02773000000001,45.59848],"type":"Point"}
+  "geometry": {"coordinates":[-61.02773,45.59848],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Mount_Lorne"
     },
     "wof:country":"CA",
-    "wof:geomhash":"3930aa42df824772325903d94a667234",
+    "wof:geomhash":"d9a01ef92b324229e9e206967a2c1f30",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,5 +77,5 @@
     -134.86095,
     60.44756999999999
 ],
-  "geometry": {"coordinates":[-134.86095,60.44756999999999],"type":"Point"}
+  "geometry": {"coordinates":[-134.86095,60.44757],"type":"Point"}
 }

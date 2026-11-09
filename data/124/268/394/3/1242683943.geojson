@@ -42,7 +42,7 @@
         "wk:page":"Saint-Charles%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"55723ff3101ad3e5657c6d09ba899480",
+    "wof:geomhash":"68897d3626107c1ec6da226acbcb9ce0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.97636,
     46.66739000000001
 ],
-  "geometry": {"coordinates":[-64.97636,46.66739000000001],"type":"Point"}
+  "geometry": {"coordinates":[-64.97636,46.66739],"type":"Point"}
 }

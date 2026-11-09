@@ -42,7 +42,7 @@
         "wk:page":"Lingan_Road"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f6012ef428a1ee4a552b82f5130c4158",
+    "wof:geomhash":"e82cc4d17ff7a09dd89501962e6c3981",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -60.13323000000001,
     46.18255
 ],
-  "geometry": {"coordinates":[-60.13323000000001,46.18255],"type":"Point"}
+  "geometry": {"coordinates":[-60.13323,46.18255],"type":"Point"}
 }

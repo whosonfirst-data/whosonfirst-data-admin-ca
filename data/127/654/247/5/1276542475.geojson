@@ -42,7 +42,7 @@
         "wk:page":"Kukatush%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"2820411fd8033bd2b4456bb96f177f17",
+    "wof:geomhash":"8d9a0e0da22fdfa64625ac396716a850",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -82.20154000000002,
     48.1301
 ],
-  "geometry": {"coordinates":[-82.20154000000002,48.1301],"type":"Point"}
+  "geometry": {"coordinates":[-82.20154,48.1301],"type":"Point"}
 }

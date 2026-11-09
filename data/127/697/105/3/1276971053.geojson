@@ -57,7 +57,7 @@
         "wk:page":"Hebbville%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d9035bc83a8ec86f415a2be8f98aba6e",
+    "wof:geomhash":"30b3716959124d68f42e8dbb8e19bb6c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,5 +83,5 @@
     -64.53206999999999,
     44.35015
 ],
-  "geometry": {"coordinates":[-64.53206999999999,44.35015],"type":"Point"}
+  "geometry": {"coordinates":[-64.53207,44.35015],"type":"Point"}
 }

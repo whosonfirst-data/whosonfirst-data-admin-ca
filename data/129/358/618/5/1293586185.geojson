@@ -45,7 +45,7 @@
         "wk:page":"Upper_Granville"
     },
     "wof:country":"CA",
-    "wof:geomhash":"0d6a0d9799c87f13dd58f8872381af04",
+    "wof:geomhash":"1ba29c80ff4db51c430b2237d14146a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -65.34510999999999,
     44.82602
 ],
-  "geometry": {"coordinates":[-65.34510999999999,44.82602],"type":"Point"}
+  "geometry": {"coordinates":[-65.34511,44.82602],"type":"Point"}
 }

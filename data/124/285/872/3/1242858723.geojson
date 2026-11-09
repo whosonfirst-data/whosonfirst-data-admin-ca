@@ -45,7 +45,7 @@
         "wk:page":"Alexandra%2C_Prince_Edward_Island"
     },
     "wof:country":"CA",
-    "wof:geomhash":"b495821ec857a8f691bd5d673adeaf74",
+    "wof:geomhash":"d741c11bbd7b5ce3480dff5b9f4e0c57",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -63.03058000000001,
     46.19592
 ],
-  "geometry": {"coordinates":[-63.03058000000001,46.19592],"type":"Point"}
+  "geometry": {"coordinates":[-63.03058,46.19592],"type":"Point"}
 }

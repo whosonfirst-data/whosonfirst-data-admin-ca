@@ -42,7 +42,7 @@
         "wk:page":"Deadwood%2C_British_Columbia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"af2b889d4cbd317e3bd1383ac97af63d",
+    "wof:geomhash":"09ac0b4bd564dd2d4a4a8d20d924b0f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -118.70231,
     49.09979000000001
 ],
-  "geometry": {"coordinates":[-118.70231,49.09979000000001],"type":"Point"}
+  "geometry": {"coordinates":[-118.70231,49.09979],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Varney%2C_Ontario"
     },
     "wof:country":"CA",
-    "wof:geomhash":"c3d4b0165cdcf5114c3ac1c01232b386",
+    "wof:geomhash":"e9f281da03fab7624743af89239dcae1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -80.81123000000002,
     44.13479
 ],
-  "geometry": {"coordinates":[-80.81123000000002,44.13479],"type":"Point"}
+  "geometry": {"coordinates":[-80.81123,44.13479],"type":"Point"}
 }

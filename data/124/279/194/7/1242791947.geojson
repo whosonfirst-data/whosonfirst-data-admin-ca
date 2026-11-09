@@ -48,7 +48,7 @@
         "wk:page":"Wagner%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d1f338653b01177d1f4f36f55becaec3",
+    "wof:geomhash":"de419d0814bd1abb762b80d90e3a6b56",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,5 +74,5 @@
     -114.98559,
     55.35013000000001
 ],
-  "geometry": {"coordinates":[-114.98559,55.35013000000001],"type":"Point"}
+  "geometry": {"coordinates":[-114.98559,55.35013],"type":"Point"}
 }

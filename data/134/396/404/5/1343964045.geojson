@@ -42,7 +42,7 @@
         "wk:page":"McGivney%2C_New_Brunswick"
     },
     "wof:country":"CA",
-    "wof:geomhash":"a8acac0f2723ca840984677566aa44fc",
+    "wof:geomhash":"df44923e69d1844b218fb1b5f91975e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -66.56754000000001,
     46.36411
 ],
-  "geometry": {"coordinates":[-66.56754000000001,46.36411],"type":"Point"}
+  "geometry": {"coordinates":[-66.56754,46.36411],"type":"Point"}
 }

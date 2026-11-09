@@ -42,7 +42,7 @@
         "wk:page":"Big_Coulee%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"a7d06c789f1200ed6d1071796ae4778a",
+    "wof:geomhash":"06fa2e21c32448cc5ef02c88a929fdc8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -113.28538,
     54.88348000000001
 ],
-  "geometry": {"coordinates":[-113.28538,54.88348000000001],"type":"Point"}
+  "geometry": {"coordinates":[-113.28538,54.88348],"type":"Point"}
 }

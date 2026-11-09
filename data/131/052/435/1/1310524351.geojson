@@ -54,7 +54,7 @@
         "wk:page":"Bide_Arm"
     },
     "wof:country":"CA",
-    "wof:geomhash":"e2750fbb677289bc2cd4cba3b11c8761",
+    "wof:geomhash":"f03d0892cf6b2786ffc7bfdc3222b874",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,5 +80,5 @@
     -56.09809,
     50.81679000000001
 ],
-  "geometry": {"coordinates":[-56.09809,50.81679000000001],"type":"Point"}
+  "geometry": {"coordinates":[-56.09809,50.81679],"type":"Point"}
 }

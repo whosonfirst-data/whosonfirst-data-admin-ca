@@ -42,7 +42,7 @@
         "wk:page":"West_Brooklyn%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"4c20ce8bdafa9f5d3b880f18a8ad144b",
+    "wof:geomhash":"320457f44171ed5b63135bdaf9cd0f83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -64.26843000000001,
     45.07671
 ],
-  "geometry": {"coordinates":[-64.26843000000001,45.07671],"type":"Point"}
+  "geometry": {"coordinates":[-64.26843,45.07671],"type":"Point"}
 }
