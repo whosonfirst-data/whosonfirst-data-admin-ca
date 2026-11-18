@@ -74,9 +74,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Miramichi"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u7c73\u62c9\u7c73\u5947\u6cb3"
-    ],
     "name:zho_tw_x_preferred":[
         "\u7c73\u62c9\u7c73\u5951"
     ],
@@ -104,7 +101,7 @@
         }
     ],
     "wof:id":1209812151,
-    "wof:lastmodified":1636414313,
+    "wof:lastmodified":1794999722,
     "wof:name":"Miramichi",
     "wof:parent_id":890458013,
     "wof:placetype":"locality",

@@ -82,9 +82,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Daly"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u8fbe\u5229\u6cb3"
-    ],
     "name:zho_tw_x_preferred":[
         "\u6234\u5229"
     ],
@@ -128,7 +125,7 @@
         }
     ],
     "wof:id":101734943,
-    "wof:lastmodified":1722051506,
+    "wof:lastmodified":1794999722,
     "wof:name":"Daly",
     "wof:parent_id":1158868985,
     "wof:placetype":"locality",

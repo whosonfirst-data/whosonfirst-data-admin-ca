@@ -83,12 +83,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Flathead"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5f17\u5170\u65af\u5fb7\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u592b\u62c9\u7279\u8d6b\u5fb7\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -112,7 +106,7 @@
         }
     ],
     "wof:id":1209923261,
-    "wof:lastmodified":1636414309,
+    "wof:lastmodified":1794999722,
     "wof:name":"Flathead",
     "wof:parent_id":890456529,
     "wof:placetype":"locality",

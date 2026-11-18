@@ -71,12 +71,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng  =St.-Maurice"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5723\u83ab\u91cc\u65af\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u8056\u83ab\u5e0c\u65af\u6cb3"
-    ],
     "qs_pg:aaroncc":"CA",
     "qs_pg:gn_country":"CA",
     "qs_pg:gn_fcode":"PPL",
@@ -127,7 +121,7 @@
         }
     ],
     "wof:id":1125991707,
-    "wof:lastmodified":1690865333,
+    "wof:lastmodified":1794999722,
     "wof:name":"St.-Maurice",
     "wof:parent_id":1158884881,
     "wof:placetype":"locality",

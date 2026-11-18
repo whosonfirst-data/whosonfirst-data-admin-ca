@@ -168,9 +168,6 @@
     "name:vol_x_preferred":[
         "Miramichi"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u7c73\u62c9\u7c73\u5947\u6cb3"
-    ],
     "name:zho_tw_x_preferred":[
         "\u7c73\u62c9\u7c73\u5951"
     ],
@@ -229,7 +226,7 @@
         }
     ],
     "wof:id":101735337,
-    "wof:lastmodified":1722051526,
+    "wof:lastmodified":1794999722,
     "wof:name":"Miramichi",
     "wof:parent_id":890458001,
     "wof:placetype":"locality",

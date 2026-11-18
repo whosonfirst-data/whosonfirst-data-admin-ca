@@ -40,12 +40,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Mackenzie"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u9ea6\u80af\u9f50\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u99ac\u80af\u5409\u6cb3"
-    ],
     "qs:a0":"Canada",
     "qs:a1":"*British Columbia",
     "qs:a1_lc":"BC",
@@ -94,7 +88,7 @@
         }
     ],
     "wof:id":101740819,
-    "wof:lastmodified":1690864614,
+    "wof:lastmodified":1794999722,
     "wof:name":"Mackenzie",
     "wof:parent_id":890457209,
     "wof:placetype":"locality",

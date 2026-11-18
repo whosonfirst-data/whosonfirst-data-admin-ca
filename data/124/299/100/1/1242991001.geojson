@@ -76,9 +76,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Rupert"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u9c81\u73c0\u7279\u6cb3"
-    ],
     "name:zho_tw_x_preferred":[
         "\u9b6f\u4f2f\u7279"
     ],
@@ -106,7 +103,7 @@
         }
     ],
     "wof:id":1242991001,
-    "wof:lastmodified":1636414442,
+    "wof:lastmodified":1794999722,
     "wof:name":"Rupert",
     "wof:parent_id":890458027,
     "wof:placetype":"locality",

@@ -101,12 +101,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Eastmain"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u4f0a\u65af\u7279\u6885\u6069\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u4f0a\u65af\u7279\u7f8e\u56e0\u6cb3"
-    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
     "ne:ADM0_A3":"CAN",
@@ -257,7 +251,7 @@
         }
     ],
     "wof:id":101748005,
-    "wof:lastmodified":1722051535,
+    "wof:lastmodified":1794999722,
     "wof:name":"Eastmain",
     "wof:parent_id":890457169,
     "wof:placetype":"locality",

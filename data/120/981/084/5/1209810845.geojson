@@ -80,12 +80,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Winisk"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5a01\u5c3c\u65af\u514b\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5a01\u5c3c\u65af\u514b\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -110,7 +104,7 @@
         }
     ],
     "wof:id":1209810845,
-    "wof:lastmodified":1636414312,
+    "wof:lastmodified":1794999722,
     "wof:name":"Winisk",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",
