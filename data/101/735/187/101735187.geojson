@@ -246,12 +246,6 @@
     "name:yue_x_preferred":[
         "\u8056\u7d04\u7ff0"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5723\u7ea6\u7ff0\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u8056\u7d04\u7ff0\u6cb3"
-    ],
     "name:zho_x_preferred":[
         "\u5723\u7ea6\u7ff0"
     ],
@@ -314,7 +308,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1722051528,
+    "wof:lastmodified":1794999722,
     "wof:name":"Saint John",
     "wof:parent_id":890458005,
     "wof:placetype":"locality",

@@ -99,12 +99,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Natashquan"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u7eb3\u5854\u4ec0\u6606\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u7d0d\u5854\u4ec0\u5bec\u6cb3"
-    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
     "ne:ADM0_A3":"CAN",
@@ -280,7 +274,7 @@
         }
     ],
     "wof:id":101737869,
-    "wof:lastmodified":1722051534,
+    "wof:lastmodified":1794999722,
     "wof:name":"Natashquan",
     "wof:parent_id":890456849,
     "wof:placetype":"locality",

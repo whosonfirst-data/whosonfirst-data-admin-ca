@@ -361,14 +361,8 @@
     "name:yue_x_preferred":[
         "\u57df\u591a\u5229"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u7ef4\u591a\u5229\u4e9a\u6cb3"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Victoria"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u7dad\u591a\u5229\u4e9e\u6cb3"
     ],
     "name:zho_x_preferred":[
         "\u7dad\u591a\u5229\u4e9e"
@@ -528,7 +522,7 @@
         }
     ],
     "wof:id":101740879,
-    "wof:lastmodified":1690864640,
+    "wof:lastmodified":1794999722,
     "wof:megacity":0,
     "wof:name":"Victoria",
     "wof:parent_id":890456487,

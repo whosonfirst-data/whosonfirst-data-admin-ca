@@ -77,12 +77,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Mitchell"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u7c73\u5207\u5c14\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u7c73\u5951\u723e\u6cb3"
-    ],
     "qs_pg:aaroncc":"CA",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Mitchell",
@@ -131,7 +125,7 @@
         }
     ],
     "wof:id":1125887911,
-    "wof:lastmodified":1690865305,
+    "wof:lastmodified":1794999722,
     "wof:name":"Mitchell",
     "wof:parent_id":1158869059,
     "wof:placetype":"locality",
