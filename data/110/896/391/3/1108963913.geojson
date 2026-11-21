@@ -10,8 +10,8 @@
     "geom:latitude":51.10482,
     "geom:longitude":-114.057632,
     "iso:country":"CA",
-    "lbl:latitude":51.108753,
-    "lbl:longitude":-114.047649,
+    "lbl:latitude":51.106433,
+    "lbl:longitude":-114.058274,
     "lbl:max_zoom":18.0,
     "mps:latitude":51.106337,
     "mps:longitude":-114.058281,
@@ -24,6 +24,7 @@
     "reversegeo:latitude":51.106337,
     "reversegeo:longitude":-114.058281,
     "src:geom":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85682091,
         102191575,
